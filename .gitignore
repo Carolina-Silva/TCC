@@ -212,4 +212,7 @@ __marimo__/
 
 
 # data
-/data
+data/input
+data/interim
+data/processed
+data/raw

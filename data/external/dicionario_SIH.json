@@ -1,7 +1,7 @@
 [
   {"old_name":"UF_ZI","new_name":"municipio_gestor","desc":"Município Gestor"},
   {"old_name":"ANO_CMPT","new_name":"ano_competencia","desc":"Ano de processamento da AIH"},
-  {"old_name":"MES_CM","new_name":"mes_competencia","desc":"Mês de processamento da AIH"},
+  {"old_name":"MES_CMPT","new_name":"mes_competencia","desc":"Mês de processamento da AIH"},
   {"old_name":"ESPEC","new_name":"especialidade_leito","desc":"Especialidade do leito"},
   {"old_name":"CGC_HOSP","new_name":"cnpj_hospital","desc":"CNPJ do estabelecimento"},
   {"old_name":"N_AIH","new_name":"numero_aih","desc":"Número da AIH"},
