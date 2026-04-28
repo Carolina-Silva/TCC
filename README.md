@@ -30,30 +30,28 @@ A base integra registros de internação (SIH/AIH) com dados estruturais dos hos
 iam-sus-mortality/
 │
 ├── data/
-│   ├── raw/            # Dados brutos extraídos via pysus — NUNCA modificados
+│   ├── raw/            # Dados brutos extraídos via FTP do DATASUS — NUNCA modificados
+│   ├── input/          # Dados transformados de .dbc para .csv 
 │   ├── interim/        # Dados intermediários (limpeza, merge SIH+CNES)
 │   ├── processed/      # Base final pronta para modelagem
 │   └── external/       # Dicionários, metadados CNES, tabelas CID-10
 │
 ├── notebooks/
-│   ├── 01_coleta_dados.ipynb         # Extração via pysus, inspeção inicial
+│   ├── 01_coleta_dados.ipynb         # Extração, inspeção inicial
 │   ├── 02_eda.ipynb                  # Análise exploratória e visualizações
 │   ├── 03_feature_engineering.ipynb  # Merge SIH+CNES, criação de variáveis
 │   ├── 04_modelagem.ipynb            # Treino, tuning e comparação de modelos
 │   └── 05_analise_sobrevivencia.ipynb # Kaplan-Meier, regressão de Cox
 │
 ├── src/
-│   ├── data_collection.py  # Funções de extração via pysus
-│   ├── preprocessing.py    # Limpeza, merge, encoding
-│   ├── models.py           # Definição e treino dos modelos
-│   ├── evaluate.py         # Métricas, SHAP, curvas ROC/PR
+│   ├── converter_dbc_para_csv.py         # Função criada para converção de tipo .dbc para .csv
+│   ├── donwload_data_from_datasus.py     # Função de download FTP dos dados puros do DATASUS
 │   └── utils.py            # Helpers, constantes, logging
 │
 ├── reports/
 │   ├── figures/        # Gráficos e visualizações exportados
 │   └── results/        # Métricas, tabelas e outputs dos modelos
 │
-├── Makefile            # Comandos do projeto (ver abaixo)
 ├── requirements.txt    # Dependências com versões fixas
 └── .gitignore
 ```
@@ -66,8 +64,7 @@ iam-sus-mortality/
 
 ### Pré-requisitos
 
-- Python >= 3.10
-- `make` instalado (nativo no Linux/macOS; no Windows use [WSL](https://learn.microsoft.com/pt-br/windows/wsl/) ou [Git Bash](https://gitforwindows.org/))
+- Python >= 3.11
 
 ### Passos
 
@@ -77,37 +74,20 @@ git clone https://github.com/<seu-usuario>/iam-sus-mortality.git
 cd iam-sus-mortality
 
 # 2. Crie o ambiente virtual e instale as dependências
-make setup
+
 
 # 3. Ative o ambiente virtual
-source .venv/bin/activate       # Linux/macOS
-# .venv\Scripts\activate        # Windows
+   # Linux/macOS
+   # Windows
 
 # 4. Execute o pipeline completo
-make all
-```
 
-Pronto. O comando `make all` cria a estrutura de pastas, coleta os dados, processa, treina os modelos e gera os resultados.
+```
 
 ### Comandos disponíveis
 
 ```
-make help           → lista todos os comandos
-make setup          → cria venv + instala dependências (primeiro uso)
-make all            → pipeline completo do zero
 
-make collect        → [1/4] coleta dados do DATASUS via pysus
-make preprocess     → [2/4] limpeza e merge SIH+CNES
-make train          → [3/4] treino e avaliação dos modelos
-make evaluate       → [4/4] métricas, SHAP e figuras
-
-make notebooks      → executa todos os notebooks em ordem
-make lab            → abre o Jupyter Lab
-
-make lint           → verifica estilo do código
-make format         → formata o código com black
-make clean          → remove outputs gerados (mantém dados)
-make clean-all      → limpeza completa (mantém só data/raw/)
 ```
 
 ---
@@ -115,7 +95,7 @@ make clean-all      → limpeza completa (mantém só data/raw/)
 ## Pipeline
 
 ```
-pysus (SIH + CNES)
+DATASUS (SIH + CNES)
         │
         ▼
   data/raw/              ← extração bruta, sem modificação
