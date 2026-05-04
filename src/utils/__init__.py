@@ -1,2 +1,2 @@
-from .donwload_data_from_datasus import donwload_data
+from .download_data_from_datasus import download_data
 from .converter_dbc_para_csv import converter_dbc_para_csv_lote

@@ -12,7 +12,7 @@ _FTP_PATHS = {
 }
 
 
-def donwload_data(
+def download_data(
     estados: List[str] = None,
     anos: List[int] = None,
     sistema: str = "SIM",
