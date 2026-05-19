@@ -1,0 +1,40 @@
+codigo,descricao,macro
+1023,Empresa Pública,Outro
+1031,Empresa de Economia Mista,Outro
+1040,Empresa Privada,Outro
+1058,Empresa Individual,Outro
+1066,Empresa Individual de Responsabilidade Limitada,Outro
+1074,Empresa Individual Imobiliária,Outro
+1082,Empresa com Sócio-Gerente,Outro
+1104,Empresa Inativa,Outro
+2011,Órgão Público do Poder Executivo Federal,Público
+2038,Órgão Público do Poder Executivo Estadual,Público
+2046,Órgão Público do Poder Executivo Municipal,Público
+2054,Órgão Público do Poder Legislativo Federal,Público
+2062,Órgão Público do Poder Judiciário Federal,Público
+3034,Autarquia Federal,Público
+3069,Fundação Pública de Direito Público Federal,Público
+3077,Fundação Pública de Direito Público Estadual,Público
+3085,Fundação Pública de Direito Público Municipal,Público
+3093,Fundação Pública de Direito Privado,Público
+3999,Outras Fundações Públicas,Público
+4014,Autarquia Estadual,Público
+4022,Autarquia Municipal,Público
+5010,Associação Privada,Privado sem fins lucrativos
+5029,Fundação Privada,Privado sem fins lucrativos
+5037,Organização Religiosa,Privado sem fins lucrativos
+5045,Organização Social (OS),OS/OSCIP
+5053,Organização da Sociedade Civil de Interesse Público (OSCIP),OS/OSCIP
+5061,Sindicato,Privado com fins lucrativos
+5070,Entidade Sindical,Privado com fins lucrativos
+5088,Federação,Privado com fins lucrativos
+5096,Confederação,Privado com fins lucrativos
+5118,Partido Político,Privado com fins lucrativos
+5126,Entidade de Fiscalização do Exercício das Profissões,Privado com fins lucrativos
+5134,Fundo Privado,Privado com fins lucrativos
+5142,Órgão de Direção Nacional de Partido Político,Privado com fins lucrativos
+5150,Serviço Social Autônomo,Privado com fins lucrativos
+5169,Comissão de Conciliação Prévia,Privado com fins lucrativos
+5177,Entidade Fechada de Previdência Complementar,Privado com fins lucrativos
+6017,Empresa Individual de Responsabilidade Limitada (EIRELI),Privado com fins lucrativos
+8885,Natureza Jurídica não informada,Privado com fins lucrativos
