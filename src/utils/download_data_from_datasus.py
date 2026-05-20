@@ -1,6 +1,6 @@
 import os
 import ftplib
-from typing import List
+from typing import List, Optional
 
 # Mapeamento dos caminhos FTP por sistema
 _FTP_HOST = "ftp.datasus.gov.br"
@@ -13,43 +13,18 @@ _FTP_PATHS = {
 
 
 def download_data(
-    estados: List[str] = None,
-    anos: List[int] = None,
+    estados: List[str],
+    anos: List[int],
+    meses: List[int],
+    download_path: str,
     sistema: str = "SIM",
-    download_path: str = None,
+    bases_cnes: Optional[List[str]] = None
 ) -> None:
-    """Baixa arquivos .dbc do DataSUS via FTP para um diretório local.
-
-    Parameters
-    ----------
-    estados : List[str]
-        Siglas dos estados brasileiros a baixar (ex.: ``["SP", "RJ"]``).
-    anos : List[int]
-        Anos de referência dos dados (ex.: ``[2022, 2023]``).
-    sistema : str
-        Sistema do DataSUS a consultar. Aceita: ``"SIM"``, ``"SIH"`` ou
-        ``"CNES"``. Padrão: ``"SIM"``.
-    download_path : str
-        Caminho do diretório local onde os arquivos serão salvos.
-        O diretório deve existir antes da chamada.
-
-    Raises
-    ------
-    ValueError
-        Se ``sistema`` não for um dos valores suportados.
-
-    Notes
-    -----
-    - Arquivos já existentes com tamanho > 0 não são baixados novamente.
-    - Arquivos corrompidos (tamanho = 0) são removidos e re-baixados.
-    - Para o sistema CNES, os dados são organizados em subpastas no FTP;
-      a função navega por essas subpastas automaticamente.
-    """
     if sistema not in _FTP_PATHS:
-        raise ValueError(
-            f"Sistema '{sistema}' não suportado. "
-            f"Escolha entre: {list(_FTP_PATHS.keys())}"
-        )
+        raise ValueError(f"Sistema '{sistema}' não suportado.")
+
+    if sistema == "CNES" and bases_cnes is None:
+        raise ValueError("Para o CNES, defina a lista bases_cnes.")
 
     raw_dir = download_path
     ftp_path = _FTP_PATHS[sistema]
@@ -60,9 +35,9 @@ def download_data(
     ftp.cwd(ftp_path)
 
     if sistema == "CNES":
-        _download_cnes(ftp, ftp_path, estados, anos, raw_dir)
+        _download_cnes(ftp, ftp_path, estados, anos, meses, bases_cnes, raw_dir)
     else:
-        _download_sim_sih(ftp, estados, anos, sistema, raw_dir)
+        _download_sim_sih(ftp, estados, anos, meses, sistema, raw_dir)
 
     ftp.quit()
     print("\nDownload finalizado!")
@@ -74,36 +49,48 @@ def _download_cnes(
     ftp_path: str,
     estados: List[str],
     anos: List[int],
+    meses: List[int],
+    bases_cnes: List[str],
     raw_dir: str,
 ) -> None:
-    """Percorre as subpastas do CNES no FTP e baixa os arquivos filtrados."""
     anos_str = [str(ano)[-2:] for ano in anos]
-    pastas = ftp.nlst()
+    meses_str = [f"{m:02d}" for m in meses]
 
-    for pasta in pastas:
-        caminho_pasta = f"{ftp_path}{pasta}/"
-        ftp.cwd(caminho_pasta)
-        arquivos = ftp.nlst()
+    for base in bases_cnes:
+        caminho_pasta = f"{ftp_path}{base}/"
+        try:
+            ftp.cwd(caminho_pasta)
+        except ftplib.error_perm:
+            continue
 
-        for arquivo in arquivos:
-            if not arquivo.endswith(".dbc"):
-                continue
+        arquivos_ftp = set(ftp.nlst())
 
-            if not any(estado in arquivo for estado in estados):
-                continue
+        for estado in estados:
+            for ano in anos_str:
+                for mes in meses_str:
+                    arquivo = f"{base}{estado}{ano}{mes}.dbc"
+                    
+                    if arquivo not in arquivos_ftp:
+                        print(f"Arquivo não encontrado no FTP: {arquivo}")
+                        continue
 
-            if not any(ano in arquivo for ano in anos_str):
-                continue
+                    local_path = os.path.join(raw_dir, arquivo)
 
-            local_path = os.path.join(raw_dir, arquivo)
-            if os.path.exists(local_path):
-                continue 
+                    if os.path.exists(local_path):
+                        if os.path.getsize(local_path) > 0:
+                            continue
+                        else:
+                            os.remove(local_path)
 
-            try:
-                with open(local_path, "wb") as f:
-                    ftp.retrbinary(f"RETR {arquivo}", f.write)
-            except Exception:
-                pass
+                    print(f"Baixando: {arquivo}")
+                    try:
+                        with open(local_path, "wb") as f:
+                            ftp.retrbinary(f"RETR {arquivo}", f.write)
+                        print(f"Sucesso: {arquivo}")
+                    except ftplib.error_perm:
+                        if os.path.exists(local_path):
+                            os.remove(local_path)
+                        print(f"Erro ao baixar: {arquivo}")
 
         ftp.cwd(ftp_path)
 
@@ -112,21 +99,22 @@ def _download_sim_sih(
     ftp: ftplib.FTP,
     estados: List[str],
     anos: List[int],
+    meses: List[int],
     sistema: str,
     raw_dir: str,
 ) -> None:
-    """Baixa arquivos mensais do SIM ou SIH para os estados e anos pedidos."""
-    meses = [f"{m:02d}" for m in range(1, 13)]
+    meses_str = [f"{m:02d}" for m in meses]
 
     for estado in estados:
         for ano in anos:
             ano_curto = str(ano)[-2:]
-            for mes in meses:
-                if sistema == "SIM":
-                    filename = f"DO{estado}{ano}.dbc"
-                else:  # SIH
-                    filename = f"RD{estado}{ano_curto}{mes}.dbc"
+            
+            if sistema == "SIM":
+                arquivos_alvo = [f"DO{estado}{ano}.dbc"]
+            else:
+                arquivos_alvo = [f"RD{estado}{ano_curto}{m}.dbc" for m in meses_str]
 
+            for filename in arquivos_alvo:
                 local_path = os.path.join(raw_dir, filename)
 
                 if os.path.exists(local_path):
