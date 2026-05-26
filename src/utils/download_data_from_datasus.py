@@ -2,13 +2,17 @@ import os
 import ftplib
 from typing import List, Optional
 
-# Mapeamento dos caminhos FTP por sistema
 _FTP_HOST = "ftp.datasus.gov.br"
 
 _FTP_PATHS = {
     "SIM":  "/dissemin/publicos/SIM/CID10/DORES/",
     "SIH":  "/dissemin/publicos/SIHSUS/200801_/Dados/",
     "CNES": "/dissemin/publicos/CNES/200508_/Dados/",
+}
+
+_FTP_AUX_PATHS = {
+    "CNES": "/dissemin/publicos/CNES/200508_/Auxiliar/",
+    "SIH":  "/dissemin/publicos/SIHSUS/200801_/Auxiliar/",
 }
 
 
@@ -42,6 +46,42 @@ def download_data(
     ftp.quit()
     print("\nDownload finalizado!")
     print(f"Arquivos salvos em: {raw_dir}")
+
+
+def download_dicionarios(sistema: str, download_path: str) -> None:
+    if sistema not in _FTP_AUX_PATHS:
+        raise ValueError(f"Sistema '{sistema}' não possui diretório auxiliar mapeado.")
+
+    os.makedirs(download_path, exist_ok=True)
+    aux_path = _FTP_AUX_PATHS[sistema]
+
+    print(f"Conectando ao FTP para baixar dicionários de {sistema}: {_FTP_HOST}")
+    ftp = ftplib.FTP(_FTP_HOST)
+    ftp.login()
+    ftp.cwd(aux_path)
+
+    arquivos = ftp.nlst()
+    arquivos_cnv = [arq for arq in arquivos if arq.lower().endswith(".cnv")]
+
+    print(f"Encontrados {len(arquivos_cnv)} arquivos .cnv para baixar.")
+
+    for arquivo in arquivos_cnv:
+        local_path = os.path.join(download_path, arquivo)
+
+        if os.path.exists(local_path) and os.path.getsize(local_path) > 0:
+            continue
+
+        print(f"Baixando dicionário: {arquivo}")
+        try:
+            with open(local_path, "wb") as f:
+                ftp.retrbinary(f"RETR {arquivo}", f.write)
+        except ftplib.error_perm:
+            if os.path.exists(local_path):
+                os.remove(local_path)
+            print(f"Erro ao baixar dicionário: {arquivo}")
+
+    ftp.quit()
+    print(f"\nDicionários de {sistema} salvos em: {download_path}")
 
 
 def _download_cnes(
