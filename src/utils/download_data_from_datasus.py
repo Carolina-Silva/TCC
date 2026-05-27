@@ -1,6 +1,9 @@
 import os
 import ftplib
 from typing import List, Optional
+import zipfile
+import io
+import re
 
 _FTP_HOST = "ftp.datasus.gov.br"
 
@@ -50,39 +53,79 @@ def download_data(
 
 def download_dicionarios(sistema: str, download_path: str) -> None:
     if sistema not in _FTP_AUX_PATHS:
-        raise ValueError(f"Sistema '{sistema}' não possui diretório auxiliar mapeado.")
+        raise ValueError(f"Sistema '{sistema}' não suportado.")
 
     os.makedirs(download_path, exist_ok=True)
     aux_path = _FTP_AUX_PATHS[sistema]
 
-    print(f"Conectando ao FTP para baixar dicionários de {sistema}: {_FTP_HOST}")
+    print(f"Conectando ao FTP para buscar tabelas de {sistema}: {_FTP_HOST}")
     ftp = ftplib.FTP(_FTP_HOST)
     ftp.login()
-    ftp.cwd(aux_path)
+    ftp.cwd(str(aux_path))
 
-    arquivos = ftp.nlst()
-    arquivos_cnv = [arq for arq in arquivos if arq.lower().endswith(".cnv")]
+    linhas_diretorio = []
+    ftp.dir(linhas_diretorio.append)
 
-    print(f"Encontrados {len(arquivos_cnv)} arquivos .cnv para baixar.")
+    arquivo_zip = None
+    padrao_busca = f"tab_{sistema.lower()}.zip"
 
-    for arquivo in arquivos_cnv:
-        local_path = os.path.join(download_path, arquivo)
+    for linha in linhas_diretorio:
+        partes = re.split(r"\s+", linha.strip())
+        if partes:
+            nome_arquivo = partes[-1]
+            if nome_arquivo.lower() == padrao_busca:
+                arquivo_zip = nome_arquivo
+                break
 
-        if os.path.exists(local_path) and os.path.getsize(local_path) > 0:
-            continue
+    if not arquivo_zip:
+        ftp.quit()
+        raise FileNotFoundError(
+            f"Não foi possível encontrar o arquivo ZIP de tabelas para o sistema {sistema}."
+        )
 
-        print(f"Baixando dicionário: {arquivo}")
-        try:
-            with open(local_path, "wb") as f:
-                ftp.retrbinary(f"RETR {arquivo}", f.write)
-        except ftplib.error_perm:
-            if os.path.exists(local_path):
-                os.remove(local_path)
-            print(f"Erro ao baixar dicionário: {arquivo}")
+    print(f"Arquivo encontrado: {arquivo_zip}. Baixando para a memória...")
 
-    ftp.quit()
-    print(f"\nDicionários de {sistema} salvos em: {download_path}")
+    bytes_io = io.BytesIO()
+    try:
+        ftp.retrbinary(f"RETR {arquivo_zip}", bytes_io.write)
+        bytes_io.seek(0)
 
+        print("Extraindo dicionários (.cnv) e configurações (.def)...")
+        with zipfile.ZipFile(bytes_io) as z:
+            for arquivo_interno in z.namelist():
+                # Alvos: arquivos dentro de CNV/ ou terminados em .def
+                if (
+                    "CNV/" in arquivo_interno.upper()
+                    or arquivo_interno.lower().endswith(".def")
+                ):
+                    # Remove caminhos redundantes para salvar tudo direto na pasta destino
+                    nome_limpo = os.path.basename(arquivo_interno)
+                    if nome_limpo:
+                        caminho_final = os.path.join(
+                            download_path, nome_limpo
+                        )
+
+                        # Se for um arquivo da pasta CNV, garante a subpasta local para organização
+                        if "CNV/" in arquivo_interno.upper():
+                            pasta_cnv_local = os.path.join(
+                                download_path, "CNV"
+                            )
+                            os.makedirs(pasta_cnv_local, exist_ok=True)
+                            caminho_final = os.path.join(
+                                pasta_cnv_local, nome_limpo
+                            )
+
+                        with open(caminho_final, "wb") as f_out:
+                            f_out.write(z.read(arquivo_interno))
+
+        print(
+            f"\nProcesso concluído! Arquivos salvos em: {os.path.abspath(download_path)}"
+        )
+
+    except ftplib.error_perm:
+        print(f"Erro de permissão ao tentar baixar {arquivo_zip}.")
+    finally:
+        ftp.quit()
 
 def _download_cnes(
     ftp: ftplib.FTP,
