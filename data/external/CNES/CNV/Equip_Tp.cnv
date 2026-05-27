@@ -1,0 +1,98 @@
+97 4 L
+      1  Gama Câmara                                        0101
+      2  Mamógrafo com Comando Simples                      0102
+      3  Mamógrafo com Estereotaxia                         0103
+      4  Raio X até 100 mA                                  0104
+      5  Raio X de 100 a 500 mA                             0105
+      6  Raio X mais de 500mA                               0106
+      7  Raio X Dentário                                    0107
+      8  Raio X com Fluoroscopia                            0108
+      9  Raio X para Densitometria Óssea                    0109
+     10  Raio X para Hemodinâmica                           0110
+     11  Tomógrafo Computadorizado                          0111
+     12  Ressonância Magnética                              0112
+     13  Ultrassom Doppler Colorido                         0113
+     14  Ultrassom Ecógrafo                                 0114
+     15  Ultrassom Convencional                             0115
+     16  Processadora de filme exclusiva para mamografia    0116
+     17  Mamografo computadorizado                          0117
+     18  PET/CT                                             0118
+     19  Controle Ambiental/Ar-condicionado Central         0221
+     20  Grupo Gerador                                      0222
+     21  Usina de Oxigênio                                  0223
+     22  Endoscópio das Vias Respiratórias                  0331
+     23  Endoscópio das Vias Urinárias                      0332
+     24  Endoscópio Digestivo                               0333
+     25  Equipamentos para Optometria                       0334
+     26  Laparoscópio/Vídeo                                 0335
+     27  Microcópio Cirúrgico                               0336
+     28  Cadeira Oftalmológica                              0337
+     29  Coluna Otalmológica                                0338
+     30  Refrator                                           0339
+     31  Lensomêtro                                         0340
+     32  Projetor ou Tabela de Optotipos                    0344
+     33  Retinoscópio                                       0345
+     34  Oftalmoscópio                                      0346
+     35  Ceratômetro                                        0347
+     36  Tonômetro de Aplanação                             0348
+     37  Biomicroscópio (Lâmpada de Fenda)                  0349
+     38  Campímetro                                         0350
+     39  Eletrocardiógrafo                                  0441
+     40  Eletroencefalógrafo                                0442
+     41  Bomba/Balão Intra-Aórtico                          0551
+     42  Bomba de Infusão                                   0552
+     43  Berço Aquecido                                     0553
+     44  Bilirrubinômetro                                   0554
+     45  Debitômetro                                        0555
+     46  Desfibrilador                                      0556
+     47  Equipamento de Fototerapia                         0557
+     48  Incubadora                                         0558
+     49  Marcapasso Temporário                              0559
+     50  Monitor de ECG                                     0560
+     51  Monitor de Pressão Invasivo                        0561
+     52  Monitor de Pressão Não-Invasivo                    0562
+     53  Reanimador Pulmonar/AMBU                           0563
+     54  Respirador/Ventilador                              0564
+     55  Aparelho de Diatermia por Ultrassom/Ondas Curtas   0671
+     56  Aparelho de Eletroestimulação                      0672
+     57  Bomba de Infusão de Hemoderivados                  0673
+     58  Equipamentos de Aférese                            0674
+     59  Equipamento para Audiometria                       0675
+     60  Equipamento de Circulação Extracorpórea            0676
+     61  Equipamento para Hemodiálise                       0677
+     62  Forno de Bier                                      0678
+     63  Equipo Odontológico Completo                       0780
+     64  Compressor Odontológico                            0781
+     65  Fotopolimerizador                                  0782
+     66  Caneta de Alta Rotação                             0783
+     67  Caneta de Baixa Rotação                            0784
+     68  Amalgamador                                        0785
+     69  Aparelho de Profilaxia c/Jato de Bicarbonato       0786
+     70  Emissões Otoacusticas Evocadas Transientes         0887
+     71  Emissões Otoacusticas Evocadas por Prod. de Dist   0888
+     72  Potencial Evocado Auditivo de Tronco Encef Autom   0889
+     73  Pot Evocado Aud Tronco Encef. Curta,Media e Long   0890
+     74  Audiometro de um Canal                             0891
+     75  Audiometro de dois Canal                           0892
+     76  Imitanciometro                                     0893
+     77  Imitanciometro Multifrequencial                    0894
+     78  Cabine  Acustica                                   0895
+     79  Sistema DE Campo Livre                             0896
+     80  Sistema Completo de reforço Visual (VRA)           0897
+     81  Ganho de Inserção                                  0898
+     82  HI-PRO                                             0899
+     83  Camera para Reconhecimento Facial                  0901
+     84  Carrinho de Telemedicina de Videoconferencia       0902
+     85  Condensador                                        0903
+     86  Dermatoscopio                                      0904
+     87  Detector Fetal Portatil                            0905
+     88  KIT Dermatoscopia                                  0906
+     89  KIT Medico de Diagnostico Audiologico TAB          0907
+     90  Mesa Digitalizadora                                0908
+     91  Monit. Sin. Vit. Multi Port Telessaude Grau Medico 0909
+     92  Retinografo Portatil                               0910
+     93  Ultrassom Portatil                                 0911
+     94  Aparelho de Hemodialise - Ambulatorial	            1001
+     95  Aparelho de Hemodialise - Hospitalar	            1002
+     96  Aparelho de Hemodialise Reserva 	                1003
+     97  Aparelho para Dialise Peritonial	                1004

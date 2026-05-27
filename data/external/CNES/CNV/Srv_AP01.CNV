@@ -1,0 +1,6 @@
+; S.A.M.E. ou S.P.P.(Serviço de Prontuário Paciente)
+4 2 L
+      1  SAME/SPP Próprio                                   10
+      2  SAME/SPP Terceirizado                              01
+      3  SAME/SPP Próprio/Terceirizado                      11
+      4  SAME/SPP Inexistente                               00

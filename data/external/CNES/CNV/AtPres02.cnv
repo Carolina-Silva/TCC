@@ -1,0 +1,18 @@
+17 4 L
+     01  Sem Ambulator. SUS/Partic./Pl.S.Público/Pl.S.Priv. 0000
+     02  Estabelecimentos com Atendim.Prestado Ambulatorial 1001,1000,0001,1101,1100,0101,0100,1011,1010,0011,0010,1111,1110,0111,0110
+  2  03  ..Ambulator. SUS                                   1000
+  2  04  ..Ambulator. SUS/Particular                        1100
+  2  05  ..Ambulator. SUS/Particular/Plano Saúde Público    1110
+  2  06  ..Ambulator. SUS/Particular/Plano Saúde Privado    1101
+  2  07  ..Ambulator. SUS/Partic./Pl.S.Público/Pl.S.Privado 1111
+  2  08  ..Ambulator. SUS/Plano Saúde Público               1010
+  2  09  ..Ambulator. SUS/Plano S.Público/Plano S.Privado   1011
+  2  10  ..Ambulator. SUS/Plano Saúde Privado               1001
+  2  11  ..Ambulator. Particular                            0100
+  2  12  ..Ambulator. Particular/Plano Saúde Público        0110
+  2  13  ..Ambulator. Particular/Plano Saúde Privado        0101
+  2  14  ..Ambulator. Particular/Pl.S.Público/Pl.S.Privado  0111
+  2  15  ..Ambulator. Plano Saúde Público                   0010
+  2  16  ..Ambulator. Plano Saúde Público/Plano S.Privado   0011
+  2  17  ..Ambulator. Plano Saúde Privado                   0001

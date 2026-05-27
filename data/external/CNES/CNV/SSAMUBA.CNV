@@ -1,0 +1,446 @@
+    444  6
+      1  2901 Agreste Alagoinhas/Lit N                      290030
+  1   2  .... Acajutiba                                     290030
+  1   3  .... Alagoinhas                                    290070
+  1   4  .... Aporá                                         290190
+  1   5  .... Araças                                        290205
+  1   6  .... Aramari                                       290220
+  1   7  .... Cardeal da Silva                              290700
+  1   8  .... Catu                                          290750
+  1   9  .... Conde                                         290860
+  1  10  .... Crisópolis                                    290960
+  1  11  .... Entre Rios                                    291050
+  1  12  .... Esplanada                                     291060
+  1  13  .... Inhambupe                                     291370
+  1  14  .... Itanagra                                      291590
+  1  15  .... Itapicuru                                     291650
+  1  16  .... Jandaíra                                      291790
+  1  17  .... Mata de São João                              292100
+  1  18  .... Olindina                                      292310
+  1  19  .... Ouriçangas                                    292330
+  1  20  .... Pedrão                                        292410
+  1  21  .... Pojuca                                        292520
+  1  22  .... Rio Real                                      292700
+  1  23  .... Sátiro Dias                                   292970
+     24  2902 Bacia do Jacuípe                              290260
+ 24  25  .... Baixa Grande                                  290260
+ 24  26  .... Capela do Alto Alegre                         290685
+ 24  27  .... Gavião                                        291125
+ 24  28  .... Ipirá                                         291400
+ 24  29  .... Mairi                                         292010
+ 24  30  .... Nova Fátima                                   292273
+ 24  31  .... Pé de Serra                                   292405
+ 24  32  .... Pintadas                                      292465
+ 24  33  .... Quixabeira                                    292593
+ 24  34  .... Riachão do Jacuípe                            292630
+ 24  35  .... São José do Jacuípe                           292937
+ 24  36  .... Serra Preta                                   293040
+ 24  37  .... Várzea da Roça                                293305
+ 24  38  .... Várzea do Poço                                293310
+     39  2903 Bacia do Paramirim                            290410
+ 39  40  .... Boquira                                       290410
+ 39  41  .... Botuporã                                      290420
+ 39  42  .... Caturama                                      290755
+ 39  43  .... Érico Cardoso                                 290050
+ 39  44  .... Ibipitanga                                    291250
+ 39  45  .... Macaúbas                                      291980
+ 39  46  .... Paramirim                                     292360
+ 39  47  .... Rio do Pires                                  292690
+ 39  48  .... Tanque Novo                                   293105
+     49  2904 Bacia do Rio Corrente                         290440
+ 49  50  .... Brejolândia                                   290440
+ 49  51  .... Canápolis                                     290610
+ 49  52  .... Cocos                                         290810
+ 49  53  .... Coribe                                        290910
+ 49  54  .... Correntina                                    290930
+ 49  55  .... Jaborandi                                     291735
+ 49  56  .... Santa Maria da Vitória                        292810
+ 49  57  .... Santana                                       292820
+ 49  58  .... São Félix do Coribe                           292905
+ 49  59  .... Serra Dourada                                 293030
+ 49  60  .... Tabocas do Brejo Velho                        293090
+     61  2905 Baixo Sul                                     290230
+ 61  62  .... Aratuípe                                      290230
+ 61  63  .... Cairu                                         290540
+ 61  64  .... Camamu                                        290580
+ 61  65  .... Gandu                                         291120
+ 61  66  .... Igrapiúna                                     291345
+ 61  67  .... Ituberá                                       291730
+ 61  68  .... Jaguaripe                                     291780
+ 61  69  .... Nilo Peçanha                                  292260
+ 61  70  .... Piraí do Norte                                292467
+ 61  71  .... Presidente Tancredo Neves                     292575
+ 61  72  .... Taperoá                                       293120
+ 61  73  .... Teolândia                                     293160
+ 61  74  .... Valença                                       293290
+ 61  75  .... Wenceslau Guimarães                           293350
+     76  2906 Chapada Diamantina                            290010
+ 76  77  .... Abaíra                                        290010
+ 76  78  .... Andaraí                                       290130
+ 76  79  .... Barra da Estiva                               290280
+ 76  80  .... Boninal                                       290400
+ 76  81  .... Bonito                                        290405
+ 76  82  .... Ibicoara                                      291220
+ 76  83  .... Ibitiara                                      291300
+ 76  84  .... Iraquara                                      291440
+ 76  85  .... Itaeté                                        291500
+ 76  86  .... Jussiape                                      291860
+ 76  87  .... Lençóis                                       291930
+ 76  88  .... Marcionílio Souza                             292080
+ 76  89  .... Morro do Chapéu                               292170
+ 76  90  .... Mucugê                                        292190
+ 76  91  .... Nova Redenção                                 292285
+ 76  92  .... Novo Horizonte                                292303
+ 76  93  .... Palmeiras                                     292350
+ 76  94  .... Piatã                                         292430
+ 76  95  .... Rio de Contas                                 292670
+ 76  96  .... Seabra                                        292990
+ 76  97  .... Souto Soares                                  293080
+ 76  98  .... Utinga                                        293280
+ 76  99  .... Wagner                                        293340
+    100  2907 Extremo Sul                                   290080
+100 101  .... Alcobaça                                      290080
+100 102  .... Belmonte                                      290340
+100 103  .... Caravelas                                     290690
+100 104  .... Eunápolis                                     291072
+100 105  .... Guaratinga                                    291180
+100 106  .... Ibirapuã                                      291280
+100 107  .... Itabela                                       291465
+100 108  .... Itagimirim                                    291530
+100 109  .... Itamaraju                                     291560
+100 110  .... Itanhém                                       291600
+100 111  .... Itapebi                                       291630
+100 112  .... Jucuruçu                                      291845
+100 113  .... Lajedão                                       291890
+100 114  .... Medeiros Neto                                 292110
+100 115  .... Mucuri                                        292200
+100 116  .... Nova Viçosa                                   292300
+100 117  .... Porto Seguro                                  292530
+100 118  .... Prado                                         292550
+100 119  .... Santa Cruz Cabrália                           292770
+100 120  .... Teixeira de Freitas                           293135
+100 121  .... Vereda                                        293325
+    122  2908 Irecê                                         290115
+122 123  .... América Dourada                               290115
+122 124  .... Barra do Mendes                               290300
+122 125  .... Barro Alto                                    290323
+122 126  .... Cafarnaum                                     290530
+122 127  .... Canarana                                      290620
+122 128  .... Central                                       290760
+122 129  .... Gentio do Ouro                                291130
+122 130  .... Ibipeba                                       291240
+122 131  .... Ibititá                                       291310
+122 132  .... Ipupiara                                      291410
+122 133  .... Irecê                                         291460
+122 134  .... Itaguaçu da Bahia                             291535
+122 135  .... João Dourado                                  291835
+122 136  .... Jussara                                       291850
+122 137  .... Lapão                                         291915
+122 138  .... Mulungu do Morro                              292205
+122 139  .... Presidente Dutra                              292560
+122 140  .... São Gabriel                                   292925
+122 141  .... Uibaí                                         293240
+122 142  .... Xique-Xique                                   293360
+    143  2909 Itaparica                                     290020
+143 144  .... Abaré                                         290020
+143 145  .... Chorrochó                                     290770
+143 146  .... Glória                                        291140
+143 147  .... Macururé                                      291990
+143 148  .... Paulo Afonso                                  292400
+143 149  .... Rodelas                                       292710
+    150  2910 Itapetinga                                    290480
+150 151  .... Caatiba                                       290480
+150 152  .... Firmino Alves                                 291090
+150 153  .... Ibicuí                                        291230
+150 154  .... Iguaí                                         291350
+150 155  .... Itambé                                        291580
+150 156  .... Itapetinga                                    291640
+150 157  .... Itarantim                                     291680
+150 158  .... Itororó                                       291710
+150 159  .... Macarani                                      291970
+150 160  .... Maiquinique                                   292000
+150 161  .... Nova Canaã                                    292270
+150 162  .... Potiraguá                                     292540
+150 163  .... Santa Cruz da Vitória                         292780
+    164  2911 Litoral Sul                                   290090
+164 165  .... Almadina                                      290090
+164 166  .... Arataca                                       290225
+164 167  .... Aurelino Leal                                 290240
+164 168  .... Barro Preto                                   290330
+164 169  .... Buerarema                                     290470
+164 170  .... Camacan                                       290560
+164 171  .... Canavieiras                                   290630
+164 172  .... Coaraci                                       290800
+164 173  .... Floresta Azul                                 291100
+164 174  .... Ibicaraí                                      291210
+164 175  .... Ibirapitanga                                  291270
+164 176  .... Ilhéus                                        291360
+164 177  .... Itabuna                                       291480
+164 178  .... Itacaré                                       291490
+164 179  .... Itaju do Colônia                              291540
+164 180  .... Itajuípe                                      291550
+164 181  .... Itapé                                         291620
+164 182  .... Itapitanga                                    291660
+164 183  .... Jussari                                       291855
+164 184  .... Maraú                                         292070
+164 185  .... Mascote                                       292090
+164 186  .... Pau Brasil                                    292390
+164 187  .... Santa Luzia                                   292805
+164 188  .... São José da Vitória                           292935
+164 189  .... Ubaitaba                                      293220
+164 190  .... Una                                           293250
+164 191  .... Uruçuca                                       293270
+    192  2912 Médio Rio de Contas                           290060
+192 193  .... Aiquara                                       290060
+192 194  .... Apuarema                                      290195
+192 195  .... Barra do Rocha                                290310
+192 196  .... Boa Nova                                      290370
+192 197  .... Dário Meira                                   291000
+192 198  .... Gongogi                                       291150
+192 199  .... Ibirataia                                     291290
+192 200  .... Ipiaú                                         291390
+192 201  .... Itagi                                         291510
+192 202  .... Itagibá                                       291520
+192 203  .... Itamari                                       291570
+192 204  .... Jequié                                        291800
+192 205  .... Jitaúna                                       291830
+192 206  .... Manoel Vitorino                               292040
+192 207  .... Nova Ibiá                                     292275
+192 208  .... Ubatã                                         293230
+    209  2913 Metropolitana de Salvador                     290570
+209 210  .... Camaçari                                      290570
+209 211  .... Candeias                                      290650
+209 212  .... Dias d'Ávila                                  291005
+209 213  .... Itaparica                                     291610
+209 214  .... Lauro de Freitas                              291920
+209 215  .... Madre de Deus                                 291992
+209 216  .... Salinas da Margarida                          292730
+209 217  .... Salvador                                      292740
+209 218  .... Simões Filho                                  293070
+209 219  .... Vera Cruz                                     293320
+    220  2914 Oeste Baiano                                  290140
+220 221  .... Angical                                       290140
+220 222  .... Baianópolis                                   290250
+220 223  .... Barreiras                                     290320
+220 224  .... Buritirama                                    290475
+220 225  .... Catolândia                                    290740
+220 226  .... Cotegipe                                      290940
+220 227  .... Cristópolis                                   290970
+220 228  .... Formosa do Rio Preto                          291110
+220 229  .... Luís Eduardo Magalhães                        291955
+220 230  .... Mansidão                                      292045
+220 231  .... Riachão das Neves                             292620
+220 232  .... Santa Rita de Cássia                          292840
+220 233  .... São Desidério                                 292890
+220 234  .... Wanderley                                     293345
+    235  2915 Piemonte da Diamantina                        290510
+235 236  .... Caém                                          290510
+235 237  .... Capim Grosso                                  290687
+235 238  .... Jacobina                                      291750
+235 239  .... Mirangaba                                     292140
+235 240  .... Ourolândia                                    292335
+235 241  .... Saúde                                         292980
+235 242  .... Serrolândia                                   293060
+235 243  .... Umburanas                                     293245
+235 244  .... Várzea Nova                                   293315
+    245  2916 Piemonte do Paraguaçu                         290380
+245 246  .... Boa Vista do Tupim                            290380
+245 247  .... Iaçu                                          291190
+245 248  .... Ibiquera                                      291260
+245 249  .... Itaberaba                                     291470
+245 250  .... Itatim                                        291685
+245 251  .... Lajedinho                                     291900
+245 252  .... Macajuba                                      291960
+245 253  .... Miguel Calmon                                 292120
+245 254  .... Mundo Novo                                    292210
+245 255  .... Piritiba                                      292480
+245 256  .... Rafael Jambeiro                               292595
+245 257  .... Ruy Barbosa                                   292720
+245 258  .... Santa Teresinha                               292850
+245 259  .... Tapiramutá                                    293130
+    260  2917 Piemonte Norte Itapicuru                      290135
+260 261  .... Andorinha                                     290135
+260 262  .... Antônio Gonçalves                             290180
+260 263  .... Caldeirão Grande                              290550
+260 264  .... Campo Formoso                                 290600
+260 265  .... Filadélfia                                    291085
+260 266  .... Jaguarari                                     291770
+260 267  .... Pindobaçu                                     292460
+260 268  .... Ponto Novo                                    292525
+260 269  .... Senhor do Bonfim                              293010
+    270  2918 Portal do Sertão                              290040
+270 271  .... Água Fria                                     290040
+270 272  .... Amélia Rodrigues                              290110
+270 273  .... Anguera                                       290150
+270 274  .... Antônio Cardoso                               290170
+270 275  .... Conceição da Feira                            290820
+270 276  .... Conceição do Jacuípe                          290850
+270 277  .... Coração de Maria                              290890
+270 278  .... Feira de Santana                              291080
+270 279  .... Ipecaetá                                      291380
+270 280  .... Irará                                         291450
+270 281  .... Santa Bárbara                                 292750
+270 282  .... Santanópolis                                  292830
+270 283  .... Santo Estêvão                                 292880
+270 284  .... São Gonçalo dos Campos                        292930
+270 285  .... Tanquinho                                     293110
+270 286  .... Teodoro Sampaio                               293140
+270 287  .... Terra Nova                                    293170
+    288  2919 Recôncavo                                     290485
+288 289  .... Cabaceiras do Paraguaçu                       290485
+288 290  .... Cachoeira                                     290490
+288 291  .... Castro Alves                                  290730
+288 292  .... Conceição do Almeida                          290830
+288 293  .... Cruz das Almas                                290980
+288 294  .... Dom Macedo Costa                              291020
+288 295  .... Governador Mangabeira                         291160
+288 296  .... Maragogipe                                    292060
+288 297  .... Muniz Ferreira                                292220
+288 298  .... Muritiba                                      292230
+288 299  .... Nazaré                                        292250
+288 300  .... Santo Amaro                                   292860
+288 301  .... Santo Antônio de Jesus                        292870
+288 302  .... São Felipe                                    292910
+288 303  .... São Félix                                     292900
+288 304  .... São Francisco do Conde                        292920
+288 305  .... São Sebastião do Passé                        292950
+288 306  .... Sapeaçu                                       292960
+288 307  .... Saubara                                       292975
+288 308  .... Varzedo                                       293317
+    309  2920 Semi-Árido Nordeste II                        290035
+309 310  .... Adustina                                      290035
+309 311  .... Antas                                         290160
+309 312  .... Banzaê                                        290265
+309 313  .... Cícero Dantas                                 290780
+309 314  .... Cipó                                          290790
+309 315  .... Coronel João Sá                               290920
+309 316  .... Euclides da Cunha                             291070
+309 317  .... Fátima                                        291075
+309 318  .... Heliópolis                                    291185
+309 319  .... Jeremoabo                                     291810
+309 320  .... Nova Soure                                    292290
+309 321  .... Novo Triunfo                                  292305
+309 322  .... Paripiranga                                   292380
+309 323  .... Pedro Alexandre                               292420
+309 324  .... Ribeira do Amparo                             292650
+309 325  .... Ribeira do Pombal                             292660
+309 326  .... Santa Brígida                                 292760
+309 327  .... Sítio do Quinto                               293076
+    328  2921 Sertão do São Francisco                       290590
+328 329  .... Campo Alegre de Lourdes                       290590
+328 330  .... Canudos                                       290682
+328 331  .... Casa Nova                                     290720
+328 332  .... Curaçá                                        290990
+328 333  .... Juazeiro                                      291840
+328 334  .... Pilão Arcado                                  292440
+328 335  .... Remanso                                       292600
+328 336  .... Sento Sé                                      293020
+328 337  .... Sobradinho                                    293077
+328 338  .... Uauá                                          293200
+    339  2922 Sertão Produtivo                              290460
+339 340  .... Brumado                                       290460
+339 341  .... Caculé                                        290500
+339 342  .... Caetité                                       290520
+339 343  .... Candiba                                       290660
+339 344  .... Contendas do Sincorá                          290880
+339 345  .... Dom Basílio                                   291010
+339 346  .... Guanambi                                      291170
+339 347  .... Ibiassucê                                     291200
+339 348  .... Ituaçu                                        291720
+339 349  .... Iuiú                                          291733
+339 350  .... Lagoa Real                                    291875
+339 351  .... Livramento de Nossa Senhora                   291950
+339 352  .... Malhada de Pedras                             292030
+339 353  .... Palmas de Monte Alto                          292340
+339 354  .... Pindaí                                        292450
+339 355  .... Rio do Antônio                                292680
+339 356  .... Sebastião Laranjeiras                         293000
+339 357  .... Tanhaçu                                       293100
+339 358  .... Urandi                                        293260
+    359  2923 Sisal                                         290210
+359 360  .... Araci                                         290210
+359 361  .... Barrocas                                      290327
+359 362  .... Biritinga                                     290360
+359 363  .... Candeal                                       290640
+359 364  .... Cansanção                                     290680
+359 365  .... Conceição do Coité                            290840
+359 366  .... Ichu                                          291330
+359 367  .... Itiúba                                        291700
+359 368  .... Lamarão                                       291910
+359 369  .... Monte Santo                                   292150
+359 370  .... Nordestina                                    292265
+359 371  .... Queimadas                                     292580
+359 372  .... Quijingue                                     292590
+359 373  .... Retirolândia                                  292610
+359 374  .... Santaluz                                      292800
+359 375  .... São Domingos                                  292895
+359 376  .... Serrinha                                      293050
+359 377  .... Teofilândia                                   293150
+359 378  .... Tucano                                        293190
+359 379  .... Valente                                       293300
+    380  2924 Vale do Jequiriçá                             290100
+380 381  .... Amargosa                                      290100
+380 382  .... Brejões                                       290430
+380 383  .... Cravolândia                                   290950
+380 384  .... Elísio Medrado                                291030
+380 385  .... Irajuba                                       291420
+380 386  .... Iramaia                                       291430
+380 387  .... Itaquara                                      291670
+380 388  .... Itiruçu                                       291690
+380 389  .... Jaguaquara                                    291760
+380 390  .... Jiquiriçá                                     291820
+380 391  .... Lafaiete Coutinho                             291870
+380 392  .... Laje                                          291880
+380 393  .... Lajedo do Tabocal                             291905
+380 394  .... Maracás                                       292050
+380 395  .... Milagres                                      292130
+380 396  .... Mutuípe                                       292240
+380 397  .... Nova Itarana                                  292280
+380 398  .... Planaltino                                    292490
+380 399  .... Santa Inês                                    292790
+380 400  .... São Miguel das Matas                          292940
+380 401  .... Ubaíra                                        293210
+    402  2925 Velho Chico                                   290270
+402 403  .... Barra                                         290270
+402 404  .... Bom Jesus da Lapa                             290390
+402 405  .... Brotas de Macaúbas                            290450
+402 406  .... Carinhanha                                    290710
+402 407  .... Feira da Mata                                 291077
+402 408  .... Ibotirama                                     291320
+402 409  .... Igaporã                                       291340
+402 410  .... Malhada                                       292020
+402 411  .... Matina                                        292105
+402 412  .... Morpará                                       292160
+402 413  .... Muquém de São Francisco                       292225
+402 414  .... Oliveira dos Brejinhos                        292320
+402 415  .... Paratinga                                     292370
+402 416  .... Riacho de Santana                             292640
+402 417  .... Serra do Ramalho                              293015,293025
+402 418  .... Sítio do Mato                                 293075
+    419  2926 Vitória da Conquista                          290120
+419 420  .... Anagé                                         290120
+419 421  .... Aracatu                                       290200
+419 422  .... Barra do Choça                                290290
+419 423  .... Belo Campo                                    290350
+419 424  .... Bom Jesus da Serra                            290395
+419 425  .... Caetanos                                      290515
+419 426  .... Cândido Sales                                 290670
+419 427  .... Caraíbas                                      290689
+419 428  .... Condeúba                                      290870
+419 429  .... Cordeiros                                     290900
+419 430  .... Encruzilhada                                  291040
+419 431  .... Guajeru                                       291165
+419 432  .... Jacaraci                                      291740
+419 433  .... Licínio de Almeida                            291940
+419 434  .... Maetinga                                      291995
+419 435  .... Mirante                                       292145
+419 436  .... Mortugaba                                     292180
+419 437  .... Piripá                                        292470
+419 438  .... Planalto                                      292500
+419 439  .... Poções                                        292510
+419 440  .... Presidente Jânio Quadros                      292570
+419 441  .... Ribeirão do Largo                             292665
+419 442  .... Tremedal                                      293180
+419 443  .... Vitória da Conquista                          293330
+    444  2900 Município ignorado - BA                       290000,299999
+

@@ -1,0 +1,1019 @@
+1018 6 L
+      1  AM - ALTO RIO NEGRO                                1300409,1303601,1303809
+  1   2  ... Barcelos                                       1300409
+  1   3  ... Santa Isabel do Rio Negro                      1303601
+  1   4  ... São Gabriel da Cachoeira                       1303809
+      5  AM - BAIXO AMAZONAS                                1300508,1300680,1302900,1303007,1303403,1303957,1304302
+  5   6  ... Barreirinha                                    1300508
+  5   7  ... Boa Vista do Ramos                             1300680
+  5   8  ... Maués                                          1302900
+  5   9  ... Nhamundá                                       1303007
+  5  10  .. Parintins                                       1303403
+  5  11  .. São Sebastião do Uatumã                         1303957
+  5  12  .. Urucará                                         1304302
+     13  AM - ENTORNO DE MANAUS                             1300300,1301100,1301159,1301852,1301902,1302009,1302553,1302603,1303106,1303536,1303569,1304005,1304401
+ 13  14  ... Autazes                                        1300300
+ 13  15  ... Careiro                                        1301100
+ 13  16  ... Careiro da Várzea                              1301159
+ 13  17  ... Iranduba                                       1301852
+ 13  18  ... Itacoatiara                                    1301902
+ 13  19  ... Itapiranga                                     1302009
+ 13  20  ... Manaquiri                                      1302553
+ 13  21  ... Manaus                                         1302603
+ 13  22  ... Nova Olinda do Norte                           1303106
+ 13  23  ... Presidente Figueiredo                          1303536
+ 13  24  ... Rio Preto da Eva                               1303569
+ 13  25  ... Silves                                         1304005
+ 13  26  ... Urucurituba                                    1304401
+     27  AC - ALTO ACRE E CAPIXABA                          1200054,1200104,1200179,1200252,1200708
+ 27  28  ... Assis Brasil                                   1200054
+ 27  29  ... Brasiléia                                      1200104
+ 27  30  ... Capixaba                                       1200179
+ 27  31  ... Epitaciolândia                                 1200252
+ 27  32  ... Xapuri                                         1200708
+     33  AP - SUL DO AMAPÁ                                  1600279,1600402,1600808
+ 33  34  ... Laranjal do Jari                               1600279
+ 33  35  ... Mazagão                                        1600402
+ 33  36  ... Vitória do Jari                                1600808
+     37  PA - BAIXO AMAZONAS                                1500404,1501451,1505106,1502855,1503002,1503903,1504802,1505304,1506005,1506807,1507979
+ 37  38  ... Alenquer                                       1500404
+ 37  39  ... Belterra                                       1501451
+ 37  40  ... Óbidos                                         1505106
+ 37  41  ... Curuá                                          1502855
+ 37  42  ... Faro                                           1503002
+ 37  43  ... Juruti                                         1503903
+ 37  44  ... Monte Alegre                                   1504802
+ 37  45  ... Oriximiná                                      1505304
+ 37  46  ... Prainha                                        1506005
+ 37  47  ... Santarém                                       1506807
+ 37  48  ... Terra Santa                                    1507979
+     49  PA - MARAJÓ                                        1500305,1500701,1501105,1501808,1502004,1502509,1502806,1503101,1504505,1504901,1505700,1505809,1506302,1506401,1507706,1507904
+ 49  50  ... Afuá                                           1500305
+ 49  51  ... Anajás                                         1500701
+ 49  52  ... Bagre                                          1501105
+ 49  53  ... Breves                                         1501808
+ 49  54  ... Cachoeira do Arari                             1502004
+ 49  55  ... Chaves                                         1502509
+ 49  56  ... Curralinho                                     1502806
+ 49  57  ... Gurupá                                         1503101
+ 49  58  ... Melgaço                                        1504505
+ 49  59  ... Muaná                                          1504901
+ 49  60  ... Ponta de Pedras                                1505700
+ 49  61  ... Portel                                         1505809
+ 49  62  ... Salvaterra                                     1506302
+ 49  63  ... Santa Cruz do Arari                            1506401
+ 49  64  ... São Sebastião da Boa Vista                     1507706
+ 49  65  ... Soure                                          1507904
+     66  PA - NORDESTE PARAENSE                             1500958,1501956,1502301,1502939,1503077,1503457,1503507,1504059,1504950,1505403,1505502,1506559,1507201,1507607,1508126
+ 66  67  ... Aurora do Pará                                 1500958
+ 66  68  ... Cachoeira do Piriá                             1501956
+ 66  69  ... Capitão Poço                                   1502301
+ 66  70  ... Dom Eliseu                                     1502939
+ 66  71  ... Garrafão do Norte                              1503077
+ 66  72  ... Ipixuna do Pará                                1503457
+ 66  73  ... Irituia                                        1503507
+ 66  74  ... Mãe do Rio                                     1504059
+ 66  75  ... Nova Esperança do Piriá                        1504950
+ 66  76  ... Ourém                                          1505403
+ 66  77  ... Paragominas                                    1505502
+ 66  78  ... Santa Luzia do Pará                            1506559
+ 66  79  ... São Domingos do Capim                          1507201
+ 66  80  ... São Miguel do Guamá                            1507607
+ 66  81  ... Ulianópolis                                    1508126
+     82  PA - SUDESTE PARAENSE                              1502954,1503705,1504208,1504976,1505536,1507151,1507508
+ 82  83  ... Eldorado dos Carajás                           1502954
+ 82  84  ... Itupiranga                                     1503705
+ 82  85  ... Marabá                                         1504208
+ 82  86  ... Nova Ipixuna                                   1504976
+ 82  87  ... Parauapebas                                    1505536
+ 82  88  ... São Domingos do Araguaia                       1507151
+ 82  89  ... São João do Araguaia                           1507508
+     90  PA - TRANSAMAZÔNICA                                1500602,1500859,1501725,1504455,1505486,1507805,1508159,1508357
+ 90  91  ... Altamira                                       1500602
+ 90  92  ... Anapu                                          1500859
+ 90  93  ... Brasil Novo                                    1501725
+ 90  94  ... Medicilândia                                   1504455
+ 90  95  ... Pacajá                                         1505486
+ 90  96  ... Senador José Porfírio                          1507805
+ 90  97  ... Uruará                                         1508159
+ 90  98  ... Vitória do Xingu                               1508357
+     99  RO - CENTRAL (JI-PARANÁ)                           1100346,1101005,1100114,1100122,1101302,1101435,1100155,1100254,1101559,1101609,1101708,1101757,1101807
+ 99 100  .. Alvorada D`Oeste                                1100346
+ 99 101  .. Governador Jorge Teixeira                       1101005
+ 99 102  .. Jaru                                            1100114
+ 99 103  .. Ji-Paraná                                       1100122
+ 99 104  .. Mirante da Serra                                1101302
+ 99 105  .. Nova União                                      1101435
+ 99 106  .. Ouro Preto do Oeste                             1100155
+ 99 107  .. Presidente Médici                               1100254
+ 99 108  .. Teixeirópolis                                   1101559
+ 99 109  .. Theobroma                                       1101609
+ 99 110  .. Urupá                                           1101708
+ 99 111  .. Vale do Anari                                   1101757
+ 99 112  .. Vale do Paraíso                                 1101807
+    113  RR - SUL DE RORAIMA                                1400233,1400472,1400506,1400605
+113 114  ... Caroebe                                        1400233
+113 115  ... Rorainópolis                                   1400472
+113 116  ... São João da Baliza                             1400506
+113 117  ... São Luiz                                       1400605
+    118  TO - BICO DO PAPAGAIO                              1700301,1701002,1701051,1702208,1702554,1702901,1703800,1703826,1703891,1706506,1707405,1710706,1712454,1712801,1714302,1713809,1718303,1718550,1718808,1720002,1720101,1720200,1720309,1721208
+118 119  ... Aguiarnópolis                                  1700301
+118 120  ... Ananás                                         1701002
+118 121  ... Angico                                         1701051
+118 122  ... Araguatins                                     1702208
+118 123  ... Augustinópolis                                 1702554
+118 124  ... Axixá do Tocantins                             1702901
+118 125  ... Buriti do Tocantins                            1703800
+118 126  ... Cachoeirinha                                   1703826
+118 127  ... Carrasco Bonito                                1703891
+118 128  ... Darcinópolis                                   1706506
+118 129  ... Esperantina                                    1707405
+118 130  ... Itaguatins                                     1710706
+118 131  ... Luzinópolis                                    1712454
+118 132  ... Maurilândia do Tocantins                       1712801
+118 133  ... Nazaré                                         1714302
+118 134  ... Palmeiras do Tocantins                         1713809
+118 135  ... Praia Norte                                    1718303
+118 136  ... Riachinho                                      1718550
+118 137  ... Sampaio                                        1718808
+118 138  ... Santa Terezinha do Tocantins                   1720002
+118 139  ... São Bento do Tocantins                         1720101
+118 140  ... São Miguel do Tocantins                        1720200
+118 141  ... São Sebastião do Tocantins                     1720309
+118 142  ... Sítio Novo do Tocantins                        1720804
+118 143  ... Tocantinópolis                                 1721208
+    144  MA - BAIXO PARNAÍBA                                2100808,2100907,2101731,2102101,2102200,2103208,2100154,2106300,2106409,2106672,2110237,2110104,2110401,2110609,2112506,2112605
+144 145  ... Anapurus                                       2100808
+144 146  ... Araioses                                       2100907
+144 147  ... Belágua                                        2101731
+144 148  ... Brejo                                          2102101
+144 149  ... Buriti                                         2102200
+144 150  ... Chapadinha                                     2103208
+144 151  ... Água Doce do Maranhão                          2100154
+144 152  ... Magalhães de Almeida                           2106300
+144 153  ... Mata Roma                                      2106409
+144 154  ... Milagres do Maranhão                           2106672
+144 155  ... Santana do Maranhão                            2110237
+144 156  ... Santa Quitéria do Maranhão                     2110104
+144 157  ... São Benedito do Rio Preto                      2110401
+144 158  ... São Bernardo                                   2110609
+144 159  ... Tutóia                                         2112506
+144 160  ... Urbano Santos                                  2112605
+    161  MA - COCAIS                                        2100105,2100303,2102309,2103000,2103307,2103406,2103604,2103901,2104206,2105922,2106607,2107803,2108454,2111748,2111078,2112100,2112209
+161 162  ... Afonso Cunha                                   2100105
+161 163  ... Aldeias Altas                                  2100303
+161 164  ... Buriti Bravo                                   2102309
+161 165  ... Caxias                                         2103000
+161 166  ... Codó                                           2103307
+161 167  ... Coelho Neto                                    2103406
+161 168  ... Coroatá                                        2103604
+161 169  ... Duque Bacelar                                  2103901
+161 170  ... Fortuna                                        2104206
+161 171  ... Lagoa do Mato                                  2105922
+161 172  ... Matões                                         2106607
+161 173  ... Parnarama                                      2107803
+161 174  ... Peritoró                                       2108454
+161 175  ... Senador Alexandre Costa                        2111748
+161 176  ... São João do Soter                              2111078
+161 177  ... Timbiras                                       2112100
+161 178  ... Timon                                          2112209
+    179  MA - LENÇÓIS MARANHENSES/MUNIN                     2101103,2101251,2101707,2102374,2105005,2105104,2107100,2108058,2109205,2109403,2109601,2110278
+179 180  ... Axixá                                          2101103
+179 181  ... Bacabeira                                      2101251
+179 182  ... Barreirinhas                                   2101707
+179 183  ... Cachoeira Grande                               2102374
+179 184  ... Humberto de Campos                             2105005
+179 185  ... Icatu                                          2105104
+179 186  ... Morros                                         2107100
+179 187  ... Paulino Neves                                  2108058
+179 188  ... Presidente Juscelino                           2109205
+179 189  ... Primeira Cruz                                  2109403
+179 190  ... Rosário                                        2109601
+179 191  ... Santo Amaro do Maranhão                        2110278
+    192  MA - VALE DO ITAPECURU                             2100709,2102705,2105401,2106631,2106755,2107209,2108801,2109304,2110203,2112704
+192 193  ... Anajatuba                                      2100709
+192 194  ... Cantanhede                                     2102705
+192 195  ... Itapecuru Mirim                                2105401
+192 196  ... Matões do Norte                                2106631
+192 197  ... Miranda do Norte                               2106755
+192 198  ... Nina Rodrigues                                 2107209
+192 199  ... Pirapemas                                      2108801
+192 200  ... Presidente Vargas                              2109304
+192 201  ... Santa Rita                                     2110203
+192 202  ... Vargem Grande                                  2112704
+    203  PI - CARNAUBAIS                                    2200301,2201051,2201770,2201945,2202026,2202059,2202208,2202406,2202604,2202711,2202737,2205276,2205516,2206753,2206951,2210656,2209906,2210409
+203 204  ... Alto Longá                                     2200301
+203 205  ... Assunção do Piauí                              2201051
+203 206  ... Boa Hora                                       2201770
+203 207  ... Boqueirão do Piauí                             2201945
+203 208  ... Buriti dos Montes                              2202026
+203 209  ... Cabeceiras do Piauí                            2202059
+203 210  ... Campo Maior                                    2202208
+203 211  ... Capitão de Campos                              2202406
+203 212  ... Castelo do Piauí                               2202604
+203 213  ... Cocal de Telha                                 2202711
+203 214  ... Coivaras                                       2202737
+203 215  ... Jatobá do Piauí                                2205276
+203 216  ... Juazeiro do Piauí                              2205516
+203 217  ... Nossa Senhora de Nazaré                        2206753
+203 218  ... Novo Santo Antônio                             2206951
+203 219  ... Sigefredo Pacheco                              2210656
+203 220  ... São João da Serra                              2209906
+203 221  ... São Miguel do Tapuio                           2210409
+    222  PI - ENTRE RIOS                                    2200103,2200400,2200509,2200608,2201408,2201606,2203255,2203305,2200202,2204600,2205250,2205508,2205557,2205581,2205540,2206209,2206308,2206407,2207108,2207504,2207751,2207793,2208809,2209450,2209807,2210508,2211001,2211100
+222 223  ... Agricolândia                                   2200103
+222 224  ... Altos                                          2200400
+222 225  ... Amarante                                       2200509
+222 226  ... Angical do Piauí                               2200608
+222 227  ... Barro Duro                                     2201408
+222 228  ... Beneditinos                                    2201606
+222 229  ... Curralinhos                                    2203255
+222 230  ... Demerval Lobão                                 2203305
+222 231  ... Água Branca                                    2200202
+222 232  ... Hugo Napoleão                                  2204600
+222 233  ... Jardim do Mulato                               2205250
+222 234  ... José de Freitas                                2205508
+222 235  ... Lagoa Alegre                                   2205557
+222 236  ... Lagoa do Piauí                                 2205581
+222 237  ... Lagoinha do Piauí                              2205540
+222 238  ... Miguel Alves                                   2206209
+222 239  ... Miguel Leão                                    2206308
+222 240  ... Monsenhor Gil                                  2206407
+222 241  ... Olho D`Água do Piauí                           2207108
+222 242  ... Palmeirais                                     2207504
+222 243  ... Passagem Franca do Piauí                       2207751
+222 244  ... Pau D'Arco do Piaui                            2207793
+222 245  ... Regeneração                                    2208809
+222 246  ... Santo Antônio dos Milagres                     2209450
+222 247  ... São Gonçalo do Piauí                           2209807
+222 248  ... São Pedro do Piauí                             2210508
+222 249  ... Teresina                                       2211001
+222 250  ... União                                          2211100
+    251  PI - SERRA DA CAPIVARA                             2200707,2201929,2202117,2202455,2202505,2202851,2203354,2203453,2203750,2204550,2205359,2205532,2205565,2209559,2210003,2210359,2210607,2211357
+251 252  ... Anísio de Abreu                                2200707
+251 253  ... Bonfim do Piauí                                2201929
+251 254  ... Campo Alegre do Fidalgo                        2202117
+251 255  ... Capitão Gervásio Oliveira                      2202455
+251 256  ... Caracol                                        2202505
+251 257  ... Coronel José Dias                              2202851
+251 258  ... Dirceu Arcoverde                               2203354
+251 259  ... Dom Inocêncio                                  2203453
+251 260  ... Fartura do Piauí                               2203750
+251 261  ... Guaribas                                       2204550
+251 262  ... João Costa                                     2205359
+251 263  ... Jurema                                         2205532
+251 264  ... Lagoa do Barro do Piauí                        2205565
+251 265  ... São Braz do Piauí                              2209559
+251 266  ... São João do Piauí                              2210003
+251 267  ... São Lourenço do Piauí                          2210359
+251 268  ... São Raimundo Nonato                            2210607
+251 269  ... Várzea Branca                                  2211357
+    270  PI - VALE DO GUARIBAS                              2200053,2200251,2200277,2201572,2201739,2201804,2202091,2202133,2202554,2203271,2204154,2204204,2204303,2204352,2205151,2205201,2205953,2206050,2206506,2207207,2207777,2207801,2208007,2208205,2208650,2209351,2209401,2210706,2209856,2210201E304,E305,E306,E307
+270 271  ... Acauã                                          2200053
+270 272  ... Alagoinha do Piauí                             2200251
+270 273  ... Alegrete do Piauí                              2200277
+270 274  ... Belém do Piauí                                 2201572
+270 275  ... Betânia do Piauí                               2201739
+270 276  ... Bocaina                                        2201804
+270 277  ... Caldeirão Grande do Piauí                      2202091
+270 278  ... Campo Grande do Piauí                          2202133
+270 279  ... Caridade do Piauí                              2202554
+270 280  ... Curral Novo do Piauí                           2203271
+270 281  ... Francisco Macedo                               2204154
+270 282  ... Francisco Santos                               2204204
+270 283  ... Fronteiras                                     2204303
+270 284  ... Geminiano                                      2204352
+270 285  ... Jacobina do Piauí                              2205151
+270 286  ... Jaicós                                         2205201
+270 287  ... Marcolândia                                    2205953
+270 288  ... Massapê do Piauí                               2206050
+270 289  ... Monsenhor Hipólito                             2206506
+270 290  ... Padre Marcos                                   2207207
+270 291  ... Patos do Piauí                                 2207777
+270 292  ... Paulistana                                     2207801
+270 293  ... Picos                                          2208007
+270 294  ... Pio IX                                         2208205
+270 295  ... Queimada Nova                                  2208650
+270 296  ... Santana do Piauí                               2209351
+270 297  ... Santo Antônio de Lisboa                        2209401
+270 298  ... Simões                                         2210706
+270 299  ... São João da Canabrava                          2209856
+270 300  ... São José do Piauí                              2210201
+270 301  ... São Julião                                     2210300
+270 302  ... São Luis do Piauí                              2210375
+270 303  ... Sussuapara                                     2210938
+270 304  ... Vila Nova do Piauí                             2211605
+    305  CE - INHAMUNS CRATEÚS                              2300408,2301257,2301505,2303659,2304103,2305209,2305605,2305654,2305803,2305902,2308609,2309300,2309409,2310308,2310951,2311009,2311264,2312205,2313203,2313302
+305 306  ... Aiuaba                                         2300408
+305 307  ... Ararendá                                       2301257
+305 308  ... Arneiroz                                       2301505
+305 309  ... Catunda                                        2303659
+305 310  ... Crateús                                        2304103
+305 311  ... Hidrolândia                                    2305209
+305 312  ... Independência                                  2305605
+305 313  ... Ipaporanga                                     2305654
+305 314  ... Ipu                                            2305803
+305 315  ... Ipueiras                                       2305902
+305 316  ... Monsenhor Tabosa                               2308609
+305 317  ... Nova Russas                                    2309300
+305 318  ... Novo Oriente                                   2309409
+305 319  ... Parambu                                        2310308
+305 320  ... Pires Ferreira                                 2310951
+305 321  ... Poranga                                        2311009
+305 322  ... Quiterianópolis                                2311264
+305 323  ... Santa Quitéria                                 2312205
+305 324  ... Tamboril                                       2313203
+305 325  ... Tauá                                           2313302
+    326  CE - ITAPIPOCA                                     2300754,2300903,2304608,2306108,2306306,2306405,2306553,2308377,2310209,2310258,2310704,2312403,2312601,2313351,2313500,2313559,2313757,2313807
+326 327  ... Amontada                                       2300754
+326 328  ... Apuiarés                                       2300903
+326 329  ... General Sampaio                                2304608
+326 330  ... Irauçuba                                       2306108
+326 331  ... Itapagé                                        2306306
+326 332  ... Itapipoca                                      2306405
+326 333  ... Itarema                                        2306553
+326 334  ... Miraíma                                        2308377
+326 335  ... Paracuru                                       2310209
+326 336  ... Paraipaba                                      2310258
+326 337  ... Pentecoste                                     2310704
+326 338  ... São Gonçalo do Amarante                        2312403
+326 339  ... São Luís do Curu                               2312601
+326 340  ... Tejuçuoca                                      2313351
+326 341  ... Trairi                                         2313500
+326 342  ... Tururu                                         2313559
+326 343  ... Umirim                                         2313757
+326 344  ... Uruburetama                                    2313807
+    345  CE - SERTÃO CENTRAL                                2301851,2303931,2304269,2305266,2308351,2308500,2310506,2310902,2311306,2311405,2312700,2313005
+345 346  ... Banabuiú                                       2301851
+345 347  ... Choró                                          2303931
+345 348  ... Deputado Irapuan Pinheiro                      2304269
+345 349  ... Ibaretama                                      2305266
+345 350  ... Milhã                                          2308351
+345 351  ... Mombaça                                        2308500
+345 352  ... Pedra Branca                                   2310506
+345 353  ... Piquet Carneiro                                2310902
+345 354  ... Quixadá                                        2311306
+345 355  ... Quixeramobim                                   2311405
+345 356  ... Senador Pompeu                                 2312700
+345 357  ... Solonópole                                     2313005
+    358  RN - AÇU-MOSSORÓ                                   2400703,2401107,2400208,2401453,2402501,2404408,2404705,2404853,2408003,2409902,2410256,2413359,2412807,2411056
+358 359  ... Alto do Rodrigues                              2400703
+358 360  ... Areia Branca                                   2401107
+358 361  ... Açu                                            2400208
+358 362  ... Baraúna                                        2401453
+358 363  ... Carnaubais                                     2402501
+358 364  ... Grossos                                        2404408
+358 365  ... Ipanguaçu                                      2404705
+358 366  ... Itajá                                          2404853
+358 367  ... Mossoró                                        2408003
+358 368  ... Pendências                                     2409902
+358 369  ... Porto do Mangue                                2410256
+358 370  ... Serra do Mel                                   2413359
+358 371  ... São Rafael                                     2412807
+358 372  ... Tibau                                          2411056
+    373  RN - MATO GRANDE                                   2401602,2401859,2402600,2405108,2405801,2407500,2408805,2409506,2410108,2410405,2408953,2411601,2412559,2413904,2414407
+373 374  ... Bento Fernandes                                2401602
+373 375  ... Caiçara do Norte                               2401859
+373 376  ... Ceará-Mirim                                    2402600
+373 377  ... Jandaíra                                       2405108
+373 378  ... João Câmara                                    2405801
+373 379  ... Maxaranguape                                   2407500
+373 380  ... Parazinho                                      2408805
+373 381  ... Pedra Grande                                   2409506
+373 382  ... Poço Branco                                    2410108
+373 383  ... Pureza                                         2410405
+373 384  ... Rio do Fogo                                    2408953
+373 385  ... São Bento do Norte                             2411601
+373 386  ... São Miguel do Gostoso                          2412559
+373 387  ... Taipu                                          2413904
+373 388  ... Touros                                         2414407
+    389  RN - SERTÃO DO APODI (CHAPADA DO APODI)            2401008,2401305,2402303,2403707,2404309,2404903,2405207,2407609,2408409,2408706,2409308,2410603,2411007,2413607,2414456,2414506,2414605
+389 390  ... Apodi                                          2401008
+389 391  ... Augusto Severo                                 2401305
+389 392  ... Caraúbas                                       2402303
+389 393  ... Felipe Guerra                                  2403707
+389 394  ... Governador Dix-Sept Rosado                     2404309
+389 395  ... Itaú                                           2404903
+389 396  ... Janduís                                        2405207
+389 397  ... Messias Targino                                2407609
+389 398  ... Olho-d`Água do Borges                          2408409
+389 399  ... Paraú                                          2408706
+389 400  ... Patu                                           2409308
+389 401  ... Rafael Godeiro                                 2410603
+389 402  ... Rodolfo Fernandes                              2411007
+389 403  ... Severiano Melo                                 2413607
+389 404  ... Triunfo Potiguar                               2414456
+389 405  ... Umarizal                                       2414506
+389 406  ... Upanema                                        2414605
+    407  PB - BORBOREMA                                     2500403,2500577,2500908,2501104,2501203,2502706,2504009,2504157,2506004,2508307,2509206,2509339,2509503,2511608,2512408,2512507,2512705,2515807,2515906,2516003,2515104
+407 408  ... Alagoa Nova                                    2500403
+407 409  ... Algodão de Jandaíra                            2500577
+407 410  ... Arara                                          2500908
+407 411  ... Areia                                          2501104
+407 412  ... Areial                                         2501203
+407 413  ... Borborema                                      2502706
+407 414  ... Campina Grande                                 2504009
+407 415  ... Casserengue                                    2504157
+407 416  ... Esperança                                      2506004
+407 417  ... Lagoa Seca                                     2508307
+407 418  ... Massaranduba                                   2509206
+407 419  ... Matinhas                                       2509339
+407 420  ... Montadas                                       2509503
+407 421  ... Pilões                                         2511608
+407 422  ... Puxinanã                                       2512408
+407 423  ... Queimadas                                      2512507
+407 424  ... Remígio                                        2512705
+407 425  ... Serra Redonda                                  2515807
+407 426  ... Serraria                                       2515906
+407 427  ... Solânea                                        2516003
+407 428  ... São Sebastião de Lagoa de Roça                 2515104
+    429  PB - ZONA DA MATA NORTE                            2501401,2503209,2504033,2504900,2505238,2505279,2507101,2507309,2508604,2508901,2509057,2509107,2509305,2512721,2512762,2512903,2513703,2515302,2515971
+429 430  ... Baía da Traição                                2501401
+429 431  ... Cabedelo                                       2503209
+429 432  ... Capim                                          2504033
+429 433  ... Cruz do Espírito Santo                         2504900
+429 434  ... Cuité de Mamanguape                            2505238
+429 435  ... Curral de Cima                                 2505279
+429 436  ... Itapororoca                                    2507101
+429 437  ... Jacaraú                                        2507309
+429 438  ... Lucena                                         2508604
+429 439  ... Mamanguape                                     2508901
+429 440  ... Marcação                                       2509057
+429 441  ... Mari                                           2509107
+429 442  ... Mataraca                                       2509305
+429 443  ... Pedro Régis                                    2512721
+429 444  ... Riachão do Poço                                2512762
+429 445  ... Rio Tinto                                      2512903
+429 446  ... Santa Rita                                     2513703
+429 447  ... Sapé                                           2515302
+429 448  ... Sobrado                                        2515971
+    449  PB - ZONA DA MATA SUL                              2500601,2501807,2503001,2503803,2504603,2506905,2507507,2507903,2511202,2511509,2511905,2514453,2515005
+449 450  ... Alhandra                                       2500601
+449 451  ... Bayeux                                         2501807
+449 452  ... Caaporã                                        2503001
+449 453  ... Caldas Brandão                                 2503803
+449 454  ... Conde                                          2504603
+449 455  ... Itabaiana                                      2506905
+449 456  ... João Pessoa                                    2507507
+449 457  ... Juripiranga                                    2507903
+449 458  ... Pedras de Fogo                                 2511202
+449 459  ... Pilar                                          2511509
+449 460  ... Pitimbu                                        2511905
+449 461  ... São José dos Ramos                             2514453
+449 462  ... São Miguel de Taipu                            2515005
+    463  PE - AGRESTE MERIDIONAL                            2602100,2602803,2603207,2603801,2600500,2606507,2606606,2607000,2607505,2609154,2610301,2610806,2612307,2615102,2615805,2616001
+463 464  ... Bom Conselho                                   2602100
+463 465  ... Buíque                                         2602803
+463 466  ... Caetés                                         2603207
+463 467  ... Capoeiras                                      2603801
+463 468  ... Águas Belas                                    2600500
+463 469  ... Iati                                           2606507
+463 470  ... Ibimirim                                       2606606
+463 471  ... Inajá                                          2607000
+463 472  ... Itaíba                                         2607505
+463 473  ... Manari                                         2609154
+463 474  ... Paranatama                                     2610301
+463 475  ... Pedra                                          2610806
+463 476  ... Saloá                                          2612307
+463 477  ... Terezinha                                      2615102
+463 478  ... Tupanatinga                                    2615805
+463 479  ... Venturosa                                      2616001
+    480  PE - MATA SUL                                      2600906,2601409,2601508,2602308,2604205,2604809,2605905,2600401,2607950,2608206,2609204,2610004,2611408,2611804,2611903,2612901,2613404,2614857,2616506
+480 481  ... Amaraji                                        2600906
+480 482  ... Barreiros                                      2601409
+480 483  ... Belém de Maria                                 2601508
+480 484  ... Bonito                                         2602308
+480 485  ... Catende                                        2604205
+480 486  ... Cortês                                         2604809
+480 487  ... Gameleira                                      2605905
+480 488  ... Água Preta                                     2600401
+480 489  ... Jaqueira                                       2607950
+480 490  ... Joaquim Nabuco                                 2608206
+480 491  ... Maraial                                        2609204
+480 492  ... Palmares                                       2610004
+480 493  ... Primavera                                      2611408
+480 494  ... Ribeirão                                       2611804
+480 495  ... Rio Formoso                                    2611903
+480 496  ... São Benedito do Sul                            2612901
+480 497  ... São José da Coroa Grande                       2613404
+480 498  ... Tamandaré                                      2614857
+480 499  ... Xexéu                                          2616506
+    500  PE - SERTÃO DO PAJEÚ                               2600104,2602506,2603405,2603900,2605608,2606903,2607109,2607703,2609303,2611533,2612471,2612802,2613909,2614105,2613503,2613602,2614402,2614600,2615706,2615904
+500 501  ... Afogados da Ingazeira                          2600104
+500 502  ... Brejinho                                       2602506
+500 503  ... Calumbi                                        2603405
+500 504  ... Carnaíba                                       2603900
+500 505  ... Flores                                         2605608
+500 506  ... Iguaraci                                       2606903
+500 507  ... Ingazeira                                      2607109
+500 508  ... Itapetim                                       2607703
+500 509  ... Mirandiba                                      2609303
+500 510  ... Quixaba                                        2611533
+500 511  ... Santa Cruz da Baixa Verde                      2612471
+500 512  ... Santa Terezinha                                2612802
+500 513  ... Serra Talhada                                  2613909
+500 514  ... Sertânia                                       2614105
+500 515  ... São José do Belmonte                           2613503
+500 516  ... São José do Egito                              2613602
+500 517  ... Solidão                                        2614402
+500 518  ... Tabira                                         2614600
+500 519  ... Triunfo                                        2615706
+500 520  ... Tuparetama                                     2615904
+    521  AL - DO AGRESTE                                    2700300,2701506,2702009,2702355,2702553,2702603,2702900,2703106,2704005,2704104,2704203,2705903,2706307,2708808,2709103,2709202
+521 522  ... Arapiraca                                      2700300
+521 523  ... Campo Grande                                   2701506
+521 524  ... Coité do Nóia                                  2702009
+521 525  ... Craíbas                                        2702355
+521 526  ... Estrela de Alagoas                             2702553
+521 527  ... Feira Grande                                   2702603
+521 528  ... Girau do Ponciano                              2702900
+521 529  ... Igaci                                          2703106
+521 530  ... Junqueiro                                      2704005
+521 531  ... Lagoa da Canoa                                 2704104
+521 532  ... Limoeiro de Anadia                             2704203
+521 533  ... Olho d`Água Grande                             2705903
+521 534  ... Palmeira dos Índios                            2706307
+521 535  ... São Sebastião                                  2708808
+521 536  ... Taquarana                                      2709103
+521 537  ... Traipu                                         2709202
+    538  AL - DO ALTO SERTÃO                                2701605,2702405,2700102,2703304,2705002,2705804,2706422,2707107
+538 539  ... Canapi                                         2701605
+538 540  ... Delmiro Gouveia                                2702405
+538 541  ... Água Branca                                    2700102
+538 542  ... Inhapi                                         2703304
+538 543  ... Mata Grande                                    2705002
+538 544  ... Olho d`Água do Casado                          2705804
+538 545  ... Pariconha                                      2706422
+538 546  ... Piranhas                                       2707107
+    547  AL - DO LITORAL NORTE                              2700508,2701357,2703502,2703601,2703908,2704500,2705101,2706505,2707305,2707404,2708501,2708709
+547 548  ... Barra de Santo Antônio                         2700508
+547 549  ... Campestre                                      2701357
+547 550  ... Jacuípe                                        2703502
+547 551  ... Japaratinga                                    2703601
+547 552  ... Jundiá                                         2703908
+547 553  ... Maragogi                                       2704500
+547 554  ... Matriz de Camaragibe                           2705101
+547 555  ... Passo de Camaragibe                            2706505
+547 556  ... Porto Calvo                                    2707305
+547 557  ... Porto de Pedras                                2707404
+547 558  ... São Luís do Quitunde                           2708501
+547 559  ... São Miguel dos Milagres                        2708709
+    560  SE - ALTO SERTÃO                                   2801207,2802403,2804201,2804508,2804706,2805406,2805604
+560 561  ... Canindé de São Francisco                       2801207
+560 562  ... Gararu                                         2802403
+560 563  ... Monte Alegre de Sergipe                        2804201
+560 564  ... Nossa Senhora da Glória                        2804508
+560 565  ... Nossa Senhora de Lourdes                       2804706
+560 566  ... Poço Redondo                                   2805406
+560 567  ... Porto da Folha                                 2805604
+    568  SE - SERTÃO OCIDENTAL                              2801405,2802304,2803708,2804458,2805000,2805208,2805505,2806008,2807105,2807006,2807402
+568 569  ... Carira                                         2801405
+568 570  ... Frei Paulo                                     2802304
+568 571  ... Macambira                                      2803708
+568 572  ... Nossa Senhora Aparecida                        2804458
+568 573  ... Pedra Mole                                     2805000
+568 574  ... Pinhão                                         2805208
+568 575  ... Poço Verde                                     2805505
+568 576  ... Ribeirópolis                                   2806008
+568 577  ... Simão Dias                                     2807105
+568 578  ... São Miguel do Aleixo                           2807006
+568 579  ... Tobias Barreto                                 2807402
+    580  BA - CHAPADA DIAMANTINA                            2900108,2901304,2902807,2904001,2904050,2912202,2913002,2914406,2915007,2918605,2919306,2920809,2921708,2921906,2922854,2923035,2923506,2924306,2926707,2929909,2930808,2932804,2933406
+580 581  ... Abaíra                                         2900108
+580 582  ... Andaraí                                        2901304
+580 583  ... Barra da Estiva                                2902807
+580 584  ... Boninal                                        2904001
+580 585  ... Bonito                                         2904050
+580 586  ... Ibicoara                                       2912202
+580 587  ... Ibitiara                                       2913002
+580 588  ... Iraquara                                       2914406
+580 589  ... Itaeté                                         2915007
+580 590  ... Jussiape                                       2918605
+580 591  ... Lençóis                                        2919306
+580 592  ... Marcionílio Souza                              2920809
+580 593  ... Morro do Chapéu                                2921708
+580 594  ... Mucugê                                         2921906
+580 595  ... Nova Redenção                                  2922854
+580 596  ... Novo Horizonte                                 2923035
+580 597  ... Palmeiras                                      2923506
+580 598  ... Piatã                                          2924306
+580 599  ... Rio de Contas                                  2926707
+580 600  ... Seabra                                         2929909
+580 601  ... Souto Soares                                   2930808
+580 602  ... Utinga                                         2932804
+580 603  ... Wagner                                         2933406
+    604  BA - DO SISAL                                      2902104,2903276,2903607,2906402,2906808,2908408,2913309,2917003,2919108,2921500,2922656,2925808,2925907,2926103,2928000,2930501,2928950,2931509,2931905,2933000
+604 605  ... Araci                                          2902104
+604 606  ... Barrocas                                       2903276
+604 607  ... Biritinga                                      2903607
+604 608  ... Candeal                                        2906402
+604 609  ... Cansanção                                      2906808
+604 610  ... Conceição do Coité                             2908408
+604 611  ... Ichu                                           2913309
+604 612  ... Itiúba                                         2917003
+604 613  ... Lamarão                                        2919108
+604 614  ... Monte Santo                                    2921500
+604 615  ... Nordestina                                     2922656
+604 616  ... Queimadas                                      2925808
+604 617  ... Quijingue                                      2925907
+604 618  ... Retirolândia                                   2926103
+604 619  ... Santaluz                                       2928000
+604 620  ... Serrinha                                       2930501
+604 621  ... São Domingos                                   2928950
+604 622  ... Teofilândia                                    2931509
+604 623  ... Tucano                                         2931905
+604 624  ... Valente                                        2933000
+    625  BA - SUL                                           2900900,2902252,2902401,2903300,2904704,2905602,2906303,2908002,2911006,2911501,2912103,2912707,2913606,2914802,2914901,2915403,2915502,2916203,2916609,2918555,2920700,2920908,2923902,2928059,2929354,2932200,2932309,2932507,2932705
+625 626  ... Almadina                                       2900900
+625 627  ... Arataca                                        2902252
+625 628  ... Aurelino Leal                                  2902401
+625 629  ... Barro Preto                                    2903300
+625 630  ... Buerarema                                      2904704
+625 631  ... Camacan                                        2905602
+625 632  ... Canavieiras                                    2906303
+625 633  ... Coaraci                                        2908002
+625 634  ... Floresta Azul                                  2911006
+625 635  ... Gongogi                                        2911501
+625 636  ... Ibicaraí                                       2912103
+625 637  ... Ibirapitanga                                   2912707
+625 638  ... Ilhéus                                         2913606
+625 639  ... Itabuna                                        2914802
+625 640  ... Itacaré                                        2914901
+625 641  ... Itaju do Colônia                               2915403
+625 642  ... Itajuípe                                       2915502
+625 643  ... Itapé                                          2916203
+625 644  ... Itapitanga                                     2916609
+625 645  ... Jussari                                        2918555
+625 646  ... Maraú                                          2920700
+625 647  ... Mascote                                        2920908
+625 648  ... Pau Brasil                                     2923902
+625 649  ... Santa Luzia                                    2928059
+625 650  ... São José da Vitória                            2929354
+625 651  ... Ubaitaba                                       2932200
+625 652  ... Ubatã                                          2932309
+625 653  ... Una                                            2932507
+625 654  ... Uruçuca                                        2932705
+    655  BA - VELHO CHICO                                   2902708,2903904,2904506,2907103,2910776,2913200,2913408,2920205,2921054,2921609,2922250,2923209,2923704,2926400,2930154,2930758
+655 656  ... Barra                                          2902708
+655 657  ... Bom Jesus da Lapa                              2903904
+655 658  ... Brotas de Macaúbas                             2904506
+655 659  ... Carinhanha                                     2907103
+655 660  ... Feira da Mata                                  2910776
+655 661  ... Ibotirama                                      2913200
+655 662  ... Igaporã                                        2913408
+655 663  ... Malhada                                        2920205
+655 664  ... Matina                                         2921054
+655 665  ... Morpará                                        2921609
+655 666  ... Muquém de São Francisco                        2922250
+655 667  ... Oliveira dos Brejinhos                         2923209
+655 668  ... Paratinga                                      2923704
+655 669  ... Riacho de Santana                              2926400
+655 670  ... Serra do Ramalho                               2930154
+655 671  ... Sítio do Mato                                  2930758
+    672  MT - BAIXO ARAGUAIA                                5100359,5101852,5102694,5103353,5105309,5106315,5106778,5107065,5107180,5107743,5107776,5107883,5107859,5107354,5108600
+672 673  ... Alto Boa Vista                                 5100359
+672 674  ... Bom Jesus do Araguaia                          5101852
+672 675  ... Canabrava do Norte                             5102694
+672 676  ... Confresa                                       5103353
+672 677  ... Luciára                                        5105309
+672 678  ... Novo Santo Antônio                             5106315
+672 679  ... Porto Alegre do Norte                          5106778
+672 680  ... Querência                                      5107065
+672 681  ... Ribeirão Cascalheira                           5107180
+672 682  ... Santa Cruz do Xingu                            5107743
+672 683  ... Santa Terezinha                                5107776
+672 684  ... Serra Nova Dourada                             5107883
+672 685  ... São Félix do Araguaia                          5107859
+672 686  ... São José do Xingu                              5107354
+672 687  ... Vila Rica                                      5108600
+    688  MT - PORTAL DA AMAZÔNIA                            5100250,5100805,5102793,5103205,5104104,5105580,5105606,5106158,5106216,5108808,5108956,5106190,5106265,5106299,5106422,5108055
+688 689  ... Alta Floresta                                  5100250
+688 690  ... Apiacás                                        5100805
+688 691  ... Carlinda                                       5102793
+688 692  ... Colíder                                        5103205
+688 693  ... Guarantã do Norte                              5104104
+688 694  ... Marcelândia                                    5105580
+688 695  ... Matupá                                         5105606
+688 696  ... Nova Bandeirantes                              5106158
+688 697  ... Nova Canaã do Norte                            5106216
+688 698  ... Nova Guarita                                   5108808
+688 699  ... Nova Monte verde                               5108956
+688 700  ... Nova Santa Helena                              5106190
+688 701  ... Novo Mundo                                     5106265
+688 702  ... Paranaíta                                      5106299
+688 703  ... Peixoto de Azevedo                             5106422
+688 704  ... Terra Nova do Norte                            5108055
+    705  MS - DA REFORMA                                    5000708,5002100,5002159,5002209,5003488,5004106,5005004,5005400,5005806,5007901,5008008
+705 706  ... Anastácio                                      5000708
+705 707  ... Bela Vista                                     5002100
+705 708  ... Bodoquena                                      5002159
+705 709  ... Bonito                                         5002209
+705 710  ... Dois Irmãos do Buriti                          5003488
+705 711  ... Guia Lopes da Laguna                           5004106
+705 712  ... Jardim                                         5005004
+705 713  ... Maracaju                                       5005400
+705 714  ... Nioaque                                        5005806
+705 715  ... Sidrolândia                                    5007901
+705 716  ... Terenos                                        5008008
+    717  MS - GRANDE DOURADOS                               5002407,5003454,5003504,5003702,5003801,5004007,5004502,5005103,5005152,5006002,5007208,5008404
+717 718  ... Caarapó                                        5002407
+717 719  ... Deodápolis                                     5003454
+717 720  ... Douradina                                      5003504
+717 721  ... Dourados                                       5003702
+717 722  ... Fátima do Sul                                  5003801
+717 723  ... Glória de Dourados                             5004007
+717 724  ... Itaporã                                        5004502
+717 725  ... Jateí                                          5005103
+717 726  ... Juti                                           5005152
+717 727  ... Nova Alvorada do Sul                           5006002
+717 728  ... Rio Brilhante                                  5007208
+717 729  ... Vicentina                                      5008404
+    730  GO - VALE DO RIO VERMELHO                          5203939,5205000,5205703,5208905,5209291,5209606,5210406,5210562,5210604,5211008,5211206,5213855,5213905,5219001,5221007,5221700
+730 731  ... Buriti de Goiás                                5203939
+730 732  ... Carmo do Rio Verde                             5205000
+730 733  ... Córrego do Ouro                                5205703
+730 734  ... Goiás                                          5208905
+730 735  ... Guaraíta                                       5209291
+730 736  ... Heitoraí                                       5209606
+730 737  ... Itaberaí                                       5210406
+730 738  ... Itaguari                                       5210562
+730 739  ... Itaguaru                                       5210604
+730 740  ... Itapirapuã                                     5211008
+730 741  ... Itapuranga                                     5211206
+730 742  ... Morro Agudo de Goiás                           5213855
+730 743  ... Mossâmedes                                     5213905
+730 744  ... Sanclerlândia                                  5219001
+730 745  ... Taquaral de Goiás                              5221007
+730 746  ... Uruana                                         5221700
+    747  DF/GO/MG - DAS ÁGUAS EMENDADAS                     5300108,3109303,3109451,5204003,5208004,5200175,5213053,5215603,5217609,3170404,5222203
+747 748  ... Brasília                                       5300108
+747 749  ... Buritis                                        3109303
+747 750  ... Cabeceira Grande                               3109451
+747 751  ... Cabeceiras                                     5204003
+747 752  ... Formosa                                        5208004
+747 753  ... Água Fria de Goiás                             5200175
+747 754  ... Mimoso de Goiás                                5213053
+747 755  ... Padre Bernardo                                 5215603
+747 756  ... Planaltina                                     5217609
+747 757  ... Unaí                                           3170404
+747 758  ... Vila Boa                                       5222203
+    759  ES - NORTE                                         3200904,3201001,3201605,3202108,3200169,3200136,3203056,3203502,3203601,3203908,3204054,3204104,3204252,3204708,3204906,3205150,3205176
+759 760  ... Barra de São Francisco                         3200904
+759 761  ... Boa Esperança                                  3201001
+759 762  ... Conceição da Barra                             3201605
+759 763  ... Ecoporanga                                     3202108
+759 764  ... Água Doce do Norte                             3200169
+759 765  ... Águia Branca                                   3200136
+759 766  ... Jaguaré                                        3203056
+759 767  ... Montanha                                       3203502
+759 768  ... Mucurici                                       3203601
+759 769  ... Nova Venécia                                   3203908
+759 770  ... Pedro Canário                                  3204054
+759 771  ... Pinheiros                                      3204104
+759 772  ... Ponto Belo                                     3204252
+759 773  ... São Gabriel da Palha                           3204708
+759 774  ... São Mateus                                     3204906
+759 775  ... Vila Pavão                                     3205150
+759 776  ... Vila Valério                                   3205176
+    777  MG - MÉDIO JEQUITINHONHA                           3102852,3103405,3106507,3102704,3116100,3117009,3119500,3126505,3101003,3133303,3134004,3135456,3136520,3141405,3145307,3146305,3148707,3152170,3171600
+777 778  ... Angelândia                                     3102852
+777 779  ... Araçuaí                                        3103405
+777 780  ... Berilo                                         3106507
+777 781  ... Cachoeira de Pajeú                             3102704
+777 782  ... Chapada do Norte                               3116100
+777 783  ... Comercinho                                     3117009
+777 784  ... Coronel Murta                                  3119500
+777 785  ... Francisco Badaró                               3126505
+777 786  ... Águas Vermelhas                                3101003
+777 787  ... Itaobim                                        3133303
+777 788  ... Itinga                                         3134004
+777 789  ... Jenipapo de Minas                              3135456
+777 790  ... José Gonçalves de Minas                        3136520
+777 791  ... Medina                                         3141405
+777 792  ... Novo Cruzeiro                                  3145307
+777 793  ... Padre Paraíso                                  3146305
+777 794  ... Pedra Azul                                     3148707
+777 795  ... Ponto dos Volantes                             3152170
+777 796  ... Virgem da Lapa                                 3171600
+    797  MG - NOROESTE DE MINAS                             3104502,3108206,3108552,3116159,3122470,3126208,3128600,3136306,3137106,3137536,3144375,3147006,3150570,3153400,3154457,3157609,3161700,3164209,3170479,3170529,3170750,3171006
+797 798  ... Arinos                                         3104502
+797 799  ... Bonfinópolis de Minas                          3108206
+797 800  ... Brasilândia de Minas                           3108552
+797 801  ... Chapada Gaúcha                                 3116159
+797 802  ... Dom Bosco                                      3122470
+797 803  ... Formoso                                        3126208
+797 804  ... Guarda-Mor                                     3128600
+797 805  ... João Pinheiro                                  3136306
+797 806  ... Lagamar                                        3137106
+797 807  ... Lagoa Grande                                   3137536
+797 808  ... Natalândia                                     3144375
+797 809  ... Paracatu                                       3147006
+797 810  ... Pintópolis                                     3150570
+797 811  ... Presidente Olegário                            3153400
+797 812  ... Riachinho                                      3154457
+797 813  ... Santa Fé de Minas                              3157609
+797 814  ... São Gonçalo do Abaeté                          3161700
+797 815  ... São Romão                                      3164209
+797 816  ... Uruana de Minas                                3170479
+797 817  ... Urucuia                                        3170529
+797 818  ... Varjão de Minas                                3170750
+797 819  ... Vazante                                        3171006
+    820  MG - SERRA GERAL                                   3115474,3124302,3127339,3135050,3135100,3139250,3139300,3140852,3141009,3142908,3145059,3146552,3152204,3154507,3166956,3171030
+820 821  ... Catuti                                         3115474
+820 822  ... Espinosa                                       3124302
+820 823  ... Gameleiras                                     3127339
+820 824  ... Jaíba                                          3135050
+820 825  ... Janaúba                                        3135100
+820 826  ... Mamonas                                        3139250
+820 827  ... Manga                                          3139300
+820 828  ... Matias Cardoso                                 3140852
+820 829  ... Mato Verde                                     3141009
+820 830  ... Monte Azul                                     3142908
+820 831  ... Nova Porteirinha                               3145059
+820 832  ... Pai Pedro                                      3146552
+820 833  ... Porteirinha                                    3152204
+820 834  ... Riacho dos Machados                            3154507
+820 835  ... Serranópolis de Minas                          3166956
+820 836  ... Verdelândia                                    3171030
+    837  MG - VALE DO MUCURI                                3104700,3106606,3110806,3113008,3113701,3115458,3120151,3126752,3126802,3127057,3100906,3132305,3132701,3137007,3138906,3139201,3144300,3145356,3146206,3148509,3150000,3152402,3157658,3166709,3165552,3168606,3170305
+837 838  ... Ataléia                                        3104700
+837 839  ... Bertópolis                                     3106606
+837 840  ... Campanário                                     3110806
+837 841  ... Caraí                                          3113008
+837 842  ... Carlos Chagas                                  3113701
+837 843  ... Catuji                                         3115458
+837 844  ... Crisólita                                      3120151
+837 845  ... Franciscópolis                                 3126752
+837 846  ... Frei Gaspar                                    3126802
+837 847  ... Fronteira dos Vales                            3127057
+837 848  ... Águas Formosas                                 3100906
+837 849  ... Itaipé                                         3132305
+837 850  ... Itambacuri                                     3132701
+837 851  ... Ladainha                                       3137007
+837 852  ... Machacalis                                     3138906
+837 853  ... Malacacheta                                    3139201
+837 854  ... Nanuque                                        3144300
+837 855  ... Novo Oriente de Minas                          3145356
+837 856  ... Ouro Verde de Minas                            3146206
+837 857  ... Pavão                                          3148509
+837 858  ... Pescador                                       3150000
+837 859  ... Poté                                           3152402
+837 860  ... Santa Helena de Minas                          3157658
+837 861  ... Serra dos Aimorés                              3166709
+837 862  ... Setubinha                                      3165552
+837 863  ... Teófilo Otoni                                  3168606
+837 864  ... Umburatiba                                     3170305
+    865  RJ - NORTE                                         3301009,3300936,3301157,3301405,3302403,3304151,3304805,3304755,3305000
+865 866  ... Campos dos Goytacazes                          3301009
+865 867  ... Carapebus                                      3300936
+865 868  ... Cardoso Moreira                                3301157
+865 869  ... Conceição de Macabu                            3301405
+865 870  ... Macaé                                          3302403
+865 871  ... Quissamã                                       3304151
+865 872  ... São Fidélis                                    3304805
+865 873  ... São Francisco de Itabapoana                    3304755
+865 874  ... São João da Barra                              3305000
+    875  SP - PONTAL DO PARANAPANEMA                        3500808,3502408,3508900,3509106,3515129,3515301,3515350,3519907,3520608,3525607,3501301,3528700,3529203,3530201,3532157,3532207,3538303,3539202,3541208,3541307,3541406,3541505,3542206,3542404,3543238,3544251,3545506,3547700,3548302,3552908,3553906,3554300
+875 876  ... Alfredo Marcondes                              3500808
+875 877  ... Anhumas                                        3502408
+875 878  ... Caiabu                                         3508900
+875 879  ... Caiuá                                          3509106
+875 880  ... Emilianópolis                                  3515129
+875 881  ... Estrela do Norte                               3515301
+875 882  ... Euclides da Cunha Paulista                     3515350
+875 883  ... Iepê                                           3519907
+875 884  ... Indiana                                        3520608
+875 885  ... João Ramalho                                   3525607
+875 886  ... Álvares Machado                                3501301
+875 887  ... Marabá Paulista                                3528700
+875 888  ... Martinópolis                                   3529203
+875 889  ... Mirante do Paranapanema                        3530201
+875 890  ... Nantes                                         3532157
+875 891  ... Narandiba                                      3532207
+875 892  ... Piquerobi                                      3538303
+875 893  ... Pirapozinho                                    3539202
+875 894  ... Presidente Bernardes                           3541208
+875 895  ... Presidente Epitácio                            3541307
+875 896  ... Presidente Prudente                            3541406
+875 897  ... Presidente Venceslau                           3541505
+875 898  ... Rancharia                                      3542206
+875 899  ... Regente Feijó                                  3542404
+875 900  ... Ribeirão dos Índios                            3543238
+875 901  ... Rosana                                         3544251
+875 902  ... Sandovalina                                    3545506
+875 903  ... Santo Anastácio                                3547700
+875 904  ... Santo Expedito                                 3548302
+875 905  ... Taciba                                         3552908
+875 906  ... Tarabai                                        3553906
+875 907  ... Teodoro Sampaio                                3554300
+    908  SP - VALE DO RIBEIRA                               3502705,3505351,3505401,3509254,3509908,3514809,3520301,3520426,3521200,3522158,3522653,3523305,3524600,3526100,3526209,3529906,3536208,3537206,3537602,3542602,3542800,3543006,3551801,3549953,3553500
+908 909  ... Apiaí                                          3502705
+908 910  ... Barra do Chapéu                                3505351
+908 911  ... Barra do Turvo                                 3505401
+908 912  ... Cajati                                         3509254
+908 913  ... Cananéia                                       3509908
+908 914  ... Eldorado                                       3514809
+908 915  ... Iguape                                         3520301
+908 916  ... Ilha Comprida                                  3520426
+908 917  ... Iporanga                                       3521200
+908 918  ... Itaóca                                         3522158
+908 919  ... Itapirapuã Paulista                            3522653
+908 920  ... Itariri                                        3523305
+908 921  ... Jacupiranga                                    3524600
+908 922  ... Juquiá                                         3526100
+908 923  ... Juquitiba                                      3526209
+908 924  ... Miracatu                                       3529906
+908 925  ... Pariquera-Açu                                  3536208
+908 926  ... Pedro de Toledo                                3537206
+908 927  ... Peruíbe                                        3537602
+908 928  ... Registro                                       3542602
+908 929  ... Ribeira                                        3542800
+908 930  ... Ribeirão Branco                                3543006
+908 931  ... Sete Barras                                    3551801
+908 932  ... São Lourenço da Serra                          3549953
+908 933  ... Tapiraí                                        3553500
+    934  PR - CANTUQUIRIGUAÇU                               4104055,4104428,4104451,4105003,4107124,4107546,4108452,4108650,4109302,4109757,4113304,4115457,4117057,4119301,4120150,4120903,4121752,4122156,4127858,4128658
+934 935  ... Campo Bonito                                   4104055
+934 936  ... Candói                                         4104428
+934 937  ... Cantagalo                                      4104451
+934 938  ... Catanduvas                                     4105003
+934 939  ... Diamante do Sul                                4107124
+934 940  ... Espigão Alto do Iguaçu                         4107546
+934 941  ... Foz do Jordão                                  4108452
+934 942  ... Goioxim                                        4108650
+934 943  ... Guaraniaçu                                     4109302
+934 944  ... Ibema                                          4109757
+934 945  ... Laranjeiras do Sul                             4113304
+934 946  ... Marquinho                                      4115457
+934 947  ... Nova Laranjeiras                               4117057
+934 948  ... Pinhão                                         4119301
+934 949  ... Porto Barreiro                                 4120150
+934 950  ... Quedas do Iguaçu                               4120903
+934 951  ... Reserva do Iguaçu                              4121752
+934 952  ... Rio Bonito do Iguaçu                           4122156
+934 953  ... Três Barras do Paraná                          4127858
+    954  ... Virmond                                        4128658
+954 955  PR - VALE DO RIBEIRA                               4100202,4103107,4105201,4128633,4111258,4122206,4127882
+954 956  ... Adrianópolis                                   4100202
+954 957  ... Bocaiúva do Sul                                4103107
+954 958  ... Cerro Azul                                     4105201
+954 959  ... Doutor Ulysses                                 4128633
+954 960  ... Itaperuçu                                      4111258
+954 961  ... Rio Branco do Sul                              4122206
+954 962  ... Tunas do Paraná                                4127882
+    963  SC - MEIO OESTE CONTESTADO (CHAPECOZINHO)          4200101,4202537,4203907,4204004,4204459,4205175,4205209,4205308,4205605,4200408,4206702,4206801,4207684,4209003,4209177,4209201,4209458,4210035,4210555,4211801,4211850,4212270,4213401,4216107,4218509,4219176,4219101,4219507,4219705
+963 964  ... Abelardo Luz                                   4200101
+963 965  ... Bom Jesus                                      4202537
+963 966  ... Capinzal                                       4203907
+963 967  ... Catanduvas                                     4204004
+963 968  ... Coronel Martins                                4204459
+963 969  ... Entre Rios                                     4205175
+963 970  ... Erval Velho                                    4205209
+963 971  ... Faxinal dos Guedes                             4205308
+963 972  ... Galvão                                         4205605
+963 973  ... Água Doce                                      4200408
+963 974  ... Herval d`Oeste                                 4206702
+963 975  ... Ibicaré                                        4206801
+963 976  ... Ipuaçu                                         4207684
+963 977  ... Joaçaba                                        4209003
+963 978  ... Jupiá                                          4209177
+963 979  ... Lacerdópolis                                   4209201
+963 980  ... Lajeado Grande                                 4209458
+963 981  ... Luzerna                                        4210035
+963 982  ... Marema                                         4210555
+963 983  ... Ouro                                           4211801
+963 984  ... Ouro Verde                                     4211850
+963 985  ... Passos Maia                                    4212270
+963 986  ... Ponte Serrada                                  4213401
+963 987  ... São Domingos                                   4216107
+963 988  ... Treze Tílias                                   4218509
+963 989  ... Vargem Bonita                                  4219176
+963 990  ... Vargeão                                        4219101
+963 991  ... Xanxerê                                        4219507
+963 992  ... Xaxim                                          4219705
+    993  RS - ZONA SUL DO ESTADO                            4300034,4300638,4301073,4301305,4304358,4304507,4304663,4305124,4305439,4306056,4307104,4309654,4311007,4312450,4314175,4314209,4314407,4314506,4314605,4315602,4317004,4317301,4318507,4318804,4322327
+993 994  ... Aceguá                                         4300034
+993 995  ... Amaral Ferrador                                4300638
+993 996  ... Arroio do Padre                                4301073
+993 997  ... Arroio Grande                                  4301305
+993 998  ... Candiota                                       4304358
+993 999  ... Canguçu                                        4304507
+9931000  ... Capão do Leão                                  4304663
+9931001  ... Cerrito                                        4305124
+9931002  ... Chuí                                           4305439
+9931003  ... Cristal                                        4306056
+9931004  ... Herval                                         4307104
+9931005  ... Hulha Negra                                    4309654
+9931006  ... Jaguarão                                       4311007
+9931007  ... Morro Redondo                                  4312450
+9931008  ... Pedras Altas                                   4314175
+9931009  ... Pedro Osório                                   4314209
+9931010  ... Pelotas                                        4314407
+9931011  ... Pinheiro Machado                               4314506
+9931012  ... Piratini                                       4314605
+9931013  ... Rio Grande                                     4315602
+9931014  ... Santana da Boa Vista                           4317004
+9931015  ... Santa Vitória do Palmar                        4317301
+9931016  ... São José do Norte                              4318507
+9931017  ... São Lourenço do Sul                            4318804
+9931018  ... Turuçu                                         4322327

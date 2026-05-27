@@ -1,0 +1,420 @@
+     27  6
+      1  2901 Agreste Alagoinhas/Lit N                      290030
+      1  2901 Agreste Alagoinhas/Lit N                      290070
+      1  2901 Agreste Alagoinhas/Lit N                      290190
+      1  2901 Agreste Alagoinhas/Lit N                      290205
+      1  2901 Agreste Alagoinhas/Lit N                      290220
+      1  2901 Agreste Alagoinhas/Lit N                      290700
+      1  2901 Agreste Alagoinhas/Lit N                      290750
+      1  2901 Agreste Alagoinhas/Lit N                      290860
+      1  2901 Agreste Alagoinhas/Lit N                      290960
+      1  2901 Agreste Alagoinhas/Lit N                      291050
+      1  2901 Agreste Alagoinhas/Lit N                      291060
+      1  2901 Agreste Alagoinhas/Lit N                      291370
+      1  2901 Agreste Alagoinhas/Lit N                      291590
+      1  2901 Agreste Alagoinhas/Lit N                      291650
+      1  2901 Agreste Alagoinhas/Lit N                      291790
+      1  2901 Agreste Alagoinhas/Lit N                      292100
+      1  2901 Agreste Alagoinhas/Lit N                      292310
+      1  2901 Agreste Alagoinhas/Lit N                      292330
+      1  2901 Agreste Alagoinhas/Lit N                      292410
+      1  2901 Agreste Alagoinhas/Lit N                      292520
+      1  2901 Agreste Alagoinhas/Lit N                      292700
+      1  2901 Agreste Alagoinhas/Lit N                      292970
+      2  2902 Bacia do Jacuípe                              290260
+      2  2902 Bacia do Jacuípe                              290685
+      2  2902 Bacia do Jacuípe                              291125
+      2  2902 Bacia do Jacuípe                              291400
+      2  2902 Bacia do Jacuípe                              292010
+      2  2902 Bacia do Jacuípe                              292273
+      2  2902 Bacia do Jacuípe                              292405
+      2  2902 Bacia do Jacuípe                              292465
+      2  2902 Bacia do Jacuípe                              292593
+      2  2902 Bacia do Jacuípe                              292630
+      2  2902 Bacia do Jacuípe                              292937
+      2  2902 Bacia do Jacuípe                              293040
+      2  2902 Bacia do Jacuípe                              293305
+      2  2902 Bacia do Jacuípe                              293310
+      3  2903 Bacia do Paramirim                            290050
+      3  2903 Bacia do Paramirim                            290410
+      3  2903 Bacia do Paramirim                            290420
+      3  2903 Bacia do Paramirim                            290755
+      3  2903 Bacia do Paramirim                            291250
+      3  2903 Bacia do Paramirim                            291980
+      3  2903 Bacia do Paramirim                            292360
+      3  2903 Bacia do Paramirim                            292690
+      3  2903 Bacia do Paramirim                            293105
+      4  2904 Bacia do Rio Corrente                         290440
+      4  2904 Bacia do Rio Corrente                         290610
+      4  2904 Bacia do Rio Corrente                         290810
+      4  2904 Bacia do Rio Corrente                         290910
+      4  2904 Bacia do Rio Corrente                         290930
+      4  2904 Bacia do Rio Corrente                         291735
+      4  2904 Bacia do Rio Corrente                         292810
+      4  2904 Bacia do Rio Corrente                         292820
+      4  2904 Bacia do Rio Corrente                         292905
+      4  2904 Bacia do Rio Corrente                         293030
+      4  2904 Bacia do Rio Corrente                         293090
+      5  2905 Baixo Sul                                     290230
+      5  2905 Baixo Sul                                     290540
+      5  2905 Baixo Sul                                     290580
+      5  2905 Baixo Sul                                     291120
+      5  2905 Baixo Sul                                     291345
+      5  2905 Baixo Sul                                     291730
+      5  2905 Baixo Sul                                     291780
+      5  2905 Baixo Sul                                     292260
+      5  2905 Baixo Sul                                     292467
+      5  2905 Baixo Sul                                     292575
+      5  2905 Baixo Sul                                     293120
+      5  2905 Baixo Sul                                     293160
+      5  2905 Baixo Sul                                     293290
+      5  2905 Baixo Sul                                     293350
+      6  2906 Chapada Diamantina                            290010
+      6  2906 Chapada Diamantina                            290130
+      6  2906 Chapada Diamantina                            290280
+      6  2906 Chapada Diamantina                            290400
+      6  2906 Chapada Diamantina                            290405
+      6  2906 Chapada Diamantina                            291220
+      6  2906 Chapada Diamantina                            291300
+      6  2906 Chapada Diamantina                            291440
+      6  2906 Chapada Diamantina                            291500
+      6  2906 Chapada Diamantina                            291860
+      6  2906 Chapada Diamantina                            291930
+      6  2906 Chapada Diamantina                            292080
+      6  2906 Chapada Diamantina                            292170
+      6  2906 Chapada Diamantina                            292190
+      6  2906 Chapada Diamantina                            292285
+      6  2906 Chapada Diamantina                            292303
+      6  2906 Chapada Diamantina                            292350
+      6  2906 Chapada Diamantina                            292430
+      6  2906 Chapada Diamantina                            292670
+      6  2906 Chapada Diamantina                            292990
+      6  2906 Chapada Diamantina                            293080
+      6  2906 Chapada Diamantina                            293280
+      6  2906 Chapada Diamantina                            293340
+      7  2907 Extremo Sul                                   290080
+      7  2907 Extremo Sul                                   290340
+      7  2907 Extremo Sul                                   290690
+      7  2907 Extremo Sul                                   291072
+      7  2907 Extremo Sul                                   291180
+      7  2907 Extremo Sul                                   291280
+      7  2907 Extremo Sul                                   291465
+      7  2907 Extremo Sul                                   291530
+      7  2907 Extremo Sul                                   291560
+      7  2907 Extremo Sul                                   291600
+      7  2907 Extremo Sul                                   291630
+      7  2907 Extremo Sul                                   291845
+      7  2907 Extremo Sul                                   291890
+      7  2907 Extremo Sul                                   292110
+      7  2907 Extremo Sul                                   292200
+      7  2907 Extremo Sul                                   292300
+      7  2907 Extremo Sul                                   292530
+      7  2907 Extremo Sul                                   292550
+      7  2907 Extremo Sul                                   292770
+      7  2907 Extremo Sul                                   293135
+      7  2907 Extremo Sul                                   293325
+      8  2908 Irecê                                         290115
+      8  2908 Irecê                                         290300
+      8  2908 Irecê                                         290323
+      8  2908 Irecê                                         290530
+      8  2908 Irecê                                         290620
+      8  2908 Irecê                                         290760
+      8  2908 Irecê                                         291130
+      8  2908 Irecê                                         291240
+      8  2908 Irecê                                         291310
+      8  2908 Irecê                                         291410
+      8  2908 Irecê                                         291460
+      8  2908 Irecê                                         291535
+      8  2908 Irecê                                         291835
+      8  2908 Irecê                                         291850
+      8  2908 Irecê                                         291915
+      8  2908 Irecê                                         292205
+      8  2908 Irecê                                         292560
+      8  2908 Irecê                                         292925
+      8  2908 Irecê                                         293240
+      8  2908 Irecê                                         293360
+      9  2909 Itaparica                                     290020
+      9  2909 Itaparica                                     290770
+      9  2909 Itaparica                                     291140
+      9  2909 Itaparica                                     291990
+      9  2909 Itaparica                                     292400
+      9  2909 Itaparica                                     292710
+     10  2910 Itapetinga                                    290480
+     10  2910 Itapetinga                                    291090
+     10  2910 Itapetinga                                    291230
+     10  2910 Itapetinga                                    291350
+     10  2910 Itapetinga                                    291580
+     10  2910 Itapetinga                                    291640
+     10  2910 Itapetinga                                    291680
+     10  2910 Itapetinga                                    291710
+     10  2910 Itapetinga                                    291970
+     10  2910 Itapetinga                                    292000
+     10  2910 Itapetinga                                    292270
+     10  2910 Itapetinga                                    292540
+     10  2910 Itapetinga                                    292780
+     11  2911 Litoral Sul                                   290090
+     11  2911 Litoral Sul                                   290225
+     11  2911 Litoral Sul                                   290240
+     11  2911 Litoral Sul                                   290330
+     11  2911 Litoral Sul                                   290470
+     11  2911 Litoral Sul                                   290560
+     11  2911 Litoral Sul                                   290630
+     11  2911 Litoral Sul                                   290800
+     11  2911 Litoral Sul                                   291100
+     11  2911 Litoral Sul                                   291210
+     11  2911 Litoral Sul                                   291270
+     11  2911 Litoral Sul                                   291360
+     11  2911 Litoral Sul                                   291480
+     11  2911 Litoral Sul                                   291490
+     11  2911 Litoral Sul                                   291540
+     11  2911 Litoral Sul                                   291550
+     11  2911 Litoral Sul                                   291620
+     11  2911 Litoral Sul                                   291660
+     11  2911 Litoral Sul                                   291855
+     11  2911 Litoral Sul                                   292070
+     11  2911 Litoral Sul                                   292090
+     11  2911 Litoral Sul                                   292390
+     11  2911 Litoral Sul                                   292805
+     11  2911 Litoral Sul                                   292935
+     11  2911 Litoral Sul                                   293220
+     11  2911 Litoral Sul                                   293250
+     11  2911 Litoral Sul                                   293270
+     12  2912 Médio Rio de Contas                           290060
+     12  2912 Médio Rio de Contas                           290195
+     12  2912 Médio Rio de Contas                           290310
+     12  2912 Médio Rio de Contas                           290370
+     12  2912 Médio Rio de Contas                           291000
+     12  2912 Médio Rio de Contas                           291150
+     12  2912 Médio Rio de Contas                           291290
+     12  2912 Médio Rio de Contas                           291390
+     12  2912 Médio Rio de Contas                           291510
+     12  2912 Médio Rio de Contas                           291520
+     12  2912 Médio Rio de Contas                           291570
+     12  2912 Médio Rio de Contas                           291800
+     12  2912 Médio Rio de Contas                           291830
+     12  2912 Médio Rio de Contas                           292040
+     12  2912 Médio Rio de Contas                           292275
+     12  2912 Médio Rio de Contas                           293230
+     13  2913 Metropolitana de Salvador                     290570
+     13  2913 Metropolitana de Salvador                     290650
+     13  2913 Metropolitana de Salvador                     291005
+     13  2913 Metropolitana de Salvador                     291610
+     13  2913 Metropolitana de Salvador                     291920
+     13  2913 Metropolitana de Salvador                     291992
+     13  2913 Metropolitana de Salvador                     292730
+     13  2913 Metropolitana de Salvador                     292740
+     13  2913 Metropolitana de Salvador                     293070
+     13  2913 Metropolitana de Salvador                     293320
+     14  2914 Oeste Baiano                                  290140
+     14  2914 Oeste Baiano                                  290250
+     14  2914 Oeste Baiano                                  290320
+     14  2914 Oeste Baiano                                  290475
+     14  2914 Oeste Baiano                                  290740
+     14  2914 Oeste Baiano                                  290940
+     14  2914 Oeste Baiano                                  290970
+     14  2914 Oeste Baiano                                  291110
+     14  2914 Oeste Baiano                                  291955
+     14  2914 Oeste Baiano                                  292045
+     14  2914 Oeste Baiano                                  292620
+     14  2914 Oeste Baiano                                  292840
+     14  2914 Oeste Baiano                                  292890
+     14  2914 Oeste Baiano                                  293345
+     15  2915 Piemonte da Diamantina                        290510
+     15  2915 Piemonte da Diamantina                        290687
+     15  2915 Piemonte da Diamantina                        291750
+     15  2915 Piemonte da Diamantina                        292140
+     15  2915 Piemonte da Diamantina                        292335
+     15  2915 Piemonte da Diamantina                        292980
+     15  2915 Piemonte da Diamantina                        293060
+     15  2915 Piemonte da Diamantina                        293245
+     15  2915 Piemonte da Diamantina                        293315
+     16  2916 Piemonte do Paraguaçu                         290380
+     16  2916 Piemonte do Paraguaçu                         291190
+     16  2916 Piemonte do Paraguaçu                         291260
+     16  2916 Piemonte do Paraguaçu                         291470
+     16  2916 Piemonte do Paraguaçu                         291685
+     16  2916 Piemonte do Paraguaçu                         291900
+     16  2916 Piemonte do Paraguaçu                         291960
+     16  2916 Piemonte do Paraguaçu                         292120
+     16  2916 Piemonte do Paraguaçu                         292210
+     16  2916 Piemonte do Paraguaçu                         292480
+     16  2916 Piemonte do Paraguaçu                         292595
+     16  2916 Piemonte do Paraguaçu                         292720
+     16  2916 Piemonte do Paraguaçu                         292850
+     16  2916 Piemonte do Paraguaçu                         293130
+     17  2917 Piemonte Norte Itapicuru                      290135
+     17  2917 Piemonte Norte Itapicuru                      290180
+     17  2917 Piemonte Norte Itapicuru                      290550
+     17  2917 Piemonte Norte Itapicuru                      290600
+     17  2917 Piemonte Norte Itapicuru                      291085
+     17  2917 Piemonte Norte Itapicuru                      291770
+     17  2917 Piemonte Norte Itapicuru                      292460
+     17  2917 Piemonte Norte Itapicuru                      292525
+     17  2917 Piemonte Norte Itapicuru                      293010
+     18  2918 Portal do Sertão                              290040
+     18  2918 Portal do Sertão                              290110
+     18  2918 Portal do Sertão                              290150
+     18  2918 Portal do Sertão                              290170
+     18  2918 Portal do Sertão                              290820
+     18  2918 Portal do Sertão                              290850
+     18  2918 Portal do Sertão                              290890
+     18  2918 Portal do Sertão                              291080
+     18  2918 Portal do Sertão                              291380
+     18  2918 Portal do Sertão                              291450
+     18  2918 Portal do Sertão                              292750
+     18  2918 Portal do Sertão                              292830
+     18  2918 Portal do Sertão                              292880
+     18  2918 Portal do Sertão                              292930
+     18  2918 Portal do Sertão                              293110
+     18  2918 Portal do Sertão                              293140
+     18  2918 Portal do Sertão                              293170
+     19  2919 Recôncavo                                     290485
+     19  2919 Recôncavo                                     290490
+     19  2919 Recôncavo                                     290730
+     19  2919 Recôncavo                                     290830
+     19  2919 Recôncavo                                     290980
+     19  2919 Recôncavo                                     291020
+     19  2919 Recôncavo                                     291160
+     19  2919 Recôncavo                                     292060
+     19  2919 Recôncavo                                     292220
+     19  2919 Recôncavo                                     292230
+     19  2919 Recôncavo                                     292250
+     19  2919 Recôncavo                                     292860
+     19  2919 Recôncavo                                     292870
+     19  2919 Recôncavo                                     292900
+     19  2919 Recôncavo                                     292910
+     19  2919 Recôncavo                                     292920
+     19  2919 Recôncavo                                     292950
+     19  2919 Recôncavo                                     292960
+     19  2919 Recôncavo                                     292975
+     19  2919 Recôncavo                                     293317
+     20  2920 Semi-Árido Nordeste II                        290035
+     20  2920 Semi-Árido Nordeste II                        290160
+     20  2920 Semi-Árido Nordeste II                        290265
+     20  2920 Semi-Árido Nordeste II                        290780
+     20  2920 Semi-Árido Nordeste II                        290790
+     20  2920 Semi-Árido Nordeste II                        290920
+     20  2920 Semi-Árido Nordeste II                        291070
+     20  2920 Semi-Árido Nordeste II                        291075
+     20  2920 Semi-Árido Nordeste II                        291185
+     20  2920 Semi-Árido Nordeste II                        291810
+     20  2920 Semi-Árido Nordeste II                        292290
+     20  2920 Semi-Árido Nordeste II                        292305
+     20  2920 Semi-Árido Nordeste II                        292380
+     20  2920 Semi-Árido Nordeste II                        292420
+     20  2920 Semi-Árido Nordeste II                        292650
+     20  2920 Semi-Árido Nordeste II                        292660
+     20  2920 Semi-Árido Nordeste II                        292760
+     20  2920 Semi-Árido Nordeste II                        293076
+     21  2921 Sertão do São Francisco                       290590
+     21  2921 Sertão do São Francisco                       290682
+     21  2921 Sertão do São Francisco                       290720
+     21  2921 Sertão do São Francisco                       290990
+     21  2921 Sertão do São Francisco                       291840
+     21  2921 Sertão do São Francisco                       292440
+     21  2921 Sertão do São Francisco                       292600
+     21  2921 Sertão do São Francisco                       293020
+     21  2921 Sertão do São Francisco                       293077
+     21  2921 Sertão do São Francisco                       293200
+     22  2922 Sertão Produtivo                              290460
+     22  2922 Sertão Produtivo                              290500
+     22  2922 Sertão Produtivo                              290520
+     22  2922 Sertão Produtivo                              290660
+     22  2922 Sertão Produtivo                              290880
+     22  2922 Sertão Produtivo                              291010
+     22  2922 Sertão Produtivo                              291170
+     22  2922 Sertão Produtivo                              291200
+     22  2922 Sertão Produtivo                              291720
+     22  2922 Sertão Produtivo                              291733
+     22  2922 Sertão Produtivo                              291875
+     22  2922 Sertão Produtivo                              291950
+     22  2922 Sertão Produtivo                              292030
+     22  2922 Sertão Produtivo                              292340
+     22  2922 Sertão Produtivo                              292450
+     22  2922 Sertão Produtivo                              292680
+     22  2922 Sertão Produtivo                              293000
+     22  2922 Sertão Produtivo                              293100
+     22  2922 Sertão Produtivo                              293260
+     23  2923 Sisal                                         290210
+     23  2923 Sisal                                         290327
+     23  2923 Sisal                                         290360
+     23  2923 Sisal                                         290640
+     23  2923 Sisal                                         290680
+     23  2923 Sisal                                         290840
+     23  2923 Sisal                                         291330
+     23  2923 Sisal                                         291700
+     23  2923 Sisal                                         291910
+     23  2923 Sisal                                         292150
+     23  2923 Sisal                                         292265
+     23  2923 Sisal                                         292580
+     23  2923 Sisal                                         292590
+     23  2923 Sisal                                         292610
+     23  2923 Sisal                                         292800
+     23  2923 Sisal                                         292895
+     23  2923 Sisal                                         293050
+     23  2923 Sisal                                         293150
+     23  2923 Sisal                                         293190
+     23  2923 Sisal                                         293300
+     24  2924 Vale do Jequiriçá                             290100
+     24  2924 Vale do Jequiriçá                             290430
+     24  2924 Vale do Jequiriçá                             290950
+     24  2924 Vale do Jequiriçá                             291030
+     24  2924 Vale do Jequiriçá                             291420
+     24  2924 Vale do Jequiriçá                             291430
+     24  2924 Vale do Jequiriçá                             291670
+     24  2924 Vale do Jequiriçá                             291690
+     24  2924 Vale do Jequiriçá                             291760
+     24  2924 Vale do Jequiriçá                             291820
+     24  2924 Vale do Jequiriçá                             291870
+     24  2924 Vale do Jequiriçá                             291880
+     24  2924 Vale do Jequiriçá                             291905
+     24  2924 Vale do Jequiriçá                             292050
+     24  2924 Vale do Jequiriçá                             292130
+     24  2924 Vale do Jequiriçá                             292240
+     24  2924 Vale do Jequiriçá                             292280
+     24  2924 Vale do Jequiriçá                             292490
+     24  2924 Vale do Jequiriçá                             292790
+     24  2924 Vale do Jequiriçá                             292940
+     24  2924 Vale do Jequiriçá                             293210
+     25  2925 Velho Chico                                   290270
+     25  2925 Velho Chico                                   290390
+     25  2925 Velho Chico                                   290450
+     25  2925 Velho Chico                                   290710
+     25  2925 Velho Chico                                   291077
+     25  2925 Velho Chico                                   291320
+     25  2925 Velho Chico                                   291340
+     25  2925 Velho Chico                                   292020
+     25  2925 Velho Chico                                   292105
+     25  2925 Velho Chico                                   292160
+     25  2925 Velho Chico                                   292225
+     25  2925 Velho Chico                                   292320
+     25  2925 Velho Chico                                   292370
+     25  2925 Velho Chico                                   292640
+     25  2925 Velho Chico                                   293015,293025
+     25  2925 Velho Chico                                   293075
+     26  2926 Vitória da Conquista                          290120
+     26  2926 Vitória da Conquista                          290200
+     26  2926 Vitória da Conquista                          290290
+     26  2926 Vitória da Conquista                          290350
+     26  2926 Vitória da Conquista                          290395
+     26  2926 Vitória da Conquista                          290515
+     26  2926 Vitória da Conquista                          290670
+     26  2926 Vitória da Conquista                          290689
+     26  2926 Vitória da Conquista                          290870
+     26  2926 Vitória da Conquista                          290900
+     26  2926 Vitória da Conquista                          291040
+     26  2926 Vitória da Conquista                          291165
+     26  2926 Vitória da Conquista                          291740
+     26  2926 Vitória da Conquista                          291940
+     26  2926 Vitória da Conquista                          291995
+     26  2926 Vitória da Conquista                          292145
+     26  2926 Vitória da Conquista                          292180
+     26  2926 Vitória da Conquista                          292470
+     26  2926 Vitória da Conquista                          292500
+     26  2926 Vitória da Conquista                          292510
+     26  2926 Vitória da Conquista                          292570
+     26  2926 Vitória da Conquista                          292665
+     26  2926 Vitória da Conquista                          293180
+     26  2926 Vitória da Conquista                          293330
+     27  2900 Município ignorado - BA                       290000,299999
+

@@ -1,0 +1,18 @@
+;Natureza da Organização (=Tipo Prestador do SIASUS)
+16 2 L
+      1  01-Administração Direta da Saúde (MS, SES, e SMS)  01
+      2  02-Adm Direta outros orgãos (MEX, MEx, Marinha,...)02
+      3  03-Adm Indireta - Autarquias                       03
+      4  04-Adm Indireta - Fundação Pública                 04
+      5  05-Adm Indireta - Empresa Pública                  05
+      6  06-Adm Indireta - Organização Social Pública       06
+      7  07-Empresa Privada                                 07
+      8  08-Fundação Privada                                08
+      9  09-Cooperativa                                     09
+     10  10-Serviço Social Autônomo                         10
+     11  11-Entidade Beneficente SEM fins lucrativos        11
+     12  12-Economia MIsta                                  12
+     13  13-Sindicato                                       13
+     14  00-Natureza inexistente                            00
+     15  0-Natureza inexistente                             0 - 0
+     16  Natureza não informada                               -99

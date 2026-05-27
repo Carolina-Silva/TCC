@@ -1,0 +1,18 @@
+17 4 L
+     01  Sem Urgência/Emergênc.SUS/Part./Pl.S.Públ/Pl.S.Priv0000
+     02  Estabelecim.com Atendim.Prestado Urgência/Emergênc.1001,1000,0001,1101,1100,0101,0100,1011,1010,0011,0010,1111,1110,0111,0110
+  2  03  ..Urg./Emerg. SUS                                  1000
+  2  04  ..Urg./Emerg. SUS/Particular                       1100
+  2  05  ..Urg./Emerg. SUS/Particular/Plano Saúde Público   1110
+  2  06  ..Urg./Emerg. SUS/Particular/Plano Saúde Privado   1101
+  2  07  ..Urg./Emerg. SUS/Partic./Pl.S.Público/Pl.S.Privado1111
+  2  08  ..Urg./Emerg. SUS/Plano Saúde Público              1010
+  2  09  ..Urg./Emerg. SUS/Plano S.Público/Plano S.Privado  1011
+  2  10  ..Urg./Emerg. SUS/Plano Saúde Privado              1001
+  2  11  ..Urg./Emerg. Particular                           0100
+  2  12  ..Urg./Emerg. Particular/Plano Saúde Público       0110
+  2  13  ..Urg./Emerg. Particular/Plano Saúde Privado       0101
+  2  14  ..Urg./Emerg. Particular/Pl.S.Público/Pl.S.Privado 0111
+  2  15  ..Urg./Emerg. Plano Saúde Público                  0010
+  2  16  ..Urg./Emerg. Plano Saúde Público/Plano S.Privado  0011
+  2  17  ..Urg./Emerg. Plano Saúde Privado                  0001

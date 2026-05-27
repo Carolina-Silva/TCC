@@ -1,0 +1,188 @@
+     13  6
+      1  2601  Itaparica                                    260160
+      1  2601  Itaparica                                    260392
+      1  2601  Itaparica                                    260570
+      1  2601  Itaparica                                    260740
+      1  2601  Itaparica                                    260805
+      1  2601  Itaparica                                    261100
+      1  2601  Itaparica                                    261480
+      2  2602  São Francisco                                260020
+      2  2602  São Francisco                                260300
+      2  2602  São Francisco                                260515
+      2  2602  São Francisco                                260875
+      2  2602  São Francisco                                260980
+      2  2602  São Francisco                                261110
+      2  2602  São Francisco                                261260
+      3  2603  Araripe                                      260110
+      3  2603  Araripe                                      260200
+      3  2603  Araripe                                      260530
+      3  2603  Araripe                                      260630
+      3  2603  Araripe                                      260730
+      3  2603  Araripe                                      260990
+      3  2603  Araripe                                      261245
+      3  2603  Araripe                                      261255
+      3  2603  Araripe                                      261430
+      3  2603  Araripe                                      261560
+      4  2604  Sertão Central                               260430
+      4  2604  Sertão Central                               260930
+      4  2604  Sertão Central                               261040
+      4  2604  Sertão Central                               261220
+      4  2604  Sertão Central                               261350
+      4  2604  Sertão Central                               261400
+      4  2604  Sertão Central                               261520
+      4  2604  Sertão Central                               261610
+      5  2605  Sertão do Pajeú                              260010
+      5  2605  Sertão do Pajeú                              260250
+      5  2605  Sertão do Pajeú                              260340
+      5  2605  Sertão do Pajeú                              260390
+      5  2605  Sertão do Pajeú                              260560
+      5  2605  Sertão do Pajeú                              260690
+      5  2605  Sertão do Pajeú                              260710
+      5  2605  Sertão do Pajeú                              260770
+      5  2605  Sertão do Pajeú                              261153
+      5  2605  Sertão do Pajeú                              261247
+      5  2605  Sertão do Pajeú                              261280
+      5  2605  Sertão do Pajeú                              261360
+      5  2605  Sertão do Pajeú                              261390
+      5  2605  Sertão do Pajeú                              261440
+      5  2605  Sertão do Pajeú                              261460
+      5  2605  Sertão do Pajeú                              261570
+      5  2605  Sertão do Pajeú                              261590
+      6  2606  Sertão do Moxotó                             260120
+      6  2606  Sertão do Moxotó                             260180
+      6  2606  Sertão do Moxotó                             260510
+      6  2606  Sertão do Moxotó                             260660
+      6  2606  Sertão do Moxotó                             260700
+      6  2606  Sertão do Moxotó                             260915
+      6  2606  Sertão do Moxotó                             261410
+      7  2607  Agreste Meridional                           260050
+      7  2607  Agreste Meridional                           260100
+      7  2607  Agreste Meridional                           260210
+      7  2607  Agreste Meridional                           260240
+      7  2607  Agreste Meridional                           260280
+      7  2607  Agreste Meridional                           260320
+      7  2607  Agreste Meridional                           260330
+      7  2607  Agreste Meridional                           260370
+      7  2607  Agreste Meridional                           260380
+      7  2607  Agreste Meridional                           260470
+      7  2607  Agreste Meridional                           260600
+      7  2607  Agreste Meridional                           260650
+      7  2607  Agreste Meridional                           260750
+      7  2607  Agreste Meridional                           260825
+      7  2607  Agreste Meridional                           260830
+      7  2607  Agreste Meridional                           260840
+      7  2607  Agreste Meridional                           260860
+      7  2607  Agreste Meridional                           260880
+      7  2607  Agreste Meridional                           261010
+      7  2607  Agreste Meridional                           261030
+      7  2607  Agreste Meridional                           261080
+      7  2607  Agreste Meridional                           261230
+      7  2607  Agreste Meridional                           261320
+      7  2607  Agreste Meridional                           261510
+      7  2607  Agreste Meridional                           261580
+      7  2607  Agreste Meridional                           261600
+      8  2608  Agreste Central                              260030
+      8  2608  Agreste Central                              260060
+      8  2608  Agreste Central                              260080
+      8  2608  Agreste Central                              260130
+      8  2608  Agreste Central                              260170
+      8  2608  Agreste Central                              260190
+      8  2608  Agreste Central                              260230
+      8  2608  Agreste Central                              260260
+      8  2608  Agreste Central                              260310
+      8  2608  Agreste Central                              260350
+      8  2608  Agreste Central                              260410
+      8  2608  Agreste Central                              260500
+      8  2608  Agreste Central                              260640
+      8  2608  Agreste Central                              260670
+      8  2608  Agreste Central                              260800
+      8  2608  Agreste Central                              260870
+      8  2608  Agreste Central                              261020
+      8  2608  Agreste Central                              261090
+      8  2608  Agreste Central                              261120
+      8  2608  Agreste Central                              261170
+      8  2608  Agreste Central                              261200
+      8  2608  Agreste Central                              261240
+      8  2608  Agreste Central                              261300
+      8  2608  Agreste Central                              261310
+      8  2608  Agreste Central                              261330
+      8  2608  Agreste Central                              261470
+      9  2609  Agreste Setentrional                         260220
+      9  2609  Agreste Setentrional                         260415
+      9  2609  Agreste Setentrional                         260490
+      9  2609  Agreste Setentrional                         260540
+      9  2609  Agreste Setentrional                         260580
+      9  2609  Agreste Setentrional                         260810
+      9  2609  Agreste Setentrional                         260890
+      9  2609  Agreste Setentrional                         260910
+      9  2609  Agreste Setentrional                         260970
+      9  2609  Agreste Setentrional                         261050
+      9  2609  Agreste Setentrional                         261210
+      9  2609  Agreste Setentrional                         261250
+      9  2609  Agreste Setentrional                         261270
+      9  2609  Agreste Setentrional                         261380
+      9  2609  Agreste Setentrional                         261450
+      9  2609  Agreste Setentrional                         261500
+      9  2609  Agreste Setentrional                         261540
+      9  2609  Agreste Setentrional                         261618
+      9  2609  Agreste Setentrional                         261620
+     10  2610  Mata Sul                                     260040
+     10  2610  Mata Sul                                     260090
+     10  2610  Mata Sul                                     260140
+     10  2610  Mata Sul                                     260150
+     10  2610  Mata Sul                                     260420
+     10  2610  Mata Sul                                     260450
+     10  2610  Mata Sul                                     260480
+     10  2610  Mata Sul                                     260520
+     10  2610  Mata Sul                                     260590
+     10  2610  Mata Sul                                     260795
+     10  2610  Mata Sul                                     260820
+     10  2610  Mata Sul                                     260920
+     10  2610  Mata Sul                                     261000
+     10  2610  Mata Sul                                     261130
+     10  2610  Mata Sul                                     261140
+     10  2610  Mata Sul                                     261150
+     10  2610  Mata Sul                                     261180
+     10  2610  Mata Sul                                     261190
+     10  2610  Mata Sul                                     261290
+     10  2610  Mata Sul                                     261340
+     10  2610  Mata Sul                                     261420
+     10  2610  Mata Sul                                     261485
+     10  2610  Mata Sul                                     261640
+     10  2610  Mata Sul                                     261650
+     11  2611  Mata Norte                                   260070
+     11  2611  Mata Norte                                   260270
+     11  2611  Mata Norte                                   260360
+     11  2611  Mata Norte                                   260400
+     11  2611  Mata Norte                                   260440
+     11  2611  Mata Norte                                   260460
+     11  2611  Mata Norte                                   260550
+     11  2611  Mata Norte                                   260610
+     11  2611  Mata Norte                                   260765
+     11  2611  Mata Norte                                   260780
+     11  2611  Mata Norte                                   260845
+     11  2611  Mata Norte                                   260850
+     11  2611  Mata Norte                                   260900
+     11  2611  Mata Norte                                   260950
+     11  2611  Mata Norte                                   261060
+     11  2611  Mata Norte                                   261530
+     11  2611  Mata Norte                                   261550
+     11  2611  Mata Norte                                   261630
+     12  2612  Região Metropolitana                         260005
+     12  2612  Região Metropolitana                         260105
+     12  2612  Região Metropolitana                         260290
+     12  2612  Região Metropolitana                         260345
+     12  2612  Região Metropolitana                         260545,200010
+     12  2612  Região Metropolitana                         260620
+     12  2612  Região Metropolitana                         260680
+     12  2612  Região Metropolitana                         260720
+     12  2612  Região Metropolitana                         260760
+     12  2612  Região Metropolitana                         260775
+     12  2612  Região Metropolitana                         260790
+     12  2612  Região Metropolitana                         260940
+     12  2612  Região Metropolitana                         260960
+     12  2612  Região Metropolitana                         261070
+     12  2612  Região Metropolitana                         261160
+     12  2612  Região Metropolitana                         261370
+     13  2600  Município ignorado - PE                      260000,269999
+

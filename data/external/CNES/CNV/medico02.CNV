@@ -1,0 +1,83 @@
+ 82 6 L
+      1  ANESTESISTA                                        XXXXXX
+  1   2  Médico Anestesiologista                            223104,225151
+      3  CIRURGIÃO GERAL                                    XXXXXX
+  3   4  Médico Cirurgião Geral                             223110,225225
+      5  CLÍNICO GERAL                                      XXXXXX
+  5   6  Médico Clínico                                     223115,225125
+  5   7  Médico Generalista Alopata                         223129,225170
+      8  GINECO OBSTETRA                                    XXXXXX
+  8   9  Médico Ginecologista Obstetra                      223132,225250
+     10  MÉDICO DE FAMÍLIA                                  XXXXXX                                        vascular
+ 10  11  Médico da estratégia de Saúde da Família           223116,225142
+ 10  12  Médico de família e comunidade                     2231F7,225130
+     13  PEDIATRA                                           XXXXXX
+ 13  14  Médico Pediatra                                    223149,225124
+     15  PSIQUIATRA                                         XXXXXX
+ 15  16  Médico psiquiatra                                  223153,225133
+     17  RADIOLOGISTA                                       XXXXXX
+ 17  18  Médico em radiologia e diagnóstico por imagem      223124,225320
+     19  SANITARISTA                                        XXXXXX
+ 19  20  Médico sanitarista                                 223156,225139
+     21  OUTRAS ESPECIALIDADES MÉDICAS                      XXXXXX
+ 21  22  Médico acupunturista                               223101,225105
+ 21  23  Médico alergista e imunologista                    223102,225110
+ 21  24  Médico anatomopatologista                          223103,225148
+ 21  25  Médico angiologista                                223105,225115
+ 21  26  Médico broncoesofalogista                          2231A1
+ 21  27  Médico Cardiologista Intervencionista              2231G1
+ 21  28  Médico cancerologista cirúrgico                    2231F5,225290
+ 21  29  Médico cancerologista clínico                      2231F6
+ 21  30  Médico cancerologista pediátrico                   2231F4,225122
+ 21  31  Médico cardiologista                               223106,225120
+ 21  32  Médico cirurgião cardiovascular                    223107,225210,225210
+ 21  33  Médico cirurgião da mão                            225295
+ 21  34  Médico cirurgião de cabeça e pescoço               223108,225215
+ 21  35  Médico cirurgião do aparelho digestivo             223109,225220
+ 21  36  Médico cirurgião pediátrico                        223111,225230
+ 21  37  Médico cirurgião plástico                          223112,225235
+ 21  38  Médico cirurgião torácico                          223113,225240
+ 21  39  Médico cirurgião vascular                          2231F3,225203
+ 21  40  Médico citopatologista                             223114,225305
+ 21  41  Médico coloproctologista                           223152,225280
+ 21  42  Médico dermatologista                              223117,225135
+ 21  43  Médico do trabalho                                 223118,225140
+ 21  44  Médico em cirurgia vascular                        225203
+ 21  45  Médico em eletroencefalografia                     223119
+ 21  46  Médico em endoscopia                               223120,225310
+ 21  47  Médico em medicina de tráfego                      223121,225145
+ 21  48  Médico em medicina intensiva                       223122,225150
+ 21  49  Médico em medicina nuclear                         223123,225315
+ 21  50  Médico em medicina preventiva e social             2231F8
+ 21  51  Médico endocrinologista e metabologista            223125,225155
+ 21  52  Médico fisiatra                                    223126,225160
+ 21  53  Médico foniatra                                    223127,225245
+ 21  54  Médico gastroenterologista                         223128,225165
+ 21  55  Médico geneticista                                 223130,225175
+ 21  56  Médico geriatra                                    223131,225180
+ 21  57  Médico hansenologista                              2231A2
+ 21  58  Médico hematologista                               223133,225185
+ 21  59  Médico hemoterapeuta                               223134,225190,225340
+ 21  60  Médico hiperbarista                                225345
+ 21  61  Médico homeopata                                   223135,225195
+ 21  62  Médico infectologista                              223136,225103
+ 21  63  Médico legista                                     223137,225106
+ 21  64  Médico mastologista                                223138,225255
+ 21  65  Médico nefrologista                                223139,225109
+ 21  66  Médico neurocirurgião                              223140,225260
+ 21  67  Médico neurofisiologista clínico                   223141,225350
+ 21  68  Médico neurologista                                223142,225112
+ 21  69  Médico nutrologista                                223143,225118
+ 21  70  Médico oftalmologista                              223144,225265
+ 21  71  Médico oncologista                                 223145
+ 21  72  Médico oncologista clínico                         225121
+ 21  73  Médico ortopedista e traumatologista               223146,225270
+ 21  74  Médico otorrinolaringologista                      223147,225275
+ 21  75  Médico patologista                                 223148,225325
+ 21  76  Médico patologista clínico / medicina laboratorial 225335
+ 21  77  Médico perito                                      223150
+ 21  78  Médico pneumologista                               223151,225127
+ 21  79  Médico radioterapeuta                              223154,225330
+ 21  80  Médico residente                                   2231F9
+ 21  81  Médico reumatologista                              223155,225136
+ 21  82  Médico urologista                                  223157,225285

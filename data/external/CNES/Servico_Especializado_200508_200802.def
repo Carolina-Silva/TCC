@@ -1,0 +1,194 @@
+;Servi˛o Especializado / Classifica˛“o dos Estabelecimentos de Sa∑de do CNES - Agosto de 2005 em Fevereiro de 2008
+;===========================================================================================
+;
+ASERVICO\SR*.DB?
+?SERVI√O.HLP
+IQuant. Servi˛o Especializado, CONTSRVU
+;===========================================================================================
+;Variﬂveis Espec›ficas dos Servi˛os Especializados
+;===========================================================================================
+;=> Dados do servi˛o especializado do LFCES032
+XServi˛o Ordem Alfab⁄tica,SRVUNICO,DS_SERV , DBF/SRA_ORD_A.DBF,  DS_SERV , DBF/SRA_ORD_A.DBF
+XServi˛o Ordem Num⁄rica,  SRVUNICO,DS_SERV , DBF/SRA_ORD_N.DBF
+LServi˛o/Classifica˛“o,   SERV_ESP,DS_SERV , DBF/S_CLASSEA.DBF , DS_SERV , DBF/S_CLASSEA.DBF
+SServi˛o/Classifica˛“o,   SERV_ESP,DS_SERV , DBF/S_CLASSEA.DBF , DS_SERV , DBF/S_CLASSEA.DBF
+;===========================================================================================
+;Variﬂveis referentes aos Dados Gerais dos Estabelecimentos
+;===========================================================================================
+X* DADOS GERAIS *,     COMENTARIO,1, DADOS GERAIS_ESTABELECIMENTOS
+;=> M€s/Ano da Informa˛“o-Compet€ncia da EXTRA√√O DO BANCO
+XM€s de Compet€ncia, COMPETEN ,          1 , CNV\COMPETEN.CNV
+XTipo de Gest“o    , TPGESTAO ,          1 , CNV\TPGESTAO.CNV
+XMantida/Individual, NIV_DEP  ,          1 , CNV\NIVELDEP.CNV
+XPessoa F›sica/Jur›dica, PF_PJ,          1 , CNV\TP_PFPJ.CNV
+;X… Terceiro?      , TERCEIRO ,          1 , CNV\TERCEIRO.CNV
+;XFluxo Clientela  , CLIENTEL ,          1 , CNV\FLUX_CLI.CNV
+XNatureza da Organiza˛“o, NATUREZA ,     1 , CNV\NATUREZA.CNV
+XReten˛“o Tributo Estabel. , RETENCAO ,  1 , CNV\RETENCAO.CNV
+XN›vel Hierarquia  , NIV_HIER ,          1 , CNV\NIV_HIER.CNV
+XEsfera Administrativa, ESFERA_A ,       1 , CNV\EsferAdm.cnv
+XAtividade Ensino/Pesquisa , ATIVIDAD,   1 , CNV\Ativ_Ens.CNV
+XTipo de Estabelecimento., TP_UNID,      1 , CNV\TP_ESTAB.CNV
+LNatureza Jur›dica, NAT_JUR   ,          1 , CNV\NATJUR.CNV
+CNatureza Jur›dica, NAT_JUR   ,          1 , CNV\NATJURC.CNV
+SNatureza Jur›dica, NAT_JUR   ,          1 , CNV\NATJURC.CNV
+LEsfera Jur›dica,   NAT_JUR   ,          1 , CNV\ESFERAJUR.CNV
+CEsfera Jur›dica,   NAT_JUR   ,          1 , CNV\ESFERAJURC.CNV
+SEsfera Jur›dica,   NAT_JUR   ,          1 , CNV\ESFERAJURC.CNV
+;XTurno Atendimento, TURNO_AT ,          1 , TurnosAt.cnv
+XCaracteristicas   , CARACTER ,          1 , CNV\Srv_Caract.CNV
+XAmbulatorial/Hospitalar, AMB_NSUS ,     1 , CNV\AMB_HOSP.CNV
+;Manten.por CNPJ   , CNPJ_MAN ,          1 , (FALTA gerar DBF de MANTENEDORAS com nomes e CNPJ)
+;
+;===========================================================================================
+;Variﬂveis de Localiza˛“o dos Estabelecimentos de Sa∑de - CNES
+;=========================================================================================
+X* LOCALIZA√√O *,    COMENTARIO,1, LOCALIZA√√O_ESTABELECIMENTO
+LRegi“o,                        CODUFMUN,1 , CNV\br_regiao.cnv
+CRegi“o,                        CODUFMUN,1 , CNV\br_regiao.cnv
+SRegi“o,                        CODUFMUN,1 , CNV\br_regiao.cnv
+LRegi“o/Unidade da Federa˛“o,   CODUFMUN,1 , CNV\br_regiaouf.cnv
+LUnidade da Federa˛“o,          CODUFMUN,1 , CNV\br_uf.cnv
+CUnidade da Federa˛“o,          CODUFMUN,1 , CNV\br_ufsigla.cnv
+SUnidade da Federa˛“o,          CODUFMUN,1 , CNV\br_ufalfa.cnv
+LMunic›pio,                     CODUFMUN,1 , CNV\br_municip.cnv
+SMunic›pio,                     CODUFMUN,1 , CNV\br_municip.cnv
+LCapital,                       CODUFMUN,1 , CNV\br_capital.cnv
+CCapital,                       CODUFMUN,1 , CNV\br_capital.cnv
+SCapital,                       CODUFMUN,1 , CNV\br_capital.cnv
+LRegi“o de Sa∑de (CIR),         CODUFMUN,1 , CNV\br_regsaud.cnv
+SRegi“o de Sa∑de (CIR),         CODUFMUN,1 , CNV\br_regsaud.cnv
+LMacrorregi“o de Sa∑de,         CODUFMUN,1 , CNV\br_macsaud.cnv
+SMacrorregi“o de Sa∑de,         CODUFMUN,1 , CNV\br_macsaud.cnv
+LMicrorregi“o IBGE,             CODUFMUN,1 , CNV\br_micibge.cnv
+SMicrorregi“o IBGE,             CODUFMUN,1 , CNV\br_micibge.cnv
+LRegi“o Metropolitana - RIDE,   CODUFMUN,1 , CNV\br_regmetr.cnv
+SRegi“o Metropolitana - RIDE,   CODUFMUN,1 , CNV\br_regmetr.cnv
+LTerritærio da Cidadania,       CODUFMUN,1 , CNV\br_terrcid.cnv
+STerritærio da Cidadania,       CODUFMUN,1 , CNV\br_terrcid.cnv
+LMacrorregi“o PNDR,             CODUFMUN,1 , CNV\br_pndr.cnv
+SMacrorregi“o PNDR,             CODUFMUN,1 , CNV\br_pndr.cnv
+SAmaz∂nia Legal,                CODUFMUN,1 , CNV\br_amazlegal.cnv
+SSemiﬂrido,                     CODUFMUN,1 , CNV\br_semiarido.cnv
+SFaixa de Fronteira,            CODUFMUN,1 , CNV\br_frontfaixa.cnv
+SZona de Fronteira,             CODUFMUN,1 , CNV\br_frontzona.cnv
+SMunic›pio de extrema pobreza,  CODUFMUN,1 , CNV\br_extrpobrez.cnv
+;===========================================================================================
+;Cadastros Nacional de Estabelecimentos de Sa∑de - CNES - BR por Ano
+;===========================================================================================
+LES Nome Fantasia MEC EBSERH      , CNES     , NOMEFANT ,  DBF\HUF_MEC.DBF
+SES Nome Fantasia MEC EBSERH      , CNES     , NOMEFANT ,  DBF\HUF_MEC.DBF
+LES Nome Fant. Filiados EBSERH     , CNES     , NOMEFANT ,  DBF\HUF_FILIAL.DBF
+SES Nome Fant. Filiados EBSERH     , CNES     , NOMEFANT ,  DBF\HUF_FILIAL.DBF
+DES Nome Fantasia - AC, CNES        , FANTASIA ,  DBF\CADGERAC.DBF
+SES Nome Fantasia - AC, CNES        , FANTASIA ,  DBF\CADGERAC.DBF
+SES Nome Fantasia - AL, CNES        , FANTASIA ,  DBF\CADGERAL.DBF
+DES Nome Fantasia - AL, CNES        , FANTASIA ,  DBF\CADGERAL.DBF
+SES Nome Fantasia - AM, CNES        , FANTASIA ,  DBF\CADGERAM.DBF
+DES Nome Fantasia - AM, CNES        , FANTASIA ,  DBF\CADGERAM.DBF
+SES Nome Fantasia - AP, CNES        , FANTASIA ,  DBF\CADGERAP.DBF
+DES Nome Fantasia - AP, CNES        , FANTASIA ,  DBF\CADGERAP.DBF
+DES Nome Fantasia - BA, CNES        , FANTASIA ,  DBF\CADGERBA.DBF
+SES Nome Fantasia - BA, CNES        , FANTASIA ,  DBF\CADGERBA.DBF
+SES Nome Fantasia - CE, CNES        , FANTASIA ,  DBF\CADGERCE.DBF
+DES Nome Fantasia - CE, CNES        , FANTASIA ,  DBF\CADGERCE.DBF
+DES Nome Fantasia - DF, CNES        , FANTASIA ,  DBF\CADGERDF.DBF
+SES Nome Fantasia - DF, CNES        , FANTASIA ,  DBF\CADGERDF.DBF
+DES Nome Fantasia - ES, CNES        , FANTASIA ,  DBF\CADGERES.DBF
+SES Nome Fantasia - ES, CNES        , FANTASIA ,  DBF\CADGERES.DBF
+DES Nome Fantasia - GO, CNES        , FANTASIA ,  DBF\CADGERGO.DBF
+SES Nome Fantasia - GO, CNES        , FANTASIA ,  DBF\CADGERGO.DBF
+SES Nome Fantasia - MA, CNES        , FANTASIA ,  DBF\CADGERMA.DBF
+DES Nome Fantasia - MA, CNES        , FANTASIA ,  DBF\CADGERMA.DBF
+SES Nome Fantasia - MG, CNES        , FANTASIA ,  DBF\CADGERMG.DBF
+DES Nome Fantasia - MG, CNES        , FANTASIA ,  DBF\CADGERMG.DBF
+DES Nome Fantasia - MS, CNES        , FANTASIA ,  DBF\CADGERMS.DBF
+SES Nome Fantasia - MS, CNES        , FANTASIA ,  DBF\CADGERMS.DBF
+DES Nome Fantasia - MT, CNES        , FANTASIA ,  DBF\CADGERMT.DBF
+SES Nome Fantasia - MT, CNES        , FANTASIA ,  DBF\CADGERMT.DBF
+DES Nome Fantasia - PA, CNES        , FANTASIA ,  DBF\CADGERPA.DBF
+SES Nome Fantasia - PA, CNES        , FANTASIA ,  DBF\CADGERPA.DBF
+SES Nome Fantasia - PB, CNES        , FANTASIA ,  DBF\CADGERPB.DBF
+DES Nome Fantasia - PB, CNES        , FANTASIA ,  DBF\CADGERPB.DBF
+DES Nome Fantasia - PE, CNES        , FANTASIA ,  DBF\CADGERPE.DBF
+SES Nome Fantasia - PE, CNES        , FANTASIA ,  DBF\CADGERPE.DBF
+DES Nome Fantasia - PI, CNES        , FANTASIA ,  DBF\CADGERPI.DBF
+SES Nome Fantasia - PI, CNES        , FANTASIA ,  DBF\CADGERPI.DBF
+SES Nome Fantasia - PR, CNES        , FANTASIA ,  DBF\CADGERPR.DBF
+DES Nome Fantasia - PR, CNES        , FANTASIA ,  DBF\CADGERPR.DBF
+DES Nome Fantasia - RJ, CNES        , FANTASIA ,  DBF\CADGERRJ.DBF
+SES Nome Fantasia - RJ, CNES        , FANTASIA ,  DBF\CADGERRJ.DBF
+SES Nome Fantasia - RN, CNES        , FANTASIA ,  DBF\CADGERRN.DBF
+DES Nome Fantasia - RN, CNES        , FANTASIA ,  DBF\CADGERRN.DBF
+SES Nome Fantasia - RO, CNES        , FANTASIA ,  DBF\CADGERRO.DBF
+DES Nome Fantasia - RO, CNES        , FANTASIA ,  DBF\CADGERRO.DBF
+DES Nome Fantasia - RR, CNES        , FANTASIA ,  DBF\CADGERRR.DBF
+SES Nome Fantasia - RR, CNES        , FANTASIA ,  DBF\CADGERRR.DBF
+SES Nome Fantasia - RS, CNES        , FANTASIA ,  DBF\CADGERRS.DBF
+DES Nome Fantasia - RS, CNES        , FANTASIA ,  DBF\CADGERRS.DBF
+SES Nome Fantasia - SC, CNES        , FANTASIA ,  DBF\CADGERSC.DBF
+DES Nome Fantasia - SC, CNES        , FANTASIA ,  DBF\CADGERSC.DBF
+DES Nome Fantasia - SE, CNES        , FANTASIA ,  DBF\CADGERSE.DBF
+SES Nome Fantasia - SE, CNES        , FANTASIA ,  DBF\CADGERSE.DBF
+SES Nome Fantasia - SP, CNES        , FANTASIA ,  DBF\CADGERSP.DBF
+DES Nome Fantasia - SP, CNES        , FANTASIA ,  DBF\CADGERSP.DBF
+DES Nome Fantasia - TO, CNES        , FANTASIA ,  DBF\CADGERTO.DBF
+SES Nome Fantasia - TO, CNES        , FANTASIA ,  DBF\CADGERTO.DBF
+;
+;L* ESTAB RAZAO SOCIAL  *, TITULO   , COMENTARIO_REFERENTE_A_CNES_POR_RAZAO
+;S* ESTAB RAZAO SOCIAL  *, TITULO   , COMENTARIO_REFERENTE_A_CNES_POR_RAZAO
+;
+SES Razao Social - AC, CNES     , RAZ_SOCI , DBF\CADGERAC.DBF
+DES Razao Social - AC, CNES     , RAZ_SOCI , DBF\CADGERAC.DBF
+DES Razao Social - AL, CNES     , RAZ_SOCI , DBF\CADGERAL.DBF
+SES Razao Social - AL, CNES     , RAZ_SOCI , DBF\CADGERAL.DBF
+DES Razao Social - AM, CNES     , RAZ_SOCI , DBF\CADGERAM.DBF
+SES Razao Social - AM, CNES     , RAZ_SOCI , DBF\CADGERAM.DBF
+SES Razao Social - AP, CNES     , RAZ_SOCI , DBF\CADGERAP.DBF
+DES Razao Social - AP, CNES     , RAZ_SOCI , DBF\CADGERAP.DBF
+SES Razao Social - BA, CNES     , RAZ_SOCI , DBF\CADGERBA.DBF
+DES Razao Social - BA, CNES     , RAZ_SOCI , DBF\CADGERBA.DBF
+SES Razao Social - CE, CNES     , RAZ_SOCI , DBF\CADGERCE.DBF
+DES Razao Social - CE, CNES     , RAZ_SOCI , DBF\CADGERCE.DBF
+SES Razao Social - DF, CNES     , RAZ_SOCI , DBF\CADGERDF.DBF
+DES Razao Social - DF, CNES     , RAZ_SOCI , DBF\CADGERDF.DBF
+SES Razao Social - ES, CNES     , RAZ_SOCI , DBF\CADGERES.DBF
+DES Razao Social - ES, CNES     , RAZ_SOCI , DBF\CADGERES.DBF
+DES Razao Social - GO, CNES     , RAZ_SOCI , DBF\CADGERGO.DBF
+SES Razao Social - GO, CNES     , RAZ_SOCI , DBF\CADGERGO.DBF
+DES Razao Social - MA, CNES     , RAZ_SOCI , DBF\CADGERMA.DBF
+SES Razao Social - MA, CNES     , RAZ_SOCI , DBF\CADGERMA.DBF
+DES Razao Social - MG, CNES     , RAZ_SOCI , DBF\CADGERMG.DBF
+SES Razao Social - MG, CNES     , RAZ_SOCI , DBF\CADGERMG.DBF
+SES Razao Social - MS, CNES     , RAZ_SOCI , DBF\CADGERMS.DBF
+DES Razao Social - MS, CNES     , RAZ_SOCI , DBF\CADGERMS.DBF
+SES Razao Social - MT, CNES     , RAZ_SOCI , DBF\CADGERMT.DBF
+DES Razao Social - MT, CNES     , RAZ_SOCI , DBF\CADGERMT.DBF
+DES Razao Social - PA, CNES     , RAZ_SOCI , DBF\CADGERPA.DBF
+SES Razao Social - PA, CNES     , RAZ_SOCI , DBF\CADGERPA.DBF
+DES Razao Social - PB, CNES     , RAZ_SOCI , DBF\CADGERPB.DBF
+SES Razao Social - PB, CNES     , RAZ_SOCI , DBF\CADGERPB.DBF
+SES Razao Social - PE, CNES     , RAZ_SOCI , DBF\CADGERPE.DBF
+DES Razao Social - PE, CNES     , RAZ_SOCI , DBF\CADGERPE.DBF
+DES Razao Social - PI, CNES     , RAZ_SOCI , DBF\CADGERPI.DBF
+SES Razao Social - PI, CNES     , RAZ_SOCI , DBF\CADGERPI.DBF
+SES Razao Social - PR, CNES     , RAZ_SOCI , DBF\CADGERPR.DBF
+DES Razao Social - PR, CNES     , RAZ_SOCI , DBF\CADGERPR.DBF
+DES Razao Social - RJ, CNES     , RAZ_SOCI , DBF\CADGERRJ.DBF
+SES Razao Social - RJ, CNES     , RAZ_SOCI , DBF\CADGERRJ.DBF
+SES Razao Social - RN, CNES     , RAZ_SOCI , DBF\CADGERRN.DBF
+DES Razao Social - RN, CNES     , RAZ_SOCI , DBF\CADGERRN.DBF
+DES Razao Social - RO, CNES     , RAZ_SOCI , DBF\CADGERRO.DBF
+SES Razao Social - RO, CNES     , RAZ_SOCI , DBF\CADGERRO.DBF
+DES Razao Social - RR, CNES     , RAZ_SOCI , DBF\CADGERRR.DBF
+SES Razao Social - RR, CNES     , RAZ_SOCI , DBF\CADGERRR.DBF
+SES Razao Social - RS, CNES     , RAZ_SOCI , DBF\CADGERRS.DBF
+DES Razao Social - RS, CNES     , RAZ_SOCI , DBF\CADGERRS.DBF
+DES Razao Social - SC, CNES     , RAZ_SOCI , DBF\CADGERSC.DBF
+SES Razao Social - SC, CNES     , RAZ_SOCI , DBF\CADGERSC.DBF
+SES Razao Social - SE, CNES     , RAZ_SOCI , DBF\CADGERSE.DBF
+DES Razao Social - SE, CNES     , RAZ_SOCI , DBF\CADGERSE.DBF
+SES Razao Social - SP, CNES     , RAZ_SOCI , DBF\CADGERSP.DBF
+DES Razao Social - SP, CNES     , RAZ_SOCI , DBF\CADGERSP.DBF
+SES Razao Social - TO, CNES     , RAZ_SOCI , DBF\CADGERTO.DBF
+DES Razao Social - TO, CNES     , RAZ_SOCI , DBF\CADGERTO.DBF

@@ -1,0 +1,108 @@
+N 107 4 L
+        1  EQUIPAMENTOS DE DIAGNÓSTICO POR IMAGEM                                                               0101-0118
+        2  .. GAMA CAMARA                                                                                       0101
+        3  .. MAMOGRAFO COM COMANDO SIMPLES                                                                     0102
+        4  .. MAMOGRAFO COM ESTEREOTAXIA                                                                        0103
+        5  .. RAIO X ATE 100 MA                                                                                 0104
+        6  .. RAIO X DE 100 A 500 MA                                                                            0105
+        7  .. RAIO X MAIS DE 500MA                                                                              0106
+        8  .. RAIO X DENTARIO                                                                                   0107
+        9  .. RAIO X COM FLUOROSCOPIA                                                                           0108
+       10  .. RAIO X PARA DENSITOMETRIA OSSEA                                                                   0109
+       11  .. RAIO X PARA HEMODINAMICA                                                                          0110
+       12  .. TOMÓGRAFO COMPUTADORIZADO                                                                         0111
+       13  .. RESSONANCIA MAGNETICA                                                                             0112
+       14  .. ULTRASSOM DOPPLER COLORIDO                                                                        0113
+       15  .. ULTRASSOM ECOGRAFO                                                                                0114
+       16  .. ULTRASSOM CONVENCIONAL                                                                            0115
+       17  .. PROCESSADORA DE FILME EXCLUSIVA PARA MAMOGRAFIA                                                   0116
+       18  .. MAMOGRAFO COMPUTADORIZADO                                                                         0117
+       19  .. PET/CT                                                                                            0118
+       20  EQUIPAMENTOS DE INFRA-ESTRUTURA                                                                      0221-0223
+       21  .. CONTROLE AMBIENTAL/AR-CONDICIONADO CENTRAL                                                        0221
+       22  .. GRUPO GERADOR                                                                                     0222
+       23  .. USINA DE OXIGENIO                                                                                 0223
+       24  EQUIPAMENTOS POR MÉTODOS ÓPTICOS                                                                     0331-0340,0344-0350
+       25  .. ENDOSCOPIO DAS VIAS RESPIRATORIAS                                                                 0331
+       26  .. ENDOSCOPIO DAS VIAS URINARIAS                                                                     0332
+       27  .. ENDOSCOPIO DIGESTIVO                                                                              0333
+       28  .. EQUIPAMENTOS PARA OPTOMETRIA                                                                      0334
+       29  .. LAPAROSCOPIO/VÍDEO                                                                                0335
+       30  .. MICROSCOPIO CIRURGICO                                                                             0336
+       31  .. CADEIRA OFTALMOLOGICA                                                                             0337
+       32  .. COLUNA OFTALMOLOGICA                                                                              0338
+       33  .. REFRATOR                                                                                          0339
+       34  .. LENSOMETRO                                                                                        0340
+       35  .. PROJETOR OU TABELA DE OPTOTIPOS                                                                   0344
+       36  .. RETINOSCOPIO                                                                                      0345
+       37  .. OFTALMOSCOPIO                                                                                     0346
+       38  .. CERATOMETRO                                                                                       0347
+       39  .. TONOMETRO DE APLANACAO                                                                            0348
+       40  .. BIOMICROSCOPIO (LAMPADA DE FENDA)                                                                 0349
+       41  .. CAMPIMETRO                                                                                        0350
+       42  EQUIPAMENTOS POR MÉTODOS GRÁFICOS                                                                    0441-0442
+       43  .. ELETROCARDIOGRAFO                                                                                 0441
+       44  .. ELETROENCEFALOGRAFO                                                                               0442
+       45  EQUIPAMENTOS DE MANUTENÇÃO DA VIDA                                                                   0551-0564
+       46  .. BOMBA/BALAO INTRA-AORTICO                                                                         0551
+       47  .. BOMBA DE INFUSAO                                                                                  0552
+       48  .. BERÇO AQUECIDO                                                                                    0553
+       49  .. BILIRRUBINOMETRO                                                                                  0554
+       50  .. DEBITOMETRO                                                                                       0555
+       51  .. DESFIBRILADOR                                                                                     0556
+       52  .. EQUIPAMENTO DE FOTOTERAPIA                                                                        0557
+       53  .. INCUBADORA                                                                                        0558
+       54  .. MARCAPASSO TEMPORARIO                                                                             0559
+       55  .. MONITOR DE ECG                                                                                    0560
+       56  .. MONITOR DE PRESSAO INVASIVO                                                                       0561
+       57  .. MONITOR DE PRESSAO NAO-INVASIVO                                                                   0562
+       58  .. REANIMADOR PULMONAR/AMBU                                                                          0563
+       59  .. RESPIRADOR/VENTILADOR                                                                             0564
+       60  OUTROS EQUIPAMENTOS                                                                                  0671-0678
+       61  .. APARELHO DE DIATERMIA POR ULTRASSOM/ONDAS CURTAS                                                  0671
+       62  .. APARELHO DE ELETROESTIMULACAO                                                                     0672
+       63  .. BOMBA DE INFUSAO DE HEMODERIVADOS                                                                 0673
+       64  .. EQUIPAMENTOS DE AFERESE                                                                           0674
+       65  .. EQUIPAMENTO PARA AUDIOMETRIA                                                                      0675
+       66  .. EQUIPAMENTO DE CIRCULACAO EXTRACORPOREA                                                           0676
+       67  .. EQUIPAMENTO PARA HEMODIALISE                                                                      0677
+       68  .. FORNO DE BIER                                                                                     0678
+       69  EQUIPAMENTOS DE ODONTOLOGIA                                                                          0780-0786
+       70  .. EQUIPO ODONTOLOGICO                                                                               0780
+       71  .. COMPRESSOR ODONTOLOGICO                                                                           0781
+       72  .. FOTOPOLIMERIZADOR                                                                                 0782
+       73  .. CANETA DE ALTA ROTACAO                                                                            0783
+       74  .. CANETA DE BAIXA ROTACAO                                                                           0784
+       75  .. AMALGAMADOR                                                                                       0785
+       76  .. APARELHO DE PROFILAXIA C/ JATO DE BICARBONATO                                                     0786
+       77  EQUIPAMENTOS DE AUDIOLOGIA                                                                           0887-0899
+       78  .. EMISSOES OTOACUSTICAS EVOCADAS TRANSIENTES                                                        0887
+       79  .. EMISSOES OTOACUSTICAS EVOCADAS POR PRODUTO DE DISTORCAO                                           0888
+       80  .. POTENCIAL EVOCADO AUDITIVO DE TRONCO ENCEFALICO AUTOMATICO                                        0889
+       81  .. POT EVOCADO AUD TRONCO ENCEF DE CURTA,MEDIA E LONGA LATENCIA                                      0890
+       82  .. AUDIOMETRO DE UM CANAL                                                                            0891
+       83  .. AUDIOMETRO DE DOIS CANAIS                                                                         0892
+       84  .. IMITANCIOMETRO                                                                                    0893
+       85  .. IMITANCIOMETRO MULTIFREQUENCIAL                                                                   0894
+       86  .. CABINE ACUSTICA                                                                                   0895
+       87  .. SISTEMA DE CAMPO LIVRE                                                                            0896
+       88  .. SISTEMA COMPLETO DE REFORÇO VISUAL(VRA)                                                           0897
+       89  .. GANHO DE INSERCAO                                                                                 0898
+       90  .. HI-PRO                                                                                            0899
+       91  EQUIPAMENTOS DE TELESSAUDE                                                                           0901-0911
+       92  .. CAMERA PARA RECONHECIMENTO FACIAL                                                                 0901
+       93  .. CARRINHO DE TELEMEDICINA DE VIDEOCONFERENCIA                                                      0902
+       94  .. CONDENSADOR                                                                                       0903
+       95  .. DERMATOSCOPIO                                                                                     0904
+       96  .. DETECTOR FETAL PORTATIL                                                                           0905
+       97  .. KIT DERMATOSCOPIA                                                                                 0906
+       98  .. KIT MEDICO DE DIAGNOSTICO AUDIOLOGICO TAB                                                         0907
+       99  .. MESA DIGITALIZADORA                                                                               0908
+      100  .. MONITOR SINAIS VITAIS MULTIF PORT TELESSAUDE DE GRAU MEDICO                                       0909
+      101  .. RETINOGRAFO PORTATIL                                                                              0910
+      102  .. ULTRASSOM PORTATIL                                                                                0911
+      103  DIALISE                                                                                              1001-1004
+      104  .. APARELHO DE HEMODIALISE - AMBULATORIAL                                                            1001
+      105  .. APARELHO DE HEMODIALISE - HOSPITALAR                                                              1002
+      106  .. APARELHO DE HEMODIALISE RESERVA                                                                   1003
+      107  .. APARELHO PARA DIALISE PERITONEAL                                                                  1004

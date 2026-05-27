@@ -1,0 +1,656 @@
+    654  6
+      1  3501 Rota dos Bandeirantes                         350570
+  1   2  .... Barueri                                       350570
+  1   3  .... Carapicuíba                                   351060
+  1   4  .... Itapevi                                       352250
+  1   5  .... Jandira                                       352500
+  1   6  .... Osasco                                        353440
+  1   7  .... Pirapora do Bom Jesus                         353910
+  1   8  .... Santana de Parnaíba                           354730
+      9  3502 Região dos Mananciais                         351300
+  9  10  .... Cotia                                         351300
+  9  11  .... Embu                                          351500
+  9  12  .... Embu-Guaçu                                    351510
+  9  13  .... Itapecerica da Serra                          352220
+  9  14  .... Juquitiba                                     352620
+  9  15  .... São Lourenço da Serra                         354995
+  9  16  .... Taboão da Serra                               355280
+  9  17  .... Vargem Grande Paulista                        355645
+     18  3503 Região de Franco da Rocha                     350900
+ 18  19  .... Caieiras                                      350900
+ 18  20  .... Cajamar                                       350920
+ 18  21  .... Francisco Morato                              351630
+ 18  22  .... Franco da Rocha                               351640
+ 18  23  .... Mairiporã                                     352850
+     24  3504 Região do Alto Tietê                          350390
+ 24  25  .... Arujá                                         350390
+ 24  26  .... Biritiba-Mirim                                350660
+ 24  27  .... Ferraz de Vasconcelos                         351570
+ 24  28  .... Guararema                                     351830
+ 24  29  .... Itaquaquecetuba                               352310
+ 24  30  .... Mogi das Cruzes                               353060
+ 24  31  .... Poá                                           353980
+ 24  32  .... Salesópolis                                   354500
+ 24  33  .... Santa Isabel                                  354680
+ 24  34  .... Suzano                                        355250
+     35  3505 Região de Guarulhos                           351880
+ 35  36  .... Guarulhos                                     351880
+     37  3506 Região do Santo André                         351380
+ 37  38  .... Diadema                                       351380
+ 37  39  .... Mauá                                          352940
+ 37  40  .... Ribeirão Pires                                354330
+ 37  41  .... Rio Grande da Serra                           354410
+ 37  42  .... Santo André                                   354780
+ 37  43  .... São Bernardo do Campo                         354870
+ 37  44  .... São Caetano do Sul                            354880
+     45  3507 São Paulo                                     355030,358001-358058
+ 45  46  .... São Paulo                                     355030,358001-358058
+     47  3590 Região não definida - SP                      350010
+ 47  48  .... Adamantina                                    350010
+ 47  49  .... Adolfo                                        350020
+ 47  50  .... Aguaí                                         350030
+ 47  51  .... Águas da Prata                                350040
+ 47  52  .... Águas de Lindóia                              350050
+ 47  53  .... Águas de Santa Bárbara                        350055
+ 47  54  .... Águas de São Pedro                            350060
+ 47  55  .... Agudos                                        350070
+ 47  56  .... Alambari                                      350075
+ 47  57  .... Alfredo Marcondes                             350080
+ 47  58  .... Altair                                        350090
+ 47  59  .... Altinópolis                                   350100
+ 47  60  .... Alto Alegre                                   350110
+ 47  61  .... Alumínio                                      350115
+ 47  62  .... Álvares Florence                              350120
+ 47  63  .... Álvares Machado                               350130
+ 47  64  .... Álvaro de Carvalho                            350140
+ 47  65  .... Alvinlândia                                   350150
+ 47  66  .... Americana                                     350160
+ 47  67  .... Américo Brasiliense                           350170
+ 47  68  .... Américo de Campos                             350180
+ 47  69  .... Amparo                                        350190
+ 47  70  .... Analândia                                     350200
+ 47  71  .... Andradina                                     350210
+ 47  72  .... Angatuba                                      350220
+ 47  73  .... Anhembi                                       350230
+ 47  74  .... Anhumas                                       350240
+ 47  75  .... Aparecida                                     350250
+ 47  76  .... Aparecida d'Oeste                             350260
+ 47  77  .... Apiaí                                         350270
+ 47  78  .... Araçariguama                                  350275
+ 47  79  .... Araçatuba                                     350280
+ 47  80  .... Araçoiaba da Serra                            350290
+ 47  81  .... Aramina                                       350300
+ 47  82  .... Arandu                                        350310
+ 47  83  .... Arapeí                                        350315
+ 47  84  .... Araraquara                                    350320
+ 47  85  .... Araras                                        350330
+ 47  86  .... Arco-Íris                                     350335
+ 47  87  .... Arealva                                       350340
+ 47  88  .... Areias                                        350350
+ 47  89  .... Areiópolis                                    350360
+ 47  90  .... Ariranha                                      350370
+ 47  91  .... Artur Nogueira                                350380
+ 47  92  .... Aspásia                                       350395
+ 47  93  .... Assis                                         350400
+ 47  94  .... Atibaia                                       350410
+ 47  95  .... Auriflama                                     350420
+ 47  96  .... Avaí                                          350430
+ 47  97  .... Avanhandava                                   350440
+ 47  98  .... Avaré                                         350450
+ 47  99  .... Bady Bassitt                                  350460
+ 47 100  .... Balbinos                                      350470
+ 47 101  .... Bálsamo                                       350480
+ 47 102  .... Bananal                                       350490
+ 47 103  .... Barão de Antonina                             350500
+ 47 104  .... Barbosa                                       350510
+ 47 105  .... Bariri                                        350520
+ 47 106  .... Barra Bonita                                  350530
+ 47 107  .... Barra do Chapéu                               350535
+ 47 108  .... Barra do Turvo                                350540
+ 47 109  .... Barretos                                      350550
+ 47 110  .... Barrinha                                      350560
+ 47 111  .... Bastos                                        350580
+ 47 112  .... Batatais                                      350590
+ 47 113  .... Bauru                                         350600
+ 47 114  .... Bebedouro                                     350610
+ 47 115  .... Bento de Abreu                                350620
+ 47 116  .... Bernardino de Campos                          350630
+ 47 117  .... Bertioga                                      350635
+ 47 118  .... Bilac                                         350640
+ 47 119  .... Birigui                                       350650
+ 47 120  .... Boa Esperança do Sul                          350670
+ 47 121  .... Bocaina                                       350680
+ 47 122  .... Bofete                                        350690
+ 47 123  .... Boituva                                       350700
+ 47 124  .... Bom Jesus dos Perdões                         350710
+ 47 125  .... Bom Sucesso de Itararé                        350715
+ 47 126  .... Borá                                          350720
+ 47 127  .... Boracéia                                      350730
+ 47 128  .... Borborema                                     350740
+ 47 129  .... Borebi                                        350745
+ 47 130  .... Botucatu                                      350750
+ 47 131  .... Bragança Paulista                             350760
+ 47 132  .... Braúna                                        350770
+ 47 133  .... Brejo Alegre                                  350775
+ 47 134  .... Brodowski                                     350780
+ 47 135  .... Brotas                                        350790
+ 47 136  .... Buri                                          350800
+ 47 137  .... Buritama                                      350810
+ 47 138  .... Buritizal                                     350820
+ 47 139  .... Cabrália Paulista                             350830
+ 47 140  .... Cabreúva                                      350840
+ 47 141  .... Caçapava                                      350850
+ 47 142  .... Cachoeira Paulista                            350860
+ 47 143  .... Caconde                                       350870
+ 47 144  .... Cafelândia                                    350880
+ 47 145  .... Caiabu                                        350890
+ 47 146  .... Caiuá                                         350910
+ 47 147  .... Cajati                                        350925
+ 47 148  .... Cajobi                                        350930
+ 47 149  .... Cajuru                                        350940
+ 47 150  .... Campina do Monte Alegre                       350945
+ 47 151  .... Campinas                                      350950
+ 47 152  .... Campo Limpo Paulista                          350960
+ 47 153  .... Campos do Jordão                              350970
+ 47 154  .... Campos Novos Paulista                         350980
+ 47 155  .... Cananéia                                      350990
+ 47 156  .... Canas                                         350995
+ 47 157  .... Cândido Mota                                  351000
+ 47 158  .... Cândido Rodrigues                             351010
+ 47 159  .... Canitar                                       351015
+ 47 160  .... Capão Bonito                                  351020
+ 47 161  .... Capela do Alto                                351030
+ 47 162  .... Capivari                                      351040
+ 47 163  .... Caraguatatuba                                 351050
+ 47 164  .... Cardoso                                       351070
+ 47 165  .... Casa Branca                                   351080
+ 47 166  .... Cássia dos Coqueiros                          351090
+ 47 167  .... Castilho                                      351100
+ 47 168  .... Catanduva                                     351110
+ 47 169  .... Catiguá                                       351120
+ 47 170  .... Cedral                                        351130
+ 47 171  .... Cerqueira César                               351140
+ 47 172  .... Cerquilho                                     351150
+ 47 173  .... Cesário Lange                                 351160
+ 47 174  .... Charqueada                                    351170
+ 47 175  .... Chavantes                                     355720
+ 47 176  .... Clementina                                    351190
+ 47 177  .... Colina                                        351200
+ 47 178  .... Colômbia                                      351210
+ 47 179  .... Conchal                                       351220
+ 47 180  .... Conchas                                       351230
+ 47 181  .... Cordeirópolis                                 351240
+ 47 182  .... Coroados                                      351250
+ 47 183  .... Coronel Macedo                                351260
+ 47 184  .... Corumbataí                                    351270
+ 47 185  .... Cosmópolis                                    351280
+ 47 186  .... Cosmorama                                     351290
+ 47 187  .... Cravinhos                                     351310
+ 47 188  .... Cristais Paulista                             351320
+ 47 189  .... Cruzália                                      351330
+ 47 190  .... Cruzeiro                                      351340
+ 47 191  .... Cubatão                                       351350
+ 47 192  .... Cunha                                         351360
+ 47 193  .... Descalvado                                    351370
+ 47 194  .... Dirce Reis                                    351385
+ 47 195  .... Divinolândia                                  351390
+ 47 196  .... Dobrada                                       351400
+ 47 197  .... Dois Córregos                                 351410
+ 47 198  .... Dolcinópolis                                  351420
+ 47 199  .... Dourado                                       351430
+ 47 200  .... Dracena                                       351440
+ 47 201  .... Duartina                                      351450
+ 47 202  .... Dumont                                        351460
+ 47 203  .... Echaporã                                      351470
+ 47 204  .... Eldorado                                      351480
+ 47 205  .... Elias Fausto                                  351490
+ 47 206  .... Elisiário                                     351492
+ 47 207  .... Embaúba                                       351495
+ 47 208  .... Emilianópolis                                 351512
+ 47 209  .... Engenheiro Coelho                             351515
+ 47 210  .... Espírito Santo do Pinhal                      351518
+ 47 211  .... Espírito Santo do Turvo                       351519
+ 47 212  .... Estiva Gerbi                                  355730
+ 47 213  .... Estrela d'Oeste                               351520
+ 47 214  .... Estrela do Norte                              351530
+ 47 215  .... Euclides da Cunha Paulista                    351535
+ 47 216  .... Fartura                                       351540
+ 47 217  .... Fernando Prestes                              351560
+ 47 218  .... Fernandópolis                                 351550
+ 47 219  .... Fernão                                        351565
+ 47 220  .... Flora Rica                                    351580
+ 47 221  .... Floreal                                       351590
+ 47 222  .... Flórida Paulista                              351600
+ 47 223  .... Florínia                                      351610
+ 47 224  .... Franca                                        351620
+ 47 225  .... Gabriel Monteiro                              351650
+ 47 226  .... Gália                                         351660
+ 47 227  .... Garça                                         351670
+ 47 228  .... Gastão Vidigal                                351680
+ 47 229  .... Gavião Peixoto                                351685
+ 47 230  .... General Salgado                               351690
+ 47 231  .... Getulina                                      351700
+ 47 232  .... Glicério                                      351710
+ 47 233  .... Guaiçara                                      351720
+ 47 234  .... Guaimbê                                       351730
+ 47 235  .... Guaíra                                        351740
+ 47 236  .... Guapiaçu                                      351750
+ 47 237  .... Guapiara                                      351760
+ 47 238  .... Guará                                         351770
+ 47 239  .... Guaraçaí                                      351780
+ 47 240  .... Guaraci                                       351790
+ 47 241  .... Guarani d'Oeste                               351800
+ 47 242  .... Guarantã                                      351810
+ 47 243  .... Guararapes                                    351820
+ 47 244  .... Guaratinguetá                                 351840
+ 47 245  .... Guareí                                        351850
+ 47 246  .... Guariba                                       351860
+ 47 247  .... Guarujá                                       351870
+ 47 248  .... Guatapará                                     351885
+ 47 249  .... Guzolândia                                    351890
+ 47 250  .... Herculândia                                   351900
+ 47 251  .... Holambra                                      351905
+ 47 252  .... Hortolândia                                   351907
+ 47 253  .... Iacanga                                       351910
+ 47 254  .... Iacri                                         351920
+ 47 255  .... Iaras                                         351925
+ 47 256  .... Ibaté                                         351930
+ 47 257  .... Ibirá                                         351940
+ 47 258  .... Ibirarema                                     351950
+ 47 259  .... Ibitinga                                      351960
+ 47 260  .... Ibiúna                                        351970
+ 47 261  .... Icém                                          351980
+ 47 262  .... Iepê                                          351990
+ 47 263  .... Igaraçu do Tietê                              352000
+ 47 264  .... Igarapava                                     352010
+ 47 265  .... Igaratá                                       352020
+ 47 266  .... Iguape                                        352030
+ 47 267  .... Ilha Comprida                                 352042
+ 47 268  .... Ilha Solteira                                 352044
+ 47 269  .... Ilhabela                                      352040
+ 47 270  .... Indaiatuba                                    352050
+ 47 271  .... Indiana                                       352060
+ 47 272  .... Indiaporã                                     352070
+ 47 273  .... Inúbia Paulista                               352080
+ 47 274  .... Ipaussu                                       352090
+ 47 275  .... Iperó                                         352100
+ 47 276  .... Ipeúna                                        352110
+ 47 277  .... Ipiguá                                        352115
+ 47 278  .... Iporanga                                      352120
+ 47 279  .... Ipuã                                          352130
+ 47 280  .... Iracemápolis                                  352140
+ 47 281  .... Irapuã                                        352150
+ 47 282  .... Irapuru                                       352160
+ 47 283  .... Itaberá                                       352170
+ 47 284  .... Itaí                                          352180
+ 47 285  .... Itajobi                                       352190
+ 47 286  .... Itaju                                         352200
+ 47 287  .... Itanhaém                                      352210
+ 47 288  .... Itaóca                                        352215
+ 47 289  .... Itapetininga                                  352230
+ 47 290  .... Itapeva                                       352240
+ 47 291  .... Itapira                                       352260
+ 47 292  .... Itapirapuã Paulista                           352265
+ 47 293  .... Itápolis                                      352270
+ 47 294  .... Itaporanga                                    352280
+ 47 295  .... Itapuí                                        352290
+ 47 296  .... Itapura                                       352300
+ 47 297  .... Itararé                                       352320
+ 47 298  .... Itariri                                       352330
+ 47 299  .... Itatiba                                       352340
+ 47 300  .... Itatinga                                      352350
+ 47 301  .... Itirapina                                     352360
+ 47 302  .... Itirapuã                                      352370
+ 47 303  .... Itobi                                         352380
+ 47 304  .... Itu                                           352390
+ 47 305  .... Itupeva                                       352400
+ 47 306  .... Ituverava                                     352410
+ 47 307  .... Jaborandi                                     352420
+ 47 308  .... Jaboticabal                                   352430
+ 47 309  .... Jacareí                                       352440
+ 47 310  .... Jaci                                          352450
+ 47 311  .... Jacupiranga                                   352460
+ 47 312  .... Jaguariúna                                    352470
+ 47 313  .... Jales                                         352480
+ 47 314  .... Jambeiro                                      352490
+ 47 315  .... Jardinópolis                                  352510
+ 47 316  .... Jarinu                                        352520
+ 47 317  .... Jaú                                           352530
+ 47 318  .... Jeriquara                                     352540
+ 47 319  .... Joanópolis                                    352550
+ 47 320  .... João Ramalho                                  352560
+ 47 321  .... José Bonifácio                                352570
+ 47 322  .... Júlio Mesquita                                352580
+ 47 323  .... Jumirim                                       352585
+ 47 324  .... Jundiaí                                       352590
+ 47 325  .... Junqueirópolis                                352600
+ 47 326  .... Juquiá                                        352610
+ 47 327  .... Lagoinha                                      352630
+ 47 328  .... Laranjal Paulista                             352640
+ 47 329  .... Lavínia                                       352650
+ 47 330  .... Lavrinhas                                     352660
+ 47 331  .... Leme                                          352670
+ 47 332  .... Lençóis Paulista                              352680
+ 47 333  .... Limeira                                       352690
+ 47 334  .... Lindóia                                       352700
+ 47 335  .... Lins                                          352710
+ 47 336  .... Lorena                                        352720
+ 47 337  .... Lourdes                                       352725
+ 47 338  .... Louveira                                      352730
+ 47 339  .... Lucélia                                       352740
+ 47 340  .... Lucianópolis                                  352750
+ 47 341  .... Luís Antônio                                  352760
+ 47 342  .... Luiziânia                                     352770
+ 47 343  .... Lupércio                                      352780
+ 47 344  .... Lutécia                                       352790
+ 47 345  .... Macatuba                                      352800
+ 47 346  .... Macaubal                                      352810
+ 47 347  .... Macedônia                                     352820
+ 47 348  .... Magda                                         352830
+ 47 349  .... Mairinque                                     352840
+ 47 350  .... Manduri                                       352860
+ 47 351  .... Marabá Paulista                               352870
+ 47 352  .... Maracaí                                       352880
+ 47 353  .... Marapoama                                     352885
+ 47 354  .... Mariápolis                                    352890
+ 47 355  .... Marília                                       352900
+ 47 356  .... Marinópolis                                   352910
+ 47 357  .... Martinópolis                                  352920
+ 47 358  .... Matão                                         352930
+ 47 359  .... Mendonça                                      352950
+ 47 360  .... Meridiano                                     352960
+ 47 361  .... Mesópolis                                     352965
+ 47 362  .... Miguelópolis                                  352970
+ 47 363  .... Mineiros do Tietê                             352980
+ 47 364  .... Mira Estrela                                  353000
+ 47 365  .... Miracatu                                      352990
+ 47 366  .... Mirandópolis                                  353010
+ 47 367  .... Mirante do Paranapanema                       353020
+ 47 368  .... Mirassol                                      353030
+ 47 369  .... Mirassolândia                                 353040
+ 47 370  .... Mococa                                        353050
+ 47 371  .... Mogi Guaçu                                    353070
+ 47 372  .... Moji Mirim                                    353080
+ 47 373  .... Mombuca                                       353090
+ 47 374  .... Monções                                       353100
+ 47 375  .... Mongaguá                                      353110
+ 47 376  .... Monte Alegre do Sul                           353120
+ 47 377  .... Monte Alto                                    353130
+ 47 378  .... Monte Aprazível                               353140
+ 47 379  .... Monte Azul Paulista                           353150
+ 47 380  .... Monte Castelo                                 353160
+ 47 381  .... Monte Mor                                     353180
+ 47 382  .... Monteiro Lobato                               353170
+ 47 383  .... Morro Agudo                                   353190
+ 47 384  .... Morungaba                                     353200
+ 47 385  .... Motuca                                        353205
+ 47 386  .... Murutinga do Sul                              353210
+ 47 387  .... Nantes                                        353215
+ 47 388  .... Narandiba                                     353220
+ 47 389  .... Natividade da Serra                           353230
+ 47 390  .... Nazaré Paulista                               353240
+ 47 391  .... Neves Paulista                                353250
+ 47 392  .... Nhandeara                                     353260
+ 47 393  .... Nipoã                                         353270
+ 47 394  .... Nova Aliança                                  353280
+ 47 395  .... Nova Campina                                  353282
+ 47 396  .... Nova Canaã Paulista                           353284
+ 47 397  .... Nova Castilho                                 353286
+ 47 398  .... Nova Europa                                   353290
+ 47 399  .... Nova Granada                                  353300
+ 47 400  .... Nova Guataporanga                             353310
+ 47 401  .... Nova Independência                            353320
+ 47 402  .... Nova Luzitânia                                353330
+ 47 403  .... Nova Odessa                                   353340
+ 47 404  .... Novais                                        353325
+ 47 405  .... Novo Horizonte                                353350
+ 47 406  .... Nuporanga                                     353360
+ 47 407  .... Ocauçu                                        353370
+ 47 408  .... Óleo                                          353380
+ 47 409  .... Olímpia                                       353390
+ 47 410  .... Onda Verde                                    353400
+ 47 411  .... Oriente                                       353410
+ 47 412  .... Orindiúva                                     353420
+ 47 413  .... Orlândia                                      353430
+ 47 414  .... Oscar Bressane                                353450
+ 47 415  .... Osvaldo Cruz                                  353460
+ 47 416  .... Ourinhos                                      353470
+ 47 417  .... Ouro Verde                                    353480
+ 47 418  .... Ouroeste                                      353475
+ 47 419  .... Pacaembu                                      353490
+ 47 420  .... Palestina                                     353500
+ 47 421  .... Palmares Paulista                             353510
+ 47 422  .... Palmeira d'Oeste                              353520
+ 47 423  .... Palmital                                      353530
+ 47 424  .... Panorama                                      353540
+ 47 425  .... Paraguaçu Paulista                            353550
+ 47 426  .... Paraibuna                                     353560
+ 47 427  .... Paraíso                                       353570
+ 47 428  .... Paranapanema                                  353580
+ 47 429  .... Paranapuã                                     353590
+ 47 430  .... Parapuã                                       353600
+ 47 431  .... Pardinho                                      353610
+ 47 432  .... Pariquera-Açu                                 353620
+ 47 433  .... Parisi                                        353625
+ 47 434  .... Patrocínio Paulista                           353630
+ 47 435  .... Paulicéia                                     353640
+ 47 436  .... Paulínia                                      353650
+ 47 437  .... Paulistânia                                   353657
+ 47 438  .... Paulo de Faria                                353660
+ 47 439  .... Pederneiras                                   353670
+ 47 440  .... Pedra Bela                                    353680
+ 47 441  .... Pedranópolis                                  353690
+ 47 442  .... Pedregulho                                    353700
+ 47 443  .... Pedreira                                      353710
+ 47 444  .... Pedrinhas Paulista                            353715
+ 47 445  .... Pedro de Toledo                               353720
+ 47 446  .... Penápolis                                     353730
+ 47 447  .... Pereira Barreto                               353740
+ 47 448  .... Pereiras                                      353750
+ 47 449  .... Peruíbe                                       353760
+ 47 450  .... Piacatu                                       353770
+ 47 451  .... Piedade                                       353780
+ 47 452  .... Pilar do Sul                                  353790
+ 47 453  .... Pindamonhangaba                               353800
+ 47 454  .... Pindorama                                     353810
+ 47 455  .... Pinhalzinho                                   353820
+ 47 456  .... Piquerobi                                     353830
+ 47 457  .... Piquete                                       353850
+ 47 458  .... Piracaia                                      353860
+ 47 459  .... Piracicaba                                    353870
+ 47 460  .... Piraju                                        353880
+ 47 461  .... Pirajuí                                       353890
+ 47 462  .... Pirangi                                       353900
+ 47 463  .... Pirapozinho                                   353920
+ 47 464  .... Pirassununga                                  353930
+ 47 465  .... Piratininga                                   353940
+ 47 466  .... Pitangueiras                                  353950
+ 47 467  .... Planalto                                      353960
+ 47 468  .... Platina                                       353970
+ 47 469  .... Poloni                                        353990
+ 47 470  .... Pompéia                                       354000
+ 47 471  .... Pongaí                                        354010
+ 47 472  .... Pontal                                        354020
+ 47 473  .... Pontalinda                                    354025
+ 47 474  .... Pontes Gestal                                 354030
+ 47 475  .... Populina                                      354040
+ 47 476  .... Porangaba                                     354050
+ 47 477  .... Porto Feliz                                   354060
+ 47 478  .... Porto Ferreira                                354070
+ 47 479  .... Potim                                         354075
+ 47 480  .... Potirendaba                                   354080
+ 47 481  .... Pracinha                                      354085
+ 47 482  .... Pradópolis                                    354090
+ 47 483  .... Praia Grande                                  354100
+ 47 484  .... Pratânia                                      354105
+ 47 485  .... Presidente Alves                              354110
+ 47 486  .... Presidente Bernardes                          354120
+ 47 487  .... Presidente Epitácio                           354130
+ 47 488  .... Presidente Prudente                           354140
+ 47 489  .... Presidente Venceslau                          354150
+ 47 490  .... Promissão                                     354160
+ 47 491  .... Quadra                                        354165
+ 47 492  .... Quatá                                         354170
+ 47 493  .... Queiroz                                       354180
+ 47 494  .... Queluz                                        354190
+ 47 495  .... Quintana                                      354200
+ 47 496  .... Rafard                                        354210
+ 47 497  .... Rancharia                                     354220
+ 47 498  .... Redenção da Serra                             354230
+ 47 499  .... Regente Feijó                                 354240
+ 47 500  .... Reginópolis                                   354250
+ 47 501  .... Registro                                      354260
+ 47 502  .... Restinga                                      354270
+ 47 503  .... Ribeira                                       354280
+ 47 504  .... Ribeirão Bonito                               354290
+ 47 505  .... Ribeirão Branco                               354300
+ 47 506  .... Ribeirão Corrente                             354310
+ 47 507  .... Ribeirão do Sul                               354320
+ 47 508  .... Ribeirão dos Índios                           354323
+ 47 509  .... Ribeirão Grande                               354325
+ 47 510  .... Ribeirão Preto                                354340
+ 47 511  .... Rifaina                                       354360
+ 47 512  .... Rincão                                        354370
+ 47 513  .... Rinópolis                                     354380
+ 47 514  .... Rio Claro                                     354390
+ 47 515  .... Rio das Pedras                                354400
+ 47 516  .... Riolândia                                     354420
+ 47 517  .... Riversul                                      354350
+ 47 518  .... Rosana                                        354425
+ 47 519  .... Roseira                                       354430
+ 47 520  .... Rubiácea                                      354440
+ 47 521  .... Rubinéia                                      354450
+ 47 522  .... Sabino                                        354460
+ 47 523  .... Sagres                                        354470
+ 47 524  .... Sales                                         354480
+ 47 525  .... Sales Oliveira                                354490
+ 47 526  .... Salmourão                                     354510
+ 47 527  .... Saltinho                                      354515
+ 47 528  .... Salto                                         354520
+ 47 529  .... Salto de Pirapora                             354530
+ 47 530  .... Salto Grande                                  354540
+ 47 531  .... Sandovalina                                   354550
+ 47 532  .... Santa Adélia                                  354560
+ 47 533  .... Santa Albertina                               354570
+ 47 534  .... Santa Bárbara d'Oeste                         354580
+ 47 535  .... Santa Branca                                  354600
+ 47 536  .... Santa Clara d'Oeste                           354610
+ 47 537  .... Santa Cruz da Conceição                       354620
+ 47 538  .... Santa Cruz da Esperança                       354625
+ 47 539  .... Santa Cruz das Palmeiras                      354630
+ 47 540  .... Santa Cruz do Rio Pardo                       354640
+ 47 541  .... Santa Ernestina                               354650
+ 47 542  .... Santa Fé do Sul                               354660
+ 47 543  .... Santa Gertrudes                               354670
+ 47 544  .... Santa Lúcia                                   354690
+ 47 545  .... Santa Maria da Serra                          354700
+ 47 546  .... Santa Mercedes                                354710
+ 47 547  .... Santa Rita d'Oeste                            354740
+ 47 548  .... Santa Rita do Passa Quatro                    354750
+ 47 549  .... Santa Rosa de Viterbo                         354760
+ 47 550  .... Santa Salete                                  354765
+ 47 551  .... Santana da Ponte Pensa                        354720
+ 47 552  .... Santo Anastácio                               354770
+ 47 553  .... Santo Antônio da Alegria                      354790
+ 47 554  .... Santo Antônio de Posse                        354800
+ 47 555  .... Santo Antônio do Aracanguá                    354805
+ 47 556  .... Santo Antônio do Jardim                       354810
+ 47 557  .... Santo Antônio do Pinhal                       354820
+ 47 558  .... Santo Expedito                                354830
+ 47 559  .... Santópolis do Aguapeí                         354840
+ 47 560  .... Santos                                        354850
+ 47 561  .... São Bento do Sapucaí                          354860
+ 47 562  .... São Carlos                                    354890
+ 47 563  .... São Francisco                                 354900
+ 47 564  .... São João da Boa Vista                         354910
+ 47 565  .... São João das Duas Pontes                      354920
+ 47 566  .... São João de Iracema                           354925
+ 47 567  .... São João do Pau d'Alho                        354930
+ 47 568  .... São Joaquim da Barra                          354940
+ 47 569  .... São José da Bela Vista                        354950
+ 47 570  .... São José do Barreiro                          354960
+ 47 571  .... São José do Rio Pardo                         354970
+ 47 572  .... São José do Rio Preto                         354980
+ 47 573  .... São José dos Campos                           354990
+ 47 574  .... São Luís do Paraitinga                        355000
+ 47 575  .... São Manuel                                    355010
+ 47 576  .... São Miguel Arcanjo                            355020
+ 47 577  .... São Pedro                                     355040
+ 47 578  .... São Pedro do Turvo                            355050
+ 47 579  .... São Roque                                     355060
+ 47 580  .... São Sebastião                                 355070
+ 47 581  .... São Sebastião da Grama                        355080
+ 47 582  .... São Simão                                     355090
+ 47 583  .... São Vicente                                   355100
+ 47 584  .... Sarapuí                                       355110
+ 47 585  .... Sarutaiá                                      355120
+ 47 586  .... Sebastianópolis do Sul                        355130
+ 47 587  .... Serra Azul                                    355140
+ 47 588  .... Serra Negra                                   355160
+ 47 589  .... Serrana                                       355150
+ 47 590  .... Sertãozinho                                   355170
+ 47 591  .... Sete Barras                                   355180
+ 47 592  .... Severínia                                     355190
+ 47 593  .... Silveiras                                     355200
+ 47 594  .... Socorro                                       355210
+ 47 595  .... Sorocaba                                      355220
+ 47 596  .... Sud Mennucci                                  355230
+ 47 597  .... Sumaré                                        355240
+ 47 598  .... Suzanápolis                                   355255
+ 47 599  .... Tabapuã                                       355260
+ 47 600  .... Tabatinga                                     355270
+ 47 601  .... Taciba                                        355290
+ 47 602  .... Taguaí                                        355300
+ 47 603  .... Taiaçu                                        355310
+ 47 604  .... Taiúva                                        355320
+ 47 605  .... Tambaú                                        355330
+ 47 606  .... Tanabi                                        355340
+ 47 607  .... Tapiraí                                       355350
+ 47 608  .... Tapiratiba                                    355360
+ 47 609  .... Taquaral                                      355365
+ 47 610  .... Taquaritinga                                  355370
+ 47 611  .... Taquarituba                                   355380
+ 47 612  .... Taquarivaí                                    355385
+ 47 613  .... Tarabai                                       355390
+ 47 614  .... Tarumã                                        355395
+ 47 615  .... Tatuí                                         355400
+ 47 616  .... Taubaté                                       355410
+ 47 617  .... Tejupá                                        355420
+ 47 618  .... Teodoro Sampaio                               355430
+ 47 619  .... Terra Roxa                                    355440
+ 47 620  .... Tietê                                         355450
+ 47 621  .... Timburi                                       355460
+ 47 622  .... Torre de Pedra                                355465
+ 47 623  .... Torrinha                                      355470
+ 47 624  .... Trabiju                                       355475
+ 47 625  .... Tremembé                                      355480
+ 47 626  .... Três Fronteiras                               355490
+ 47 627  .... Tuiuti                                        355495
+ 47 628  .... Tupã                                          355500
+ 47 629  .... Tupi Paulista                                 355510
+ 47 630  .... Turiúba                                       355520
+ 47 631  .... Turmalina                                     355530
+ 47 632  .... Ubarana                                       355535
+ 47 633  .... Ubatuba                                       355540
+ 47 634  .... Ubirajara                                     355550
+ 47 635  .... Uchoa                                         355560
+ 47 636  .... União Paulista                                355570
+ 47 637  .... Urânia                                        355580
+ 47 638  .... Uru                                           355590
+ 47 639  .... Urupês                                        355600
+ 47 640  .... Valentim Gentil                               355610
+ 47 641  .... Valinhos                                      355620
+ 47 642  .... Valparaíso                                    355630
+ 47 643  .... Vargem                                        355635
+ 47 644  .... Vargem Grande do Sul                          355640
+ 47 645  .... Várzea Paulista                               355650
+ 47 646  .... Vera Cruz                                     355660
+ 47 647  .... Vinhedo                                       355670
+ 47 648  .... Viradouro                                     355680
+ 47 649  .... Vista Alegre do Alto                          355690
+ 47 650  .... Vitória Brasil                                355695
+ 47 651  .... Votorantim                                    355700
+ 47 652  .... Votuporanga                                   355710
+ 47 653  .... Zacarias                                      355715
+    654  3500 Município ignorado - SP                       350000,359999
+
