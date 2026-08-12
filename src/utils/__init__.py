@@ -1,3 +1,3 @@
 from .download_data_from_datasus import download_data, download_dicionarios
-from .converter_dbc_para_csv import converter_dbc_para_csv_lote
+from .converter_dbc_para_csv import converter_dbc_para_csv, converter_dbc_para_csv_lote
 from .information_translation import mapear_colunas_def, carregar_dicionario_cnv, traduzir_csv_datasus
