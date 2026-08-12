@@ -1,5 +1,30 @@
 pyreaddbc==1.2.0
-dbfread==2.0.7
 datasus-dbc==0.1.3
+
+# Manipulação de dados
 numpy==2.4.4
 pandas==3.0.2
+
+# Visualização
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# Análise de Sobrevivência
+lifelines
+
+# Interpretabilidade
+shap
+
+# Notebooks
+jupyter
+nbconvert
+
+# Qualidade de código
+black
+flake8
