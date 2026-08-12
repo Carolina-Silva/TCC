@@ -1,5 +1,5 @@
-N 93 6 L
-       93  Não discriminado/Não se aplica                                                                       000000-999999,      ,
+N 101 6 L
+      101  Não discriminado/Não se aplica                                                                       000000-999999,      ,
         1  Atenção Básica (PAB)                                                                                 010000
         2  Assistência Farmacêutica                                                                             020000
         3  Coleta de material                                                                                   040001
@@ -81,14 +81,22 @@ N 93 6 L
        79  Exames Sorológicos e Imunológicos                                                                    040077
        80  QualiSUS Cardio                                                                                      040078
        81  Pré-cirúrgico em Cirurgias Prioritárias                                                              040079
-       82  Reduçäo das Filas de Procedimentos Eletivos.                                                         040080
+       82  Programa Agora Tem Especialistas -Componente Cirúrgico   (antigo Reduçäo das Filas)                  040080
        83  Síndrome Respiratória Aguda Grave - SRAG                                                             040081
        84  Alta Complexidade em Cardiologia                                                                     040082
        85  Cirurgia da Face e do Sistema Estomatognático                                                        040083
        86  Neurocirurgias                                                                                       040084
-       87  FAEC CNRAC (21012-cód ant à tab unif-vál p/2008-01)                                                  021012
-       88  FAEC Eletiv(21014-cód ant à tab unif-vál p/2008-01)                                                  021014
-       89  Incentivo - MAC                                                                                      050000
-       90  Média e Alta Complexidade (MAC)                                                                      060000
-       91  Vigilância em Saúde                                                                                  070000
-       92  Gestão do SUS                                                                                        080000
+       87  Exames coprológicos                                                                                  040085
+       88  Programa Agora Tem Especialistas -Componente Ambulatorial                                            040086
+       89  Saúde Bucal                                                                                          040087
+       90  Radioterapia                                                                                         040088
+       91  Recursos Vinculados a Parcela Única                                                                  040089
+       92  Recursos Vinculados a Emendas Parlamentares                                                          040090
+       93  Materno Infântil                                                                                     040091
+       94  Saúde da Mulher                                                                                      040092
+       95  FAEC CNRAC (21012-cód ant à tab unif-vál p/2008-01)                                                  021012
+       96  FAEC Eletiv(21014-cód ant à tab unif-vál p/2008-01)                                                  021014
+       97  Incentivo - MAC                                                                                      050000
+       98  Média e Alta Complexidade (MAC)                                                                      060000
+       99  Vigilância em Saúde                                                                                  070000
+      100  Gestão do SUS                                                                                        080000
