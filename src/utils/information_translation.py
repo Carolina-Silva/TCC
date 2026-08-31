@@ -80,11 +80,20 @@ def traduzir_csv_datasus(
     mapa_diretrizes: dict[str, str],
     pasta_cnv: str,
     caminho_salvar: str,
+    dicionario_renomeacao: dict = None,
 ) -> None:
-    df = pd.read_csv(caminho_csv)
+    df = pd.read_csv(caminho_csv, low_memory=False)
+    novas_colunas = {}
 
     for coluna_csv in df.columns:
         coluna_normalizada = coluna_csv.upper()
+
+        # Tratamento especial para datas (formatar para YYYY-MM-DD)
+        if 'DT_' in coluna_normalizada or 'DATA' in coluna_normalizada:
+            # Tenta tratar strings como '20180101' ou floats como '20180101.0'
+            valores_limpos = df[coluna_csv].astype(str).str.replace(r'\.0$', '', regex=True)
+            df[coluna_csv] = pd.to_datetime(valores_limpos, format='%Y%m%d', errors='coerce').dt.strftime('%Y-%m-%d').fillna(df[coluna_csv])
+            continue  # Pula a tradução de .CNV para colunas de data
 
         if coluna_normalizada in mapa_diretrizes:
             arquivo_cnv = mapa_diretrizes[coluna_normalizada]
@@ -101,17 +110,23 @@ def traduzir_csv_datasus(
                 )
 
             if os.path.exists(caminho_completo_cnv):
-                print(
-                    f"Traduzindo a coluna '{coluna_csv}' com o dicionário '{arquivo_cnv}'..."
-                )
                 dicionario_traducao = carregar_dicionario_cnv(
                     caminho_completo_cnv
                 )
 
-                df[coluna_csv] = df[coluna_csv].astype(str).str.strip()
-
+                # Mantemos a coluna original como string para garantir o mapeamento
+                df[coluna_csv] = df[coluna_csv].astype(str).str.replace(r'\.0$', '', regex=True).str.strip()
+                
+                # Adiciona a nova coluna _DESC ao dicionário de novas colunas
                 nova_coluna_desc = f"{coluna_csv}_DESC"
-                df[nova_coluna_desc] = df[coluna_csv].map(dicionario_traducao)
+                novas_colunas[nova_coluna_desc] = df[coluna_csv].map(dicionario_traducao)
+
+    # Concatena todas as novas colunas de uma vez para evitar DataFrame Fragmentation Warning
+    if novas_colunas:
+        df = pd.concat([df, pd.DataFrame(novas_colunas)], axis=1)
+
+    if dicionario_renomeacao:
+        df = df.rename(columns=dicionario_renomeacao)
 
     df.to_csv(caminho_salvar, index=False)
     print(f"\nSucesso! O arquivo traduzido foi salvo em: {caminho_salvar}")
