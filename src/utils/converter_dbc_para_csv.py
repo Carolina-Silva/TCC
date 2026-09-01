@@ -3,7 +3,7 @@ import os
 import pandas as pd
 #import pyreaddbc
 from dbfread import DBF
-import datasus_dbc
+# import datasus_dbc - removido pois falha em ST pós 2020
 
 
 # def converter_dbc_para_csv(caminho_dbc: str, caminho_csv: str) -> None:
@@ -43,16 +43,19 @@ import datasus_dbc
 
 
 
+import pyreaddbc
+
 def converter_dbc_para_csv_win(caminho_dbc: str, caminho_csv: str) -> None:
     """
-    Converte um arquivo .dbc do DataSUS para .csv no Windows.
+    Converte um arquivo .dbc do DataSUS para .csv.
+    Atualizado para usar pyreaddbc, pois datasus_dbc falha em arquivos ST pós 2020.
     """
     # Arquivo .dbf temporário
     caminho_dbf = caminho_csv.replace(".csv", ".dbf")
 
     try:
-        # No Windows, usamos o datasus_dbc.decompress no lugar do dbc2dbf
-        datasus_dbc.decompress(caminho_dbc, caminho_dbf)
+        # Usa pyreaddbc que é mais robusto
+        pyreaddbc.dbc2dbf(caminho_dbc, caminho_dbf)
 
         # Leitura do DBF (mantendo sua lógica original)
         tabela = DBF(caminho_dbf, encoding="iso-8859-1")
@@ -62,7 +65,10 @@ def converter_dbc_para_csv_win(caminho_dbc: str, caminho_csv: str) -> None:
         df.to_csv(caminho_csv, index=False, encoding="utf-8")
 
     except Exception as e:
-        print(f"Erro na conversão: {e}")
+        print(f"Erro na conversão de {caminho_dbc}: {e}")
+        # Remove the target CSV if it was partially created or failed
+        if os.path.exists(caminho_csv):
+            os.remove(caminho_csv)
         
     finally:
         # Garante a limpeza do arquivo temporário

@@ -58,17 +58,30 @@ def carregar_dicionario_cnv(caminho_cnv: str) -> dict[str, str]:
         partes = linha.split()
 
         # Formato do arquivo .cnv (largura fixa do TabWin):
-        #   CÓDIGO  DESCRIÇÃO [PALAVRAS...]  CODIGO_TABWIN
-        # O primeiro token é o código; o último token é o código interno do
-        # TabWin (ex: "1", "D", "-Z") e deve ser descartado.
-        # Tudo que está no meio é a descrição legível.
+        #   ID_LINHA  DESCRIÇÃO [PALAVRAS...]  CODIGO_TABWIN
+        # O último token (CODIGO_TABWIN) é a verdadeira chave de tradução (ex: "1", "2,3", "0-9").
         if len(partes) >= 3:
-            codigo = partes[0].strip()
-            # Remove o último token (código TabWin) e junta o restante
+            codigo_tabwin = partes[-1].strip()
             descricao = " ".join(partes[1:-1]).strip()
-            de_para[codigo] = descricao
+            
+            # Divide chaves compostas por vírgula (ex: "2,3")
+            for c in codigo_tabwin.split(','):
+                c = c.strip()
+                # Expansão de intervalos numéricos simples (ex: "0-9")
+                if '-' in c and len(c.split('-')) == 2:
+                    start, end = c.split('-')
+                    if start.isdigit() and end.isdigit():
+                        for i in range(int(start), int(end) + 1):
+                            padded = str(i).zfill(len(start))
+                            de_para[padded] = descricao
+                            de_para[str(i)] = descricao  # Adiciona versão sem zeros à esquerda
+                else:
+                    de_para[c] = descricao
+                    if c.isdigit():
+                        de_para[str(int(c))] = descricao  # Adiciona versão sem zeros à esquerda
+                    
         elif len(partes) == 2:
-            # Linha sem código TabWin: código + descrição diretamente
+            # Linha simplificada (raro mas possível)
             codigo, descricao = partes
             de_para[codigo.strip()] = descricao.strip()
 
