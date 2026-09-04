@@ -44,7 +44,7 @@ def main():
     # Sequência exata de execução
     notebooks = [
         # "01a_data_collection.ipynb",  # Pulado para não demorar na validação dos downloads
-        # "01b_data_translation.ipynb", # Pulado pois a tradução já corrigiu a raça_cor e demora muito
+        "01b_data_translation.ipynb",
         "02_etl_ database_integration.ipynb",
         "03_merge_and_eda.ipynb",
         "04_analysis_exploration_visualization.ipynb",
